@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:log_bark_10"
+    },
+    {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    {
+      "item": "switchots_craft:log_bark_10"
+    }
+  ],
+  "result": {
+    "item": "minecraft:warped_stem",
+    "count": 1
+  }
+}

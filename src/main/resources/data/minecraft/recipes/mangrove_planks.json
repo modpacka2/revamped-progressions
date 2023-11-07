@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:plank_7"
+    },
+    {
+      "item": "switchots_craft:plank_7"
+    },
+    {
+      "item": "switchots_craft:plank_7"
+    },
+    {
+      "item": "switchots_craft:plank_7"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mangrove_planks",
+    "count": 1
+  }
+}

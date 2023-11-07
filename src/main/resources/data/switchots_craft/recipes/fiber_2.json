@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:bigfiber"
+    },
+    {
+      "item": "switchots_craft:bigfiber"
+    },
+    {
+      "item": "switchots_craft:bigfiber"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:fibesr_string",
+    "count": 1
+  }
+}

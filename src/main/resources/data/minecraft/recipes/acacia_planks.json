@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:plank_5"
+    },
+    {
+      "item": "switchots_craft:plank_5"
+    },
+    {
+      "item": "switchots_craft:plank_5"
+    },
+    {
+      "item": "switchots_craft:plank_5"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_planks",
+    "count": 1
+  }
+}

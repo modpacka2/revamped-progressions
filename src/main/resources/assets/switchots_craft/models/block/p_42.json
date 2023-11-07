@@ -1,0 +1,11 @@
+{
+  "parent": "switchots_craft:custom/p42",
+  "textures": {
+    "all": "switchots_craft:block/acacia_log",
+    "particle": "switchots_craft:block/acacia_log",
+    "0": "switchots_craft:block/acacia_log",
+    "1": "switchots_craft:block/acacia_log_top",
+    "2": "switchots_craft:block/spruce_planks"
+  },
+  "render_type": "cutout"
+}

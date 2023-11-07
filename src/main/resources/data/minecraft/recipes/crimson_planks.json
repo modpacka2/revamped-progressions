@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:plank_9"
+    },
+    {
+      "item": "switchots_craft:plank_9"
+    },
+    {
+      "item": "switchots_craft:plank_9"
+    },
+    {
+      "item": "switchots_craft:plank_9"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crimson_planks",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "switchots_craft:custom/l77",
+  "textures": {
+    "all": "switchots_craft:block/cherry_log",
+    "particle": "switchots_craft:block/cherry_log",
+    "1": "switchots_craft:block/cherry_log_top",
+    "3": "switchots_craft:block/mangrove_log",
+    "4": "switchots_craft:block/mangrove_log_top",
+    "5": "switchots_craft:block/cherry_log"
+  },
+  "render_type": "cutout"
+}

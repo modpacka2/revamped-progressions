@@ -1,0 +1,12 @@
+{
+  "parent": "switchots_craft:custom/l129",
+  "textures": {
+    "all": "switchots_craft:block/birch_log",
+    "particle": "switchots_craft:block/birch_log",
+    "1": "switchots_craft:block/birch_log_top",
+    "3": "switchots_craft:block/stripped_crimson_stem",
+    "4": "switchots_craft:block/stripped_crimson_stem_top",
+    "5": "switchots_craft:block/birch_log"
+  },
+  "render_type": "cutout"
+}

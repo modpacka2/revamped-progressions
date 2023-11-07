@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:bark"
+    },
+    "3": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "6": {
+      "item": "switchots_craft:sharp_rock"
+    },
+    "7": {
+      "item": "switchots_craft:sharp_rock"
+    },
+    "8": {
+      "item": "switchots_craft:sharp_rock"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:rock_saw",
+    "count": 1
+  }
+}

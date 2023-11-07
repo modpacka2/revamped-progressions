@@ -1,0 +1,11 @@
+{
+  "parent": "switchots_craft:custom/p85",
+  "textures": {
+    "all": "switchots_craft:block/crimson_stem",
+    "particle": "switchots_craft:block/crimson_stem",
+    "0": "switchots_craft:block/crimson_stem",
+    "1": "switchots_craft:block/crimson_stem_top",
+    "2": "switchots_craft:block/acacia_planks"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "minecraft:stripped_oak_log"
+    },
+    {
+      "item": "switchots_craft:log_bark"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:cutting_log",
+    "count": 2
+  }
+}

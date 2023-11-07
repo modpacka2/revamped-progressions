@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:log_bark_9"
+    },
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "item": "switchots_craft:log_bark_9"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crimson_stem",
+    "count": 1
+  }
+}

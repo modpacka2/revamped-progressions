@@ -1,0 +1,12 @@
+{
+  "parent": "switchots_craft:custom/l63",
+  "textures": {
+    "all": "switchots_craft:block/mangrove_log",
+    "particle": "switchots_craft:block/mangrove_log",
+    "1": "switchots_craft:block/mangrove_log_top",
+    "3": "switchots_craft:block/birch_log",
+    "4": "switchots_craft:block/birch_log_top",
+    "5": "switchots_craft:block/mangrove_log"
+  },
+  "render_type": "cutout"
+}

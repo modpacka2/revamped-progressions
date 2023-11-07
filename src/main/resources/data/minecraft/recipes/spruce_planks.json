@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:plank_2"
+    },
+    {
+      "item": "switchots_craft:plank_2"
+    },
+    {
+      "item": "switchots_craft:plank_2"
+    },
+    {
+      "item": "switchots_craft:plank_2"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spruce_planks",
+    "count": 1
+  }
+}

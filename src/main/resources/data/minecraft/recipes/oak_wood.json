@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:log_bark"
+    },
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "switchots_craft:log_bark"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_wood",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "item": "switchots_craft:log_bark_9"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:cl_9",
+    "count": 2
+  }
+}

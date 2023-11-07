@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "switchots_craft:rock"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:sharp_rock",
+    "count": 1
+  }
+}

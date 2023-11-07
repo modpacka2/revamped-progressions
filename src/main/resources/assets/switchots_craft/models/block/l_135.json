@@ -1,0 +1,12 @@
+{
+  "parent": "switchots_craft:custom/l135",
+  "textures": {
+    "all": "switchots_craft:block/jungle_log",
+    "particle": "switchots_craft:block/jungle_log",
+    "1": "switchots_craft:block/jungle_log_top",
+    "3": "switchots_craft:block/stripped_acacia_log",
+    "4": "switchots_craft:block/stripped_acacia_log_top",
+    "5": "switchots_craft:block/jungle_log"
+  },
+  "render_type": "cutout"
+}

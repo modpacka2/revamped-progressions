@@ -1,0 +1,12 @@
+{
+  "parent": "switchots_craft:custom/l98",
+  "textures": {
+    "all": "switchots_craft:block/warped_stem",
+    "particle": "switchots_craft:block/warped_stem",
+    "1": "switchots_craft:block/warped_stem_top",
+    "3": "switchots_craft:block/cherry_log",
+    "4": "switchots_craft:block/cherry_log_top",
+    "5": "switchots_craft:block/warped_stem"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:log_bark_5"
+    },
+    {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    {
+      "item": "switchots_craft:log_bark_5"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_log",
+    "count": 1
+  }
+}

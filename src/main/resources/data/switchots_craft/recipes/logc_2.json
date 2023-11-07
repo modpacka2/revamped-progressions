@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:log_bark_2"
+    },
+    {
+      "item": "minecraft:stripped_spruce_log"
+    },
+    {
+      "item": "switchots_craft:log_bark_2"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spruce_log",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:plank_8"
+    },
+    {
+      "item": "switchots_craft:plank_8"
+    },
+    {
+      "item": "switchots_craft:plank_8"
+    },
+    {
+      "item": "switchots_craft:plank_8"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cherry_planks",
+    "count": 1
+  }
+}

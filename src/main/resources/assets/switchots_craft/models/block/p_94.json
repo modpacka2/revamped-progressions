@@ -1,0 +1,11 @@
+{
+  "parent": "switchots_craft:custom/p94",
+  "textures": {
+    "all": "switchots_craft:block/warped_stem",
+    "particle": "switchots_craft:block/warped_stem",
+    "0": "switchots_craft:block/warped_stem",
+    "1": "switchots_craft:block/warped_stem_top",
+    "2": "switchots_craft:block/jungle_planks"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:log_bark_6"
+    },
+    {
+      "item": "minecraft:stripped_dark_oak_log"
+    },
+    {
+      "item": "switchots_craft:log_bark_6"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_oak_log",
+    "count": 1
+  }
+}

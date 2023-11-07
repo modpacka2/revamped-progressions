@@ -1,0 +1,10 @@
+{
+  "parent": "switchots_craft:custom/semilogground_-_crimson",
+  "textures": {
+    "all": "switchots_craft:block/crimson_stem_top",
+    "particle": "switchots_craft:block/crimson_stem_top",
+    "0": "switchots_craft:block/crimson_stem",
+    "1": "switchots_craft:block/crimson_stem_top"
+  },
+  "render_type": "cutout"
+}

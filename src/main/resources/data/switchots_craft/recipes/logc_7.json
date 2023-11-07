@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:log_bark_7"
+    },
+    {
+      "item": "minecraft:stripped_mangrove_log"
+    },
+    {
+      "item": "switchots_craft:log_bark_7"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mangrove_log",
+    "count": 1
+  }
+}
