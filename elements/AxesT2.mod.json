@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "Items.IRON_AXE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "axes_t_2",
+    "namespace": "forge"
+  }
+}

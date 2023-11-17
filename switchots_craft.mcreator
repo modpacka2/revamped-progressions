@@ -7091,3570 +7091,6 @@
       "path": "~/Basic to wooden tools"
     },
     {
-      "name": "Chopclick2",
-      "type": "procedure",
-      "sortid": 437,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_2",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick2Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick3",
-      "type": "procedure",
-      "sortid": 438,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_3",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick3Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick4",
-      "type": "procedure",
-      "sortid": 439,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_4",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick4Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick5",
-      "type": "procedure",
-      "sortid": 440,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_5",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick5Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick6",
-      "type": "procedure",
-      "sortid": 441,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_6",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick6Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick7",
-      "type": "procedure",
-      "sortid": 442,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_7",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick7Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick8",
-      "type": "procedure",
-      "sortid": 443,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_8",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick8Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclik9",
-      "type": "procedure",
-      "sortid": 444,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclik_9",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclik9Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick10",
-      "type": "procedure",
-      "sortid": 445,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_10",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick10Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick11",
-      "type": "procedure",
-      "sortid": 446,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_11",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick11Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick21",
-      "type": "procedure",
-      "sortid": 447,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_21",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick21Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick31",
-      "type": "procedure",
-      "sortid": 448,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_31",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick31Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick41",
-      "type": "procedure",
-      "sortid": 449,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_41",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick41Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick51",
-      "type": "procedure",
-      "sortid": 450,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_51",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick51Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick61",
-      "type": "procedure",
-      "sortid": 451,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_61",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick61Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick71",
-      "type": "procedure",
-      "sortid": 452,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_71",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick71Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick81",
-      "type": "procedure",
-      "sortid": 453,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_81",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick81Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick91",
-      "type": "procedure",
-      "sortid": 454,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_91",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick91Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick12",
-      "type": "procedure",
-      "sortid": 455,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_12",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick12Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick22",
-      "type": "procedure",
-      "sortid": 456,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_22",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick22Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick32",
-      "type": "procedure",
-      "sortid": 457,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_32",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick32Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick42",
-      "type": "procedure",
-      "sortid": 458,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_42",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick42Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick52",
-      "type": "procedure",
-      "sortid": 459,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_52",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick52Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick62",
-      "type": "procedure",
-      "sortid": 460,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_62",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick62Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick72",
-      "type": "procedure",
-      "sortid": 461,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_72",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick72Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick82",
-      "type": "procedure",
-      "sortid": 462,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_82",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick82Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick92",
-      "type": "procedure",
-      "sortid": 463,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_92",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick92Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick13",
-      "type": "procedure",
-      "sortid": 464,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_13",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick13Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick23",
-      "type": "procedure",
-      "sortid": 465,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_23",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick23Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick33",
-      "type": "procedure",
-      "sortid": 466,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_33",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick33Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick43",
-      "type": "procedure",
-      "sortid": 467,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_43",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick43Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick53",
-      "type": "procedure",
-      "sortid": 468,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_53",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick53Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick63",
-      "type": "procedure",
-      "sortid": 469,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_63",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick63Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick73",
-      "type": "procedure",
-      "sortid": 470,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_73",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick73Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick83",
-      "type": "procedure",
-      "sortid": 471,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_83",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick83Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick93",
-      "type": "procedure",
-      "sortid": 472,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_93",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick93Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick14",
-      "type": "procedure",
-      "sortid": 473,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_14",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick14Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick24",
-      "type": "procedure",
-      "sortid": 474,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_24",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick24Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick34",
-      "type": "procedure",
-      "sortid": 475,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_34",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick34Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick44",
-      "type": "procedure",
-      "sortid": 476,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_44",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick44Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick54",
-      "type": "procedure",
-      "sortid": 477,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_54",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick54Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick64",
-      "type": "procedure",
-      "sortid": 478,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_64",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick64Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick74",
-      "type": "procedure",
-      "sortid": 479,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_74",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick74Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Choclick84",
-      "type": "procedure",
-      "sortid": 480,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "choclick_84",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Choclick84Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick94",
-      "type": "procedure",
-      "sortid": 481,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_94",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick94Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick15",
-      "type": "procedure",
-      "sortid": 482,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_15",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick15Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick25",
-      "type": "procedure",
-      "sortid": 483,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_25",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick25Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick35",
-      "type": "procedure",
-      "sortid": 484,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_35",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick35Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick45",
-      "type": "procedure",
-      "sortid": 485,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_45",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick45Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick55",
-      "type": "procedure",
-      "sortid": 486,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_55",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick55Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick65",
-      "type": "procedure",
-      "sortid": 487,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_65",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick65Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick75",
-      "type": "procedure",
-      "sortid": 488,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_75",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick75Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick85",
-      "type": "procedure",
-      "sortid": 489,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_85",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick85Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick95",
-      "type": "procedure",
-      "sortid": 490,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_95",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick95Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick16",
-      "type": "procedure",
-      "sortid": 491,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_16",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick16Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick26",
-      "type": "procedure",
-      "sortid": 492,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_26",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick26Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick36",
-      "type": "procedure",
-      "sortid": 493,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_36",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick36Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick46",
-      "type": "procedure",
-      "sortid": 494,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_46",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick46Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick56",
-      "type": "procedure",
-      "sortid": 495,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_56",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick56Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick66",
-      "type": "procedure",
-      "sortid": 496,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_66",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick66Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick76",
-      "type": "procedure",
-      "sortid": 497,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_76",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick76Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick86",
-      "type": "procedure",
-      "sortid": 498,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_86",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick86Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick96",
-      "type": "procedure",
-      "sortid": 499,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_96",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick96Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick17",
-      "type": "procedure",
-      "sortid": 500,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_17",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick17Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick27",
-      "type": "procedure",
-      "sortid": 501,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_27",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick27Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick37",
-      "type": "procedure",
-      "sortid": 502,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_37",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick37Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick47",
-      "type": "procedure",
-      "sortid": 503,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_47",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick47Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick57",
-      "type": "procedure",
-      "sortid": 504,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_57",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick57Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick67",
-      "type": "procedure",
-      "sortid": 505,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_67",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick67Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick77",
-      "type": "procedure",
-      "sortid": 506,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_77",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick77Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick87",
-      "type": "procedure",
-      "sortid": 507,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_87",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick87Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick97",
-      "type": "procedure",
-      "sortid": 508,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_97",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick97Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick18",
-      "type": "procedure",
-      "sortid": 509,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_18",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick18Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick28",
-      "type": "procedure",
-      "sortid": 510,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_28",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick28Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick38",
-      "type": "procedure",
-      "sortid": 511,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_38",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick38Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick48",
-      "type": "procedure",
-      "sortid": 512,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_48",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick48Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick58",
-      "type": "procedure",
-      "sortid": 513,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_58",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick58Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick68",
-      "type": "procedure",
-      "sortid": 514,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_68",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick68Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick78",
-      "type": "procedure",
-      "sortid": 515,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_78",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick78Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick88",
-      "type": "procedure",
-      "sortid": 516,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_88",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick88Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick98",
-      "type": "procedure",
-      "sortid": 517,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_98",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick98Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick19",
-      "type": "procedure",
-      "sortid": 518,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_19",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick19Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick29",
-      "type": "procedure",
-      "sortid": 519,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_29",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick29Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick39",
-      "type": "procedure",
-      "sortid": 520,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_39",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick39Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick49",
-      "type": "procedure",
-      "sortid": 521,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_49",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick49Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick59",
-      "type": "procedure",
-      "sortid": 522,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_59",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick59Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick69",
-      "type": "procedure",
-      "sortid": 523,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_69",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick69Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick79",
-      "type": "procedure",
-      "sortid": 524,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_79",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick79Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick89",
-      "type": "procedure",
-      "sortid": 525,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_89",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick89Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick99",
-      "type": "procedure",
-      "sortid": 526,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_99",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick99Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick20",
-      "type": "procedure",
-      "sortid": 527,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_20",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick20Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick30",
-      "type": "procedure",
-      "sortid": 528,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_30",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick30Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick40",
-      "type": "procedure",
-      "sortid": 529,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_40",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick40Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick50",
-      "type": "procedure",
-      "sortid": 530,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_50",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick50Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick60",
-      "type": "procedure",
-      "sortid": 531,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_60",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick60Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick70",
-      "type": "procedure",
-      "sortid": 532,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_70",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick70Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick80",
-      "type": "procedure",
-      "sortid": 533,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_80",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick80Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick90",
-      "type": "procedure",
-      "sortid": 534,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_90",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick90Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
-      "name": "Chopclick100",
-      "type": "procedure",
-      "sortid": 535,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chopclick_100",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick100Procedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
       "name": "Plankc1",
       "type": "recipe",
       "sortid": 536,
@@ -11084,6 +7520,3609 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/switchotscraft/procedures/StickdropProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "AxesT1",
+      "type": "tag",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axes_t_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/axes_t_1.json"
+        ]
+      }
+    },
+    {
+      "name": "AxesT2",
+      "type": "tag",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axes_t_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/axes_t_2.json"
+        ]
+      }
+    },
+    {
+      "name": "AxesT3",
+      "type": "tag",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axes_t_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/axes_t_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Chopclick2",
+      "type": "procedure",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick3",
+      "type": "procedure",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick3Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick4",
+      "type": "procedure",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick4Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick5",
+      "type": "procedure",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick5Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick6",
+      "type": "procedure",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick6Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick7",
+      "type": "procedure",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick7Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick8",
+      "type": "procedure",
+      "sortid": 576,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick8Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick9",
+      "type": "procedure",
+      "sortid": 577,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick9Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick10",
+      "type": "procedure",
+      "sortid": 578,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick10Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick11",
+      "type": "procedure",
+      "sortid": 579,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick11Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick21",
+      "type": "procedure",
+      "sortid": 580,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_21",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick21Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick31",
+      "type": "procedure",
+      "sortid": 581,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_31",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick31Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick41",
+      "type": "procedure",
+      "sortid": 582,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_41",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick41Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick51",
+      "type": "procedure",
+      "sortid": 583,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_51",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick51Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick61",
+      "type": "procedure",
+      "sortid": 584,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_61",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick61Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick71",
+      "type": "procedure",
+      "sortid": 585,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_71",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick71Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick81",
+      "type": "procedure",
+      "sortid": 586,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_81",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick81Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick91",
+      "type": "procedure",
+      "sortid": 587,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_91",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick91Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick12",
+      "type": "procedure",
+      "sortid": 588,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_12",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick12Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick22",
+      "type": "procedure",
+      "sortid": 589,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_22",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick22Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick32",
+      "type": "procedure",
+      "sortid": 590,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_32",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick32Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick42",
+      "type": "procedure",
+      "sortid": 591,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_42",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick42Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick52",
+      "type": "procedure",
+      "sortid": 592,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_52",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick52Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick62",
+      "type": "procedure",
+      "sortid": 593,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_62",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick62Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick72",
+      "type": "procedure",
+      "sortid": 594,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_72",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick72Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick82",
+      "type": "procedure",
+      "sortid": 595,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_82",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick82Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick92",
+      "type": "procedure",
+      "sortid": 596,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_92",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick92Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick13",
+      "type": "procedure",
+      "sortid": 597,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_13",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick13Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick23",
+      "type": "procedure",
+      "sortid": 598,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_23",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick23Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick33",
+      "type": "procedure",
+      "sortid": 599,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_33",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick33Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick43",
+      "type": "procedure",
+      "sortid": 600,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_43",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick43Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick53",
+      "type": "procedure",
+      "sortid": 601,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_53",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick53Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick63",
+      "type": "procedure",
+      "sortid": 602,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_63",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick63Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick73",
+      "type": "procedure",
+      "sortid": 603,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_73",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick73Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick83",
+      "type": "procedure",
+      "sortid": 604,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_83",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick83Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick93",
+      "type": "procedure",
+      "sortid": 605,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_93",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick93Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick14",
+      "type": "procedure",
+      "sortid": 606,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_14",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick14Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick24",
+      "type": "procedure",
+      "sortid": 607,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_24",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick24Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick34",
+      "type": "procedure",
+      "sortid": 608,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_34",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick34Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick44",
+      "type": "procedure",
+      "sortid": 609,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_44",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick44Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick54",
+      "type": "procedure",
+      "sortid": 610,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_54",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick54Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick64",
+      "type": "procedure",
+      "sortid": 611,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_64",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick64Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick74",
+      "type": "procedure",
+      "sortid": 612,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_74",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick74Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick84",
+      "type": "procedure",
+      "sortid": 613,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_84",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick84Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick94",
+      "type": "procedure",
+      "sortid": 614,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_94",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick94Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick15",
+      "type": "procedure",
+      "sortid": 615,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_15",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick15Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick25",
+      "type": "procedure",
+      "sortid": 616,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_25",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick25Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick35",
+      "type": "procedure",
+      "sortid": 617,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_35",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick35Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick45",
+      "type": "procedure",
+      "sortid": 618,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_45",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick45Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick55",
+      "type": "procedure",
+      "sortid": 619,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_55",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick55Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick65",
+      "type": "procedure",
+      "sortid": 620,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_65",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick65Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick75",
+      "type": "procedure",
+      "sortid": 621,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_75",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick75Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick85",
+      "type": "procedure",
+      "sortid": 622,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_85",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick85Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick95",
+      "type": "procedure",
+      "sortid": 623,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_95",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick95Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick16",
+      "type": "procedure",
+      "sortid": 624,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_16",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick16Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick26",
+      "type": "procedure",
+      "sortid": 625,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_26",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick26Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick36",
+      "type": "procedure",
+      "sortid": 626,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_36",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick36Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick46",
+      "type": "procedure",
+      "sortid": 627,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_46",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick46Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick56",
+      "type": "procedure",
+      "sortid": 628,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_56",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick56Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick66",
+      "type": "procedure",
+      "sortid": 629,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_66",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick66Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick76",
+      "type": "procedure",
+      "sortid": 630,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_76",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick76Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick86",
+      "type": "procedure",
+      "sortid": 631,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_86",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick86Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick96",
+      "type": "procedure",
+      "sortid": 632,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_96",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick96Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick17",
+      "type": "procedure",
+      "sortid": 633,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_17",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick17Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick27",
+      "type": "procedure",
+      "sortid": 634,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_27",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick27Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick37",
+      "type": "procedure",
+      "sortid": 635,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_37",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick37Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick47",
+      "type": "procedure",
+      "sortid": 636,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_47",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick47Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick57",
+      "type": "procedure",
+      "sortid": 637,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_57",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick57Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick67",
+      "type": "procedure",
+      "sortid": 638,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_67",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick67Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick77",
+      "type": "procedure",
+      "sortid": 639,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_77",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick77Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick87",
+      "type": "procedure",
+      "sortid": 640,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_87",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick87Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick97",
+      "type": "procedure",
+      "sortid": 641,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_97",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick97Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick18",
+      "type": "procedure",
+      "sortid": 642,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_18",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick18Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick28",
+      "type": "procedure",
+      "sortid": 643,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_28",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick28Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick38",
+      "type": "procedure",
+      "sortid": 644,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_38",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick38Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick48",
+      "type": "procedure",
+      "sortid": 645,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_48",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick48Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick58",
+      "type": "procedure",
+      "sortid": 646,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_58",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick58Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick68",
+      "type": "procedure",
+      "sortid": 647,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_68",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick68Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick78",
+      "type": "procedure",
+      "sortid": 648,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_78",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick78Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick88",
+      "type": "procedure",
+      "sortid": 649,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_88",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick88Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick98",
+      "type": "procedure",
+      "sortid": 650,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_98",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick98Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick19",
+      "type": "procedure",
+      "sortid": 651,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_19",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick19Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick29",
+      "type": "procedure",
+      "sortid": 652,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_29",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick29Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick39",
+      "type": "procedure",
+      "sortid": 653,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_39",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick39Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick49",
+      "type": "procedure",
+      "sortid": 654,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_49",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick49Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick59",
+      "type": "procedure",
+      "sortid": 655,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_59",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick59Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick69",
+      "type": "procedure",
+      "sortid": 656,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_69",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick69Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick79",
+      "type": "procedure",
+      "sortid": 657,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_79",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick79Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick89",
+      "type": "procedure",
+      "sortid": 658,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_89",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick89Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick99",
+      "type": "procedure",
+      "sortid": 659,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_99",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick99Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick20",
+      "type": "procedure",
+      "sortid": 660,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_20",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick20Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick30",
+      "type": "procedure",
+      "sortid": 661,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_30",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick30Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick40",
+      "type": "procedure",
+      "sortid": 662,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_40",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick40Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick50",
+      "type": "procedure",
+      "sortid": 663,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_50",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick50Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick60",
+      "type": "procedure",
+      "sortid": 664,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_60",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick60Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick70",
+      "type": "procedure",
+      "sortid": 665,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_70",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick70Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick80",
+      "type": "procedure",
+      "sortid": 666,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_80",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick80Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick90",
+      "type": "procedure",
+      "sortid": 667,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_90",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick90Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Chopclick100",
+      "type": "procedure",
+      "sortid": 668,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopclick_100",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/Chopclick100Procedure.java"
         ],
         "dependencies": [
           {
