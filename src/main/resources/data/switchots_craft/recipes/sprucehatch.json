@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:fibesr_string"
+    },
+    {
+      "item": "switchots_craft:rock"
+    },
+    {
+      "item": "switchots_craft:spruce_stick"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:sprucehatchet",
+    "count": 1
+  }
+}

@@ -17,7 +17,7 @@ import net.mcreator.switchotscraft.SwitchotsCraftMod;
 public class SwitchotsCraftModTabs {
 	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, SwitchotsCraftMod.MODID);
 	public static final RegistryObject<CreativeModeTab> CREATIVE_TABLE = REGISTRY.register("creative_table",
-			() -> CreativeModeTab.builder().title(Component.translatable("item_group.switchots_craft.creative_table")).icon(() -> new ItemStack(SwitchotsCraftModItems.ROCK_SAW.get())).displayItems((parameters, tabData) -> {
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.switchots_craft.creative_table")).icon(() -> new ItemStack(SwitchotsCraftModItems.OAKROCKSAW.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(SwitchotsCraftModItems.LOG_BARK.get());
 				tabData.accept(SwitchotsCraftModItems.ROCK.get());
 				tabData.accept(SwitchotsCraftModItems.LOG_BARK_2.get());
@@ -33,7 +33,6 @@ public class SwitchotsCraftModTabs {
 				tabData.accept(SwitchotsCraftModItems.BIGFIBER.get());
 				tabData.accept(SwitchotsCraftModItems.FIBESR_STRING.get());
 				tabData.accept(SwitchotsCraftModItems.SHARP_ROCK.get());
-				tabData.accept(SwitchotsCraftModItems.ROCK_SAW.get());
 				tabData.accept(SwitchotsCraftModItems.BASIC_AXE.get());
 				tabData.accept(SwitchotsCraftModBlocks.CUTTING_LOG.get().asItem());
 				tabData.accept(SwitchotsCraftModItems.PLANK_1.get());
@@ -55,5 +54,38 @@ public class SwitchotsCraftModTabs {
 				tabData.accept(SwitchotsCraftModBlocks.CL_8.get().asItem());
 				tabData.accept(SwitchotsCraftModBlocks.CL_9.get().asItem());
 				tabData.accept(SwitchotsCraftModBlocks.CL_10.get().asItem());
+				tabData.accept(SwitchotsCraftModItems.OAKSTICK.get());
+				tabData.accept(SwitchotsCraftModItems.SPRUCE_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.BIRCH_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.JUNGLE_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.ACACIA_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.DARK_OAK_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.MANGROVE_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.CHERRY_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.CRIMSON_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.WARPED_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.BAMBOO_STICK.get());
+				tabData.accept(SwitchotsCraftModItems.OAKROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.SPRUCEROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.BIRCHROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.JUNGLEROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.ACACIAROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.DARKOAKROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.MANGROVEROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.CHERRYROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.CRIMSONROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.WARPEDROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.BAMBOOROCKSAW.get());
+				tabData.accept(SwitchotsCraftModItems.OAKHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.SPRUCEHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.BIRCHHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.JUNGLEHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.ACACIAHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.DARK_OAKHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.MANGROVEHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.CHERRYHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.CRIMSONHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.WARPEDHATCHET.get());
+				tabData.accept(SwitchotsCraftModItems.BAMBOOHATCHET.get());
 			}).withSearchBar().build());
 }

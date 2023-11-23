@@ -715,21 +715,6 @@
       "path": "~/Basic to wooden tools"
     },
     {
-      "name": "RockSaw",
-      "type": "tool",
-      "sortid": 49,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rock_saw",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/switchots_craft/models/item/rock_saw.json",
-          "src/main/java/net/mcreator/switchotscraft/item/RockSawItem.java"
-        ]
-      },
-      "path": "~/Basic to wooden tools"
-    },
-    {
       "name": "UseSaw",
       "type": "procedure",
       "sortid": 50,
@@ -11148,17 +11133,993 @@
         ]
       },
       "path": "~/Basic to wooden tools"
+    },
+    {
+      "name": "Oakstick",
+      "type": "item",
+      "sortid": 669,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakstick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/OakstickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/oakstick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "SruceStick",
+      "type": "item",
+      "sortid": 670,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/SruceStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/spruce_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "BirchStick",
+      "type": "item",
+      "sortid": 671,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BirchStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/birch_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "JungleStick",
+      "type": "item",
+      "sortid": 672,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/JungleStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungle_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "AcaciaStick",
+      "type": "item",
+      "sortid": 673,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/AcaciaStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/acacia_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "DarkOakStick",
+      "type": "item",
+      "sortid": 674,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_stick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/dark_oak_stick.json",
+          "src/main/java/net/mcreator/switchotscraft/item/DarkOakStickItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "MangroveStick",
+      "type": "item",
+      "sortid": 675,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/MangroveStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/mangrove_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "CherryStick",
+      "type": "item",
+      "sortid": 676,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_stick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/cherry_stick.json",
+          "src/main/java/net/mcreator/switchotscraft/item/CherryStickItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "CrimsonStick",
+      "type": "item",
+      "sortid": 677,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CrimsonStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimson_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "WarpedStick",
+      "type": "item",
+      "sortid": 678,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/WarpedStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/warped_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "BambooStick",
+      "type": "item",
+      "sortid": 679,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BambooStickItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/bamboo_stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Sprucestickr",
+      "type": "recipe",
+      "sortid": 681,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucestickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/sprucestickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Birchstickr",
+      "type": "recipe",
+      "sortid": 682,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchstickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birchstickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Junglestickr",
+      "type": "recipe",
+      "sortid": 683,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglestickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/junglestickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Acaciastickr",
+      "type": "recipe",
+      "sortid": 684,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciastickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/acaciastickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Darkoakstickr",
+      "type": "recipe",
+      "sortid": 685,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakstickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/darkoakstickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Mangrovestickr",
+      "type": "recipe",
+      "sortid": 686,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrovestickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/mangrovestickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Cherrystickr",
+      "type": "recipe",
+      "sortid": 687,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherrystickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherrystickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Crimsonstickr",
+      "type": "recipe",
+      "sortid": 688,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimsonstickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Warpedstickr",
+      "type": "recipe",
+      "sortid": 689,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedstickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warpedstickr.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Bamboostickr",
+      "type": "recipe",
+      "sortid": 692,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboostickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/stick_from_bamboo_item.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Oakstickr",
+      "type": "recipe",
+      "sortid": 693,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakstickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/stick.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Oakrocksaw",
+      "type": "tool",
+      "sortid": 694,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakrocksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakrocksaw.json",
+          "src/main/java/net/mcreator/switchotscraft/item/OakrocksawItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Saw",
+      "type": "tag",
+      "sortid": 695,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/saw.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprucerocksaw",
+      "type": "tool",
+      "sortid": 696,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucerocksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/sprucerocksaw.json",
+          "src/main/java/net/mcreator/switchotscraft/item/SprucerocksawItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Birchrocksaw",
+      "type": "tool",
+      "sortid": 697,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchrocksaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BirchrocksawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchrocksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Junglerocksaw",
+      "type": "tool",
+      "sortid": 698,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglerocksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/junglerocksaw.json",
+          "src/main/java/net/mcreator/switchotscraft/item/JunglerocksawItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Acaciarocksaw",
+      "type": "tool",
+      "sortid": 699,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciarocksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/acaciarocksaw.json",
+          "src/main/java/net/mcreator/switchotscraft/item/AcaciarocksawItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Darkoakrocksaw",
+      "type": "tool",
+      "sortid": 700,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakrocksaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/DarkoakrocksawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkoakrocksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Mangroverocksaw",
+      "type": "tool",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroverocksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroverocksaw.json",
+          "src/main/java/net/mcreator/switchotscraft/item/MangroverocksawItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Cherryrocksaw",
+      "type": "tool",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryrocksaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CherryrocksawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryrocksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Crimsonrocksaw",
+      "type": "tool",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonrocksaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CrimsonrocksawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonrocksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Warpedrocksaw",
+      "type": "tool",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedrocksaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/WarpedrocksawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedrocksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Bamboorocksaw",
+      "type": "tool",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboorocksaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BamboorocksawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/bamboorocksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Oaksaw",
+      "type": "recipe",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oaksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oaksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Sprucesaw",
+      "type": "recipe",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucesaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sprucesaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Birchsaw",
+      "type": "recipe",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchsaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/birchsaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Junglesaw",
+      "type": "recipe",
+      "sortid": 709,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglesaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/junglesaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Acaciasaw",
+      "type": "recipe",
+      "sortid": 710,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciasaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/acaciasaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Darkoaksaw",
+      "type": "recipe",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoaksaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/darkoaksaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Mangrovesaw",
+      "type": "recipe",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrovesaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/mangrovesaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Cherrysaw",
+      "type": "recipe",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherrysaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/cherrysaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Crimsonsaw",
+      "type": "recipe",
+      "sortid": 714,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonsaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/crimsonsaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Warpedsaw",
+      "type": "recipe",
+      "sortid": 715,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedsaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/warpedsaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Bamboosaw",
+      "type": "recipe",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboosaw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/bamboosaw.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Oakhatchet",
+      "type": "tool",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakhatchet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakhatchet.json",
+          "src/main/java/net/mcreator/switchotscraft/item/OakhatchetItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Sprucehatchet",
+      "type": "tool",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucehatchet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/SprucehatchetItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/sprucehatchet.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Birchhatchet",
+      "type": "tool",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchhatchet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BirchhatchetItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchhatchet.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Junglehatchet",
+      "type": "tool",
+      "sortid": 720,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglehatchet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/JunglehatchetItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/junglehatchet.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Acaciahatchet",
+      "type": "tool",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciahatchet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/acaciahatchet.json",
+          "src/main/java/net/mcreator/switchotscraft/item/AcaciahatchetItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "DarkOakhatchet",
+      "type": "tool",
+      "sortid": 722,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oakhatchet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/dark_oakhatchet.json",
+          "src/main/java/net/mcreator/switchotscraft/item/DarkOakhatchetItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Mangrovehatchet",
+      "type": "tool",
+      "sortid": 723,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrovehatchet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangrovehatchet.json",
+          "src/main/java/net/mcreator/switchotscraft/item/MangrovehatchetItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Cherryhatchet",
+      "type": "tool",
+      "sortid": 724,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryhatchet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CherryhatchetItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryhatchet.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Crimsonhatchet",
+      "type": "tool",
+      "sortid": 725,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonhatchet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/crimsonhatchet.json",
+          "src/main/java/net/mcreator/switchotscraft/item/CrimsonhatchetItem.java"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Warpedhatchet",
+      "type": "tool",
+      "sortid": 726,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedhatchet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/WarpedhatchetItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedhatchet.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Bamboohatchet",
+      "type": "tool",
+      "sortid": 727,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboohatchet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BamboohatchetItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/bamboohatchet.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Oakhatch",
+      "type": "recipe",
+      "sortid": 728,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakhatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oakhatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Sprucehatch",
+      "type": "recipe",
+      "sortid": 729,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucehatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sprucehatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Birchhatch",
+      "type": "recipe",
+      "sortid": 730,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchhatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/birchhatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Junglehatch",
+      "type": "recipe",
+      "sortid": 731,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglehatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/junglehatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Acaciahatch",
+      "type": "recipe",
+      "sortid": 732,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciahatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/acaciahatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Darkoakhatch",
+      "type": "recipe",
+      "sortid": 733,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakhatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/darkoakhatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Mangrovehatch",
+      "type": "recipe",
+      "sortid": 734,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrovehatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/mangrovehatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Cherryhatch",
+      "type": "recipe",
+      "sortid": 735,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryhatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/cherryhatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Crimsonhatch",
+      "type": "recipe",
+      "sortid": 736,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonhatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/crimsonhatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Warpedhatch",
+      "type": "recipe",
+      "sortid": 737,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedhatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/warpedhatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
+    },
+    {
+      "name": "Bamboohatch",
+      "type": "recipe",
+      "sortid": 738,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboohatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/bamboohatch.json"
+        ]
+      },
+      "path": "~/colorfull world"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.switchots_craft.birch_stick": "Birch stick",
+      "item.switchots_craft.mangrovehatchet": "Mangrove hatchet",
       "item.switchots_craft.basic_axe": "Basic Axe",
       "item.switchots_craft.plank_10": "Warped plank",
       "item.switchots_craft.fiber_string": "Fiber",
       "block.switchots_craft.l_200": "Clol 1",
+      "item.switchots_craft.bamboohatchet": "Bamboo hatchet",
+      "item.switchots_craft.mangrove_stick": "Mangrove stick",
+      "item.switchots_craft.dark_oak_stick": "Dark oak stick",
       "block.switchots_craft.p_100": "Clol 1",
+      "item.switchots_craft.dark_oakhatchet": "Dark oak hatchet",
       "item.switchots_craft.bigfiber": "Fiber bundle",
       "block.switchots_craft.cl_5": "Acacia cutting log",
       "block.switchots_craft.cl_4": "Jungle cutting Log",
@@ -11168,6 +12129,7 @@
       "block.switchots_craft.cl_8": "Cherry cutting log",
       "block.switchots_craft.cl_7": "Mangrove cutting log",
       "block.switchots_craft.cl_6": "Dark oak cutting log",
+      "item.switchots_craft.crimson_stick": "Crimson stick",
       "block.switchots_craft.l_99": "Clol 1",
       "block.switchots_craft.l_98": "Clol 1",
       "block.switchots_craft.l_97": "Clol 1",
@@ -11181,8 +12143,11 @@
       "block.switchots_craft.l_100": "Clol 1",
       "block.switchots_craft.l_105": "Clol 1",
       "block.switchots_craft.l_104": "Clol 1",
+      "item.switchots_craft.cherry_stick": "Cherry stick",
       "block.switchots_craft.l_103": "Clol 1",
       "block.switchots_craft.l_102": "Clol 1",
+      "item.switchots_craft.jungle_stick": "Jungle stick",
+      "item.switchots_craft.warpedrocksaw": "Warped saw",
       "block.switchots_craft.l_109": "Clol 1",
       "block.switchots_craft.l_108": "Clol 1",
       "block.switchots_craft.l_107": "Clol 1",
@@ -11197,6 +12162,7 @@
       "block.switchots_craft.l_113": "Clol 1",
       "block.switchots_craft.l_79": "Clol 1",
       "block.switchots_craft.l_78": "Clol 1",
+      "item.switchots_craft.acaciahatchet": "Acacia hatchet",
       "block.switchots_craft.l_77": "Clol 1",
       "block.switchots_craft.l_76": "Clol 1",
       "block.switchots_craft.l_119": "Clol 1",
@@ -11222,11 +12188,14 @@
       "block.switchots_craft.l_1": "Clol 1",
       "block.switchots_craft.l_4": "Clol 1",
       "block.switchots_craft.l_3": "Clol 1",
+      "item.switchots_craft.mangroverocksaw": "Mangrove saw",
       "block.switchots_craft.l_6": "Clol 1",
+      "item.switchots_craft.birchhatchet": "Birch hatchet",
       "block.switchots_craft.l_5": "Clol 1",
       "block.switchots_craft.l_8": "Clol 1",
       "block.switchots_craft.l_7": "Clol 1",
       "block.switchots_craft.l_9": "Clol 1",
+      "item.switchots_craft.cherryrocksaw": "Cherry saw",
       "block.switchots_craft.l_89": "Clol 1",
       "block.switchots_craft.l_88": "Clol 1",
       "block.switchots_craft.l_87": "Clol 1",
@@ -11248,6 +12217,7 @@
       "block.switchots_craft.l_135": "Clol 1",
       "item_group.switchots_craft.creative_table": "R progression",
       "block.switchots_craft.l_130": "Clol 1",
+      "item.switchots_craft.junglerocksaw": "Jungle saw",
       "block.switchots_craft.l_59": "Clol 1",
       "block.switchots_craft.l_58": "Clol 1",
       "block.switchots_craft.l_57": "Clol 1",
@@ -11257,12 +12227,16 @@
       "block.switchots_craft.l_53": "Clol 1",
       "block.switchots_craft.l_52": "Clol 1",
       "block.switchots_craft.l_139": "Clol 1",
+      "item.switchots_craft.warped_stick": "Warped stick",
       "block.switchots_craft.l_51": "Clol 1",
       "block.switchots_craft.l_50": "Clol 1",
+      "item.switchots_craft.bamboo_stick": "Bamboo stick",
       "block.switchots_craft.l_145": "Clol 1",
       "block.switchots_craft.p_97": "Clol 1",
+      "item.switchots_craft.oakrocksaw": "Oak saw",
       "block.switchots_craft.l_144": "Clol 1",
       "block.switchots_craft.p_96": "Clol 1",
+      "item.switchots_craft.acacia_stick": "Acacia stick",
       "block.switchots_craft.l_143": "Clol 1",
       "block.switchots_craft.p_99": "Clol 1",
       "block.switchots_craft.l_142": "Clol 1",
@@ -11273,6 +12247,7 @@
       "block.switchots_craft.l_146": "Clol 1",
       "block.switchots_craft.l_141": "Clol 1",
       "block.switchots_craft.l_140": "Clol 1",
+      "item.switchots_craft.warpedhatchet": "Warped hatchet",
       "block.switchots_craft.l_69": "Clol 1",
       "item.switchots_craft.plank_2": "Spruce plank",
       "block.switchots_craft.l_68": "Clol 1",
@@ -11321,6 +12296,7 @@
       "block.switchots_craft.l_37": "Clol 1",
       "block.switchots_craft.l_36": "Clol 1",
       "block.switchots_craft.l_35": "Clol 1",
+      "item.switchots_craft.spruce_stick": "Spruce stick",
       "block.switchots_craft.l_34": "Clol 1",
       "block.switchots_craft.l_33": "Clol 1",
       "block.switchots_craft.l_32": "Clol 1",
@@ -11343,12 +12319,14 @@
       "block.switchots_craft.p_79": "Clol 1",
       "block.switchots_craft.p_78": "Clol 1",
       "block.switchots_craft.l_169": "Clol 1",
+      "item.switchots_craft.oakhatchet": "Oak hatchet",
       "block.switchots_craft.l_168": "Clol 1",
       "block.switchots_craft.l_163": "Clol 1",
       "block.switchots_craft.l_162": "Clol 1",
       "block.switchots_craft.l_161": "Clol 1",
       "block.switchots_craft.l_160": "Clol 1",
-      "item.switchots_craft.rock_saw": "Rock Saw",
+      "item.switchots_craft.darkoakrocksaw": "Dark oak saw",
+      "item.switchots_craft.acaciarocksaw": "Acacia saw",
       "block.switchots_craft.l_49": "Clol 1",
       "block.switchots_craft.l_48": "Clol 1",
       "block.switchots_craft.l_47": "Clol 1",
@@ -11373,6 +12351,7 @@
       "block.switchots_craft.l_175": "Clol 1",
       "block.switchots_craft.p_65": "Clol 1",
       "block.switchots_craft.p_68": "Clol 1",
+      "item.switchots_craft.junglehatchet": "Jungle hatchet",
       "block.switchots_craft.p_67": "Clol 1",
       "block.switchots_craft.l_179": "Clol 1",
       "block.switchots_craft.p_69": "Clol 1",
@@ -11393,6 +12372,7 @@
       "block.switchots_craft.l_11": "Clol 1",
       "block.switchots_craft.l_10": "Clol 1",
       "block.switchots_craft.p_71": "Clol 1",
+      "item.switchots_craft.sprucerocksaw": "Spruce saw",
       "block.switchots_craft.p_70": "Clol 1",
       "block.switchots_craft.p_73": "Clol 1",
       "block.switchots_craft.p_72": "Clol 1",
@@ -11413,6 +12393,7 @@
       "block.switchots_craft.l_185": "Clol 1",
       "block.switchots_craft.l_184": "Clol 1",
       "block.switchots_craft.l_183": "Clol 1",
+      "item.switchots_craft.crimsonhatchet": "Crimson hatchet",
       "block.switchots_craft.l_182": "Clol 1",
       "item.switchots_craft.log_bark": "Oak bark",
       "block.switchots_craft.l_29": "Clol 1",
@@ -11451,6 +12432,7 @@
       "item.switchots_craft.log_bark_10": "Warped bark",
       "block.switchots_craft.p_50": "Clol 1",
       "block.switchots_craft.p_31": "Clol 1",
+      "item.switchots_craft.bamboorocksaw": "Bamboo saw",
       "block.switchots_craft.p_30": "Clol 1",
       "block.switchots_craft.p_33": "Clol 1",
       "block.switchots_craft.p_32": "Clol 1",
@@ -11481,6 +12463,9 @@
       "block.switchots_craft.p_28": "Clol 1",
       "block.switchots_craft.p_27": "Clol 1",
       "block.switchots_craft.p_29": "Clol 1",
+      "item.switchots_craft.sprucehatchet": "Spruce hatchet",
+      "item.switchots_craft.birchrocksaw": "Birch saw",
+      "item.switchots_craft.cherryhatchet": "Cherry hatchet",
       "block.switchots_craft.p_11": "Clol 1",
       "block.switchots_craft.p_10": "Clol 1",
       "block.switchots_craft.p_13": "Clol 1",
@@ -11491,14 +12476,22 @@
       "block.switchots_craft.p_16": "Clol 1",
       "block.switchots_craft.p_19": "Clol 1",
       "block.switchots_craft.p_18": "Clol 1",
+      "item.switchots_craft.crimsonrocksaw": "Crimson saw",
+      "item.switchots_craft.oakstick": "Oak stick",
       "item.switchots_craft.sharp_rock": "Sharp Rock"
     },
     "fr_fr": {
+      "item.switchots_craft.birch_stick": "Oak stick",
+      "item.switchots_craft.mangrovehatchet": "Dark oak hatchet",
       "item.switchots_craft.basic_axe": "Hâche basique",
       "item.switchots_craft.plank_10": " Planche biscornue",
       "item.switchots_craft.fiber_string": "Fibre",
       "block.switchots_craft.l_200": "Clol 1",
+      "item.switchots_craft.bamboohatchet": "Warped hatchet",
+      "item.switchots_craft.mangrove_stick": "Dark oak stick",
+      "item.switchots_craft.dark_oak_stick": "Acacia stick",
       "block.switchots_craft.p_100": "Clol 1",
+      "item.switchots_craft.dark_oakhatchet": "Acacia hatchet",
       "item.switchots_craft.bigfiber": "Lot de fibre",
       "block.switchots_craft.cl_5": "Bûche de coupe en acacia",
       "block.switchots_craft.cl_4": "Bûche de coupe en acajou",
@@ -11508,6 +12501,7 @@
       "block.switchots_craft.cl_8": "Bûche de coupe de cerisier",
       "block.switchots_craft.cl_7": "Bûche de coupe de palétuvier",
       "block.switchots_craft.cl_6": "Bûche de coupe en chêne noir",
+      "item.switchots_craft.crimson_stick": "Cherry stick",
       "block.switchots_craft.l_99": "Clol 1",
       "block.switchots_craft.l_98": "Clol 1",
       "block.switchots_craft.l_97": "Clol 1",
@@ -11521,8 +12515,11 @@
       "block.switchots_craft.l_100": "Clol 1",
       "block.switchots_craft.l_105": "Clol 1",
       "block.switchots_craft.l_104": "Clol 1",
+      "item.switchots_craft.cherry_stick": "Mangrove stick",
       "block.switchots_craft.l_103": "Clol 1",
       "block.switchots_craft.l_102": "Clol 1",
+      "item.switchots_craft.jungle_stick": "Birch stick",
+      "item.switchots_craft.warpedrocksaw": "Crimson saw",
       "block.switchots_craft.l_109": "Clol 1",
       "block.switchots_craft.l_108": "Clol 1",
       "block.switchots_craft.l_107": "Clol 1",
@@ -11537,6 +12534,7 @@
       "block.switchots_craft.l_113": "Clol 1",
       "block.switchots_craft.l_79": "Clol 1",
       "block.switchots_craft.l_78": "Clol 1",
+      "item.switchots_craft.acaciahatchet": "Jungle hatchet",
       "block.switchots_craft.l_77": "Clol 1",
       "block.switchots_craft.l_76": "Clol 1",
       "block.switchots_craft.l_119": "Clol 1",
@@ -11562,11 +12560,14 @@
       "block.switchots_craft.l_1": "Clol 1",
       "block.switchots_craft.l_4": "Clol 1",
       "block.switchots_craft.l_3": "Clol 1",
+      "item.switchots_craft.mangroverocksaw": "Dark oak saw",
       "block.switchots_craft.l_6": "Clol 1",
+      "item.switchots_craft.birchhatchet": "Spruce hatchet",
       "block.switchots_craft.l_5": "Clol 1",
       "block.switchots_craft.l_8": "Clol 1",
       "block.switchots_craft.l_7": "Clol 1",
       "block.switchots_craft.l_9": "Clol 1",
+      "item.switchots_craft.cherryrocksaw": "Mangrove saw",
       "block.switchots_craft.l_89": "Clol 1",
       "block.switchots_craft.l_88": "Clol 1",
       "block.switchots_craft.l_87": "Clol 1",
@@ -11588,6 +12589,7 @@
       "block.switchots_craft.l_135": "Clol 1",
       "item_group.switchots_craft.creative_table": "R progression",
       "block.switchots_craft.l_130": "Clol 1",
+      "item.switchots_craft.junglerocksaw": "Birch saw",
       "block.switchots_craft.l_59": "Clol 1",
       "block.switchots_craft.l_58": "Clol 1",
       "block.switchots_craft.l_57": "Clol 1",
@@ -11597,12 +12599,16 @@
       "block.switchots_craft.l_53": "Clol 1",
       "block.switchots_craft.l_52": "Clol 1",
       "block.switchots_craft.l_139": "Clol 1",
+      "item.switchots_craft.warped_stick": "Crimson stick",
       "block.switchots_craft.l_51": "Clol 1",
       "block.switchots_craft.l_50": "Clol 1",
+      "item.switchots_craft.bamboo_stick": "Warped stick",
       "block.switchots_craft.l_145": "Clol 1",
       "block.switchots_craft.p_97": "Clol 1",
+      "item.switchots_craft.oakrocksaw": "Oak saw",
       "block.switchots_craft.l_144": "Clol 1",
       "block.switchots_craft.p_96": "Clol 1",
+      "item.switchots_craft.acacia_stick": "Jungle stick",
       "block.switchots_craft.l_143": "Clol 1",
       "block.switchots_craft.p_99": "Clol 1",
       "block.switchots_craft.l_142": "Clol 1",
@@ -11613,6 +12619,7 @@
       "block.switchots_craft.l_146": "Clol 1",
       "block.switchots_craft.l_141": "Clol 1",
       "block.switchots_craft.l_140": "Clol 1",
+      "item.switchots_craft.warpedhatchet": "Crimson hatchet",
       "block.switchots_craft.l_69": "Clol 1",
       "item.switchots_craft.plank_2": "Planche de sapin",
       "block.switchots_craft.l_68": "Clol 1",
@@ -11661,6 +12668,7 @@
       "block.switchots_craft.l_37": "Clol 1",
       "block.switchots_craft.l_36": "Clol 1",
       "block.switchots_craft.l_35": "Clol 1",
+      "item.switchots_craft.spruce_stick": "Spruce stick",
       "block.switchots_craft.l_34": "Clol 1",
       "block.switchots_craft.l_33": "Clol 1",
       "block.switchots_craft.l_32": "Clol 1",
@@ -11683,12 +12691,14 @@
       "block.switchots_craft.p_79": "Clol 1",
       "block.switchots_craft.p_78": "Clol 1",
       "block.switchots_craft.l_169": "Clol 1",
+      "item.switchots_craft.oakhatchet": "Oak hatchet",
       "block.switchots_craft.l_168": "Clol 1",
       "block.switchots_craft.l_163": "Clol 1",
       "block.switchots_craft.l_162": "Clol 1",
       "block.switchots_craft.l_161": "Clol 1",
       "block.switchots_craft.l_160": "Clol 1",
-      "item.switchots_craft.rock_saw": "Scie en roche",
+      "item.switchots_craft.darkoakrocksaw": "Acacia saw",
+      "item.switchots_craft.acaciarocksaw": "Jungle saw",
       "block.switchots_craft.l_49": "Clol 1",
       "block.switchots_craft.l_48": "Clol 1",
       "block.switchots_craft.l_47": "Clol 1",
@@ -11713,6 +12723,7 @@
       "block.switchots_craft.l_175": "Clol 1",
       "block.switchots_craft.p_65": "Clol 1",
       "block.switchots_craft.p_68": "Clol 1",
+      "item.switchots_craft.junglehatchet": "Birch hatchet",
       "block.switchots_craft.p_67": "Clol 1",
       "block.switchots_craft.l_179": "Clol 1",
       "block.switchots_craft.p_69": "Clol 1",
@@ -11733,6 +12744,7 @@
       "block.switchots_craft.l_11": "Clol 1",
       "block.switchots_craft.l_10": "Clol 1",
       "block.switchots_craft.p_71": "Clol 1",
+      "item.switchots_craft.sprucerocksaw": "Oak saw",
       "block.switchots_craft.p_70": "Clol 1",
       "block.switchots_craft.p_73": "Clol 1",
       "block.switchots_craft.p_72": "Clol 1",
@@ -11753,6 +12765,7 @@
       "block.switchots_craft.l_185": "Clol 1",
       "block.switchots_craft.l_184": "Clol 1",
       "block.switchots_craft.l_183": "Clol 1",
+      "item.switchots_craft.crimsonhatchet": "Cherry hatchet",
       "block.switchots_craft.l_182": "Clol 1",
       "item.switchots_craft.log_bark": "Écorce de chêne",
       "block.switchots_craft.l_29": "Clol 1",
@@ -11791,6 +12804,7 @@
       "item.switchots_craft.log_bark_10": "Écorce biscornue",
       "block.switchots_craft.p_50": "Clol 1",
       "block.switchots_craft.p_31": "Clol 1",
+      "item.switchots_craft.bamboorocksaw": "Warped saw",
       "block.switchots_craft.p_30": "Clol 1",
       "block.switchots_craft.p_33": "Clol 1",
       "block.switchots_craft.p_32": "Clol 1",
@@ -11821,6 +12835,9 @@
       "block.switchots_craft.p_28": "Clol 1",
       "block.switchots_craft.p_27": "Clol 1",
       "block.switchots_craft.p_29": "Clol 1",
+      "item.switchots_craft.sprucehatchet": "Oak hatchet",
+      "item.switchots_craft.birchrocksaw": "Spruce saw",
+      "item.switchots_craft.cherryhatchet": "Mangrove hatchet",
       "block.switchots_craft.p_11": "Clol 1",
       "block.switchots_craft.p_10": "Clol 1",
       "block.switchots_craft.p_13": "Clol 1",
@@ -11831,6 +12848,8 @@
       "block.switchots_craft.p_16": "Clol 1",
       "block.switchots_craft.p_19": "Clol 1",
       "block.switchots_craft.p_18": "Clol 1",
+      "item.switchots_craft.crimsonrocksaw": "Cherry saw",
+      "item.switchots_craft.oakstick": "Oak stick",
       "item.switchots_craft.sharp_rock": "Roche coupente"
     }
   },
@@ -11839,6 +12858,10 @@
     "children": [
       {
         "name": "Basic to wooden tools",
+        "children": []
+      },
+      {
+        "name": "colorfull world",
         "children": []
       }
     ]

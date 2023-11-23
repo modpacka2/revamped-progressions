@@ -4,9 +4,9 @@
   "definition": {
     "toolType": "Special",
     "renderType": 0,
-    "texture": "primitivesaw",
+    "texture": "ss5",
     "customModelName": "Normal",
-    "name": "Rock Saw",
+    "name": "Acacia saw",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:CreativeTable"

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "item": "switchots_craft:warped_stick"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:warped_stick",
+    "count": 2
+  }
+}

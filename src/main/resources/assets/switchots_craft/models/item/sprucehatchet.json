@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "switchots_craft:item/primitivesaw"
+    "layer0": "switchots_craft:item/sh2"
   }
 }

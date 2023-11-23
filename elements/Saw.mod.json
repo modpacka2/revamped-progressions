@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oakrocksaw"
+      },
+      {
+        "value": "CUSTOM:Sprucerocksaw"
+      },
+      {
+        "value": "CUSTOM:Birchrocksaw"
+      },
+      {
+        "value": "CUSTOM:Junglerocksaw"
+      },
+      {
+        "value": "CUSTOM:Acaciarocksaw"
+      },
+      {
+        "value": "CUSTOM:Darkoakrocksaw"
+      },
+      {
+        "value": "CUSTOM:Mangroverocksaw"
+      },
+      {
+        "value": "CUSTOM:Cherryrocksaw"
+      },
+      {
+        "value": "CUSTOM:Crimsonrocksaw"
+      },
+      {
+        "value": "CUSTOM:Warpedrocksaw"
+      },
+      {
+        "value": "CUSTOM:Bamboorocksaw"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "saw",
+    "namespace": "forge"
+  }
+}

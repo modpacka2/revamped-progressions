@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "item": "switchots_craft:plank_4"
+    }
+  ],
+  "result": {
+    "item": "switchots_craft:jungle_stick",
+    "count": 2
+  }
+}

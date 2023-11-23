@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "switchots_craft:log_bark"
+    },
+    "3": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "4": {
+      "item": "switchots_craft:oakstick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "6": {
+      "item": "switchots_craft:sharp_rock"
+    },
+    "7": {
+      "item": "switchots_craft:sharp_rock"
+    },
+    "8": {
+      "item": "switchots_craft:sharp_rock"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:oakrocksaw",
+    "count": 1
+  }
+}

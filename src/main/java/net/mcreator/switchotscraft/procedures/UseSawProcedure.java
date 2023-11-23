@@ -15,7 +15,9 @@ import net.minecraft.world.entity.item.ItemEntity;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.util.RandomSource;
+import net.minecraft.tags.ItemTags;
 import net.minecraft.server.level.ServerLevel;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.BlockPos;
 
 import net.mcreator.switchotscraft.init.SwitchotsCraftModItems;
@@ -40,7 +42,7 @@ public class UseSawProcedure {
 	private static void execute(@Nullable Event event, LevelAccessor world, double x, double y, double z, Entity entity) {
 		if (entity == null)
 			return;
-		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == SwitchotsCraftModItems.ROCK_SAW.get()) {
+		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).is(ItemTags.create(new ResourceLocation("forge:saw")))) {
 			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.OAK_LOG) {
 				if (!(entity instanceof Player _plr ? _plr.getAbilities().instabuild : false)) {
 					{

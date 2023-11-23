@@ -1,0 +1,31 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "texture": "sh5",
+    "customModelName": "Normal",
+    "name": "Acacia hatchet",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 0,
+    "efficiency": 1.5,
+    "attackSpeed": 2.1,
+    "enchantability": 0,
+    "damageVsEntity": 1.0,
+    "usageCount": 16,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:FibesrString"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

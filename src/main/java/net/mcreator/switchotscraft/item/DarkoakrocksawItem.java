@@ -15,8 +15,8 @@ import net.minecraft.core.BlockPos;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.ImmutableMultimap;
 
-public class RockSawItem extends Item {
-	public RockSawItem() {
+public class DarkoakrocksawItem extends Item {
+	public DarkoakrocksawItem() {
 		super(new Item.Properties().durability(59));
 	}
 
