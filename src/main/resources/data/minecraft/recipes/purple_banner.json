@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purple_wool"
+    },
+    "1": {
+      "item": "minecraft:purple_wool"
+    },
+    "2": {
+      "item": "minecraft:purple_wool"
+    },
+    "3": {
+      "item": "minecraft:purple_wool"
+    },
+    "4": {
+      "item": "minecraft:purple_wool"
+    },
+    "5": {
+      "item": "minecraft:purple_wool"
+    },
+    "7": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:purple_banner",
+    "count": 1
+  }
+}

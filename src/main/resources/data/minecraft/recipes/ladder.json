@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stick"
+    },
+    "2": {
+      "tag": "forge:stick"
+    },
+    "3": {
+      "tag": "forge:stick"
+    },
+    "4": {
+      "tag": "forge:stick"
+    },
+    "5": {
+      "tag": "forge:stick"
+    },
+    "6": {
+      "tag": "forge:stick"
+    },
+    "8": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:ladder",
+    "count": 3
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_wool"
+    },
+    "1": {
+      "item": "minecraft:brown_wool"
+    },
+    "2": {
+      "item": "minecraft:brown_wool"
+    },
+    "3": {
+      "item": "minecraft:brown_wool"
+    },
+    "4": {
+      "item": "minecraft:brown_wool"
+    },
+    "5": {
+      "item": "minecraft:brown_wool"
+    },
+    "7": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:brown_banner",
+    "count": 1
+  }
+}

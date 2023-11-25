@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "1": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "2": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "3": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "4": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "5": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "7": {
+      "item": "switchots_craft:mangrove_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:mangrove_sign",
+    "count": 3
+  }
+}

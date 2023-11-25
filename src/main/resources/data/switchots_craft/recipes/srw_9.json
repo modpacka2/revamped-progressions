@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_planks"
+    },
+    "2": {
+      "item": "minecraft:warped_planks"
+    },
+    "3": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "4": {
+      "item": "switchots_craft:crimson_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:warpedsword_9",
+    "count": 1
+  }
+}

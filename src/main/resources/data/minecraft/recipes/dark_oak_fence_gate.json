@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "switchots_craft:dark_oak_stick"
+    },
+    "1": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "2": {
+      "item": "switchots_craft:dark_oak_stick"
+    },
+    "3": {
+      "item": "switchots_craft:dark_oak_stick"
+    },
+    "4": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "5": {
+      "item": "switchots_craft:dark_oak_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:dark_oak_fence_gate",
+    "count": 1
+  }
+}

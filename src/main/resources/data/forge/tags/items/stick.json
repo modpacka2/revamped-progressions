@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stick",
+    "switchots_craft:mangrove_stick",
+    "switchots_craft:birch_stick",
+    "switchots_craft:warped_stick",
+    "switchots_craft:acacia_stick",
+    "switchots_craft:dark_oak_stick",
+    "switchots_craft:crimson_stick",
+    "switchots_craft:spruce_stick",
+    "switchots_craft:cherry_stick",
+    "switchots_craft:oakstick",
+    "switchots_craft:jungle_stick",
+    "switchots_craft:bamboo_stick"
+  ]
+}

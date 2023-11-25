@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "switchots_craft:oakstick"
+    },
+    "1": {
+      "item": "minecraft:oak_planks"
+    },
+    "2": {
+      "item": "switchots_craft:oakstick"
+    },
+    "3": {
+      "item": "switchots_craft:oakstick"
+    },
+    "4": {
+      "item": "minecraft:oak_planks"
+    },
+    "5": {
+      "item": "switchots_craft:oakstick"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_fence_gate",
+    "count": 1
+  }
+}

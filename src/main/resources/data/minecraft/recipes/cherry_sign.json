@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cherry_planks"
+    },
+    "1": {
+      "item": "minecraft:cherry_planks"
+    },
+    "2": {
+      "item": "minecraft:cherry_planks"
+    },
+    "3": {
+      "item": "minecraft:cherry_planks"
+    },
+    "4": {
+      "item": "minecraft:cherry_planks"
+    },
+    "5": {
+      "item": "minecraft:cherry_planks"
+    },
+    "7": {
+      "item": "switchots_craft:cherry_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:cherry_sign",
+    "count": 3
+  }
+}

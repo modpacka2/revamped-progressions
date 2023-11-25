@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:stick"
+    },
+    "3": {
+      "tag": "forge:stick"
+    },
+    "4": {
+      "tag": "forge:soulcoal"
+    },
+    "5": {
+      "tag": "forge:stick"
+    },
+    "6": {
+      "tag": "minecraft:logs"
+    },
+    "7": {
+      "tag": "minecraft:logs"
+    },
+    "8": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "minecraft:soul_campfire",
+    "count": 1
+  }
+}

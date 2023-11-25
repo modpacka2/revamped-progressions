@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:yellow_wool"
+    },
+    "1": {
+      "item": "minecraft:yellow_wool"
+    },
+    "2": {
+      "item": "minecraft:yellow_wool"
+    },
+    "3": {
+      "item": "minecraft:yellow_wool"
+    },
+    "4": {
+      "item": "minecraft:yellow_wool"
+    },
+    "5": {
+      "item": "minecraft:yellow_wool"
+    },
+    "7": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:yellow_banner",
+    "count": 1
+  }
+}

@@ -1,12 +1,22 @@
 {
   "replace": false,
   "values": [
-    "minecraft:wooden_axe",
     "minecraft:golden_axe",
+    "switchots_craft:warpedhatchet",
     "minecraft:stone_axe",
-    "switchots_craft:basic_axe",
+    "switchots_craft:sprucehatchet",
+    "switchots_craft:junglehatchet",
     "minecraft:netherite_axe",
+    "switchots_craft:cherryhatchet",
+    "switchots_craft:bamboohatchet",
+    "switchots_craft:acaciahatchet",
+    "switchots_craft:dark_oakhatchet",
+    "switchots_craft:oakhatchet",
+    "minecraft:wooden_axe",
+    "switchots_craft:crimsonhatchet",
     "minecraft:diamond_axe",
-    "minecraft:iron_axe"
+    "switchots_craft:birchhatchet",
+    "minecraft:iron_axe",
+    "switchots_craft:mangrovehatchet"
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_planks"
+    },
+    "1": {
+      "item": "switchots_craft:acacia_stick"
+    },
+    "2": {
+      "item": "minecraft:acacia_planks"
+    },
+    "3": {
+      "item": "minecraft:acacia_planks"
+    },
+    "4": {
+      "item": "switchots_craft:acacia_stick"
+    },
+    "5": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_fence",
+    "count": 3
+  }
+}

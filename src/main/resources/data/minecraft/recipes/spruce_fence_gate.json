@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "switchots_craft:spruce_stick"
+    },
+    "1": {
+      "item": "minecraft:spruce_planks"
+    },
+    "2": {
+      "item": "switchots_craft:spruce_stick"
+    },
+    "3": {
+      "item": "switchots_craft:spruce_stick"
+    },
+    "4": {
+      "item": "minecraft:spruce_planks"
+    },
+    "5": {
+      "item": "switchots_craft:spruce_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:spruce_fence_gate",
+    "count": 1
+  }
+}

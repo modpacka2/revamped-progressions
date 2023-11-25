@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "switchots_craft:warped_stick"
+    },
+    "1": {
+      "item": "minecraft:warped_planks"
+    },
+    "2": {
+      "item": "switchots_craft:warped_stick"
+    },
+    "3": {
+      "item": "switchots_craft:warped_stick"
+    },
+    "4": {
+      "item": "minecraft:warped_planks"
+    },
+    "5": {
+      "item": "switchots_craft:warped_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:warped_fence_gate",
+    "count": 1
+  }
+}

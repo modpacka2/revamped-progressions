@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:stick"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "tag": "forge:stick"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "tag": "forge:stick"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_planks"
+    },
+    "1": {
+      "item": "minecraft:jungle_planks"
+    },
+    "3": {
+      "item": "minecraft:jungle_planks"
+    },
+    "4": {
+      "item": "switchots_craft:jungle_stick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "7": {
+      "item": "switchots_craft:jungle_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:jungleaxe_4",
+    "count": 1
+  }
+}

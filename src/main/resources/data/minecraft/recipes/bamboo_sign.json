@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "1": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "2": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "3": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "4": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "5": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "7": {
+      "item": "switchots_craft:bamboo_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:bamboo_sign",
+    "count": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stick"
+    },
+    "1": {
+      "tag": "forge:stick"
+    },
+    "2": {
+      "tag": "forge:stick"
+    },
+    "3": {
+      "tag": "forge:stick"
+    },
+    "4": {
+      "tag": "minecraft:wool"
+    },
+    "5": {
+      "tag": "forge:stick"
+    },
+    "6": {
+      "tag": "forge:stick"
+    },
+    "7": {
+      "tag": "forge:stick"
+    },
+    "8": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:painting",
+    "count": 1
+  }
+}
