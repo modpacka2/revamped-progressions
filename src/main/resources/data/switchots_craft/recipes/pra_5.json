@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_planks"
+    },
+    "2": {
+      "item": "switchots_craft:acacia_stick"
+    },
+    "3": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "4": {
+      "item": "switchots_craft:acacia_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:spruceshovel_5",
+    "count": 1
+  }
+}

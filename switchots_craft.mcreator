@@ -23790,51 +23790,3545 @@
         ]
       },
       "path": "~/colorfull world/hoe"
+    },
+    {
+      "name": "Oakshovel2",
+      "type": "tool",
+      "sortid": 1550,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel3",
+      "type": "tool",
+      "sortid": 1551,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel4",
+      "type": "tool",
+      "sortid": 1552,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel5",
+      "type": "tool",
+      "sortid": 1553,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel6",
+      "type": "tool",
+      "sortid": 1554,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel7",
+      "type": "tool",
+      "sortid": 1555,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel8",
+      "type": "tool",
+      "sortid": 1556,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel9",
+      "type": "tool",
+      "sortid": 1557,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel10",
+      "type": "tool",
+      "sortid": 1558,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Oakshovel11",
+      "type": "tool",
+      "sortid": 1559,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/oakshovel_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Oakshovel11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel",
+      "type": "tool",
+      "sortid": 1560,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/SpruceshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel2",
+      "type": "tool",
+      "sortid": 1561,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel3",
+      "type": "tool",
+      "sortid": 1562,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel4",
+      "type": "tool",
+      "sortid": 1563,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel5",
+      "type": "tool",
+      "sortid": 1564,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel6",
+      "type": "tool",
+      "sortid": 1565,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel7",
+      "type": "tool",
+      "sortid": 1566,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel8",
+      "type": "tool",
+      "sortid": 1567,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel9",
+      "type": "tool",
+      "sortid": 1568,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel10",
+      "type": "tool",
+      "sortid": 1569,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Spruceshovel11",
+      "type": "tool",
+      "sortid": 1570,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruceshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Spruceshovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/spruceshovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel",
+      "type": "tool",
+      "sortid": 1571,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BirchshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel2",
+      "type": "tool",
+      "sortid": 1572,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel3",
+      "type": "tool",
+      "sortid": 1573,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel4",
+      "type": "tool",
+      "sortid": 1574,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel5",
+      "type": "tool",
+      "sortid": 1575,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel6",
+      "type": "tool",
+      "sortid": 1576,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel7",
+      "type": "tool",
+      "sortid": 1577,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel8",
+      "type": "tool",
+      "sortid": 1578,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel9",
+      "type": "tool",
+      "sortid": 1579,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel10",
+      "type": "tool",
+      "sortid": 1580,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Birchshovel11",
+      "type": "tool",
+      "sortid": 1581,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/birchshovel_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Birchshovel11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel",
+      "type": "tool",
+      "sortid": 1582,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel.json",
+          "src/main/java/net/mcreator/switchotscraft/item/JungleshovelItem.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel2",
+      "type": "tool",
+      "sortid": 1583,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel3",
+      "type": "tool",
+      "sortid": 1584,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel4",
+      "type": "tool",
+      "sortid": 1585,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel5",
+      "type": "tool",
+      "sortid": 1586,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel6",
+      "type": "tool",
+      "sortid": 1587,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel7",
+      "type": "tool",
+      "sortid": 1588,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel8",
+      "type": "tool",
+      "sortid": 1589,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel9",
+      "type": "tool",
+      "sortid": 1590,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel10",
+      "type": "tool",
+      "sortid": 1591,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Jungleshovel11",
+      "type": "tool",
+      "sortid": 1592,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungleshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/jungleshovel_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Jungleshovel11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel",
+      "type": "tool",
+      "sortid": 1593,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/AcaciashovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel2",
+      "type": "tool",
+      "sortid": 1594,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel3",
+      "type": "tool",
+      "sortid": 1595,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel4",
+      "type": "tool",
+      "sortid": 1596,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel5",
+      "type": "tool",
+      "sortid": 1597,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel6",
+      "type": "tool",
+      "sortid": 1598,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel7",
+      "type": "tool",
+      "sortid": 1599,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel8",
+      "type": "tool",
+      "sortid": 1600,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel9",
+      "type": "tool",
+      "sortid": 1601,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel10",
+      "type": "tool",
+      "sortid": 1602,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Acaciashovel11",
+      "type": "tool",
+      "sortid": 1603,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciashovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Acaciashovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/acaciashovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel",
+      "type": "tool",
+      "sortid": 1604,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/DarkshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel2",
+      "type": "tool",
+      "sortid": 1605,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel3",
+      "type": "tool",
+      "sortid": 1606,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel4",
+      "type": "tool",
+      "sortid": 1607,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel5",
+      "type": "tool",
+      "sortid": 1608,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel6",
+      "type": "tool",
+      "sortid": 1609,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel7",
+      "type": "tool",
+      "sortid": 1610,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel8",
+      "type": "tool",
+      "sortid": 1611,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel9",
+      "type": "tool",
+      "sortid": 1612,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel10",
+      "type": "tool",
+      "sortid": 1613,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Darkshovel11",
+      "type": "tool",
+      "sortid": 1614,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Darkshovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/darkshovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel",
+      "type": "tool",
+      "sortid": 1615,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/MangroveshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel2",
+      "type": "tool",
+      "sortid": 1616,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel3",
+      "type": "tool",
+      "sortid": 1617,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel4",
+      "type": "tool",
+      "sortid": 1618,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel5",
+      "type": "tool",
+      "sortid": 1619,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel6",
+      "type": "tool",
+      "sortid": 1620,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel7",
+      "type": "tool",
+      "sortid": 1621,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel8",
+      "type": "tool",
+      "sortid": 1622,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel9",
+      "type": "tool",
+      "sortid": 1623,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel10",
+      "type": "tool",
+      "sortid": 1624,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Mangroveshovel11",
+      "type": "tool",
+      "sortid": 1625,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangroveshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/mangroveshovel_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Mangroveshovel11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel",
+      "type": "tool",
+      "sortid": 1626,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CherryshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel2",
+      "type": "tool",
+      "sortid": 1627,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel3",
+      "type": "tool",
+      "sortid": 1628,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel4",
+      "type": "tool",
+      "sortid": 1629,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel5",
+      "type": "tool",
+      "sortid": 1630,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel6",
+      "type": "tool",
+      "sortid": 1631,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel7",
+      "type": "tool",
+      "sortid": 1632,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel8",
+      "type": "tool",
+      "sortid": 1633,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel9",
+      "type": "tool",
+      "sortid": 1634,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel10",
+      "type": "tool",
+      "sortid": 1635,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Cherryshovel11",
+      "type": "tool",
+      "sortid": 1636,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/cherryshovel_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Cherryshovel11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel",
+      "type": "tool",
+      "sortid": 1637,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CrimsonshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel2",
+      "type": "tool",
+      "sortid": 1638,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel3",
+      "type": "tool",
+      "sortid": 1639,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel4",
+      "type": "tool",
+      "sortid": 1640,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel5",
+      "type": "tool",
+      "sortid": 1641,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel6",
+      "type": "tool",
+      "sortid": 1642,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel7",
+      "type": "tool",
+      "sortid": 1643,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel8",
+      "type": "tool",
+      "sortid": 1644,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel9",
+      "type": "tool",
+      "sortid": 1645,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel10",
+      "type": "tool",
+      "sortid": 1646,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Crimsonshovel11",
+      "type": "tool",
+      "sortid": 1647,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Crimsonshovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/crimsonshovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel",
+      "type": "tool",
+      "sortid": 1648,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel.json",
+          "src/main/java/net/mcreator/switchotscraft/item/WarpedshovelItem.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel2",
+      "type": "tool",
+      "sortid": 1649,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel3",
+      "type": "tool",
+      "sortid": 1650,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel4",
+      "type": "tool",
+      "sortid": 1651,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel5",
+      "type": "tool",
+      "sortid": 1652,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel6",
+      "type": "tool",
+      "sortid": 1653,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel7",
+      "type": "tool",
+      "sortid": 1654,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel8",
+      "type": "tool",
+      "sortid": 1655,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel9",
+      "type": "tool",
+      "sortid": 1656,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel10",
+      "type": "tool",
+      "sortid": 1657,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Warpedshovel11",
+      "type": "tool",
+      "sortid": 1658,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warpedshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Warpedshovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/warpedshovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel",
+      "type": "tool",
+      "sortid": 1659,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/BambooshovelItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel2",
+      "type": "tool",
+      "sortid": 1660,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel3",
+      "type": "tool",
+      "sortid": 1661,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel4",
+      "type": "tool",
+      "sortid": 1662,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel5",
+      "type": "tool",
+      "sortid": 1663,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel6",
+      "type": "tool",
+      "sortid": 1664,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel7",
+      "type": "tool",
+      "sortid": 1665,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel8",
+      "type": "tool",
+      "sortid": 1666,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel9",
+      "type": "tool",
+      "sortid": 1667,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel10",
+      "type": "tool",
+      "sortid": 1668,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Bambooshovel11",
+      "type": "tool",
+      "sortid": 1669,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bambooshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Bambooshovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/bambooshovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr1",
+      "type": "recipe",
+      "sortid": 1670,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr2",
+      "type": "recipe",
+      "sortid": 1671,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr3",
+      "type": "recipe",
+      "sortid": 1672,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr4",
+      "type": "recipe",
+      "sortid": 1673,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr5",
+      "type": "recipe",
+      "sortid": 1674,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr6",
+      "type": "recipe",
+      "sortid": 1675,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr7",
+      "type": "recipe",
+      "sortid": 1676,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr8",
+      "type": "recipe",
+      "sortid": 1677,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr9",
+      "type": "recipe",
+      "sortid": 1678,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr10",
+      "type": "recipe",
+      "sortid": 1679,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pr11",
+      "type": "recipe",
+      "sortid": 1680,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pr_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pr_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra1",
+      "type": "recipe",
+      "sortid": 1681,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra2",
+      "type": "recipe",
+      "sortid": 1682,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra3",
+      "type": "recipe",
+      "sortid": 1683,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra4",
+      "type": "recipe",
+      "sortid": 1684,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra5",
+      "type": "recipe",
+      "sortid": 1685,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra6",
+      "type": "recipe",
+      "sortid": 1686,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra7",
+      "type": "recipe",
+      "sortid": 1687,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra8",
+      "type": "recipe",
+      "sortid": 1688,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra9",
+      "type": "recipe",
+      "sortid": 1689,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra10",
+      "type": "recipe",
+      "sortid": 1690,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pra11",
+      "type": "recipe",
+      "sortid": 1691,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pra_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pra_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb1",
+      "type": "recipe",
+      "sortid": 1692,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb2",
+      "type": "recipe",
+      "sortid": 1693,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb3",
+      "type": "recipe",
+      "sortid": 1694,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb4",
+      "type": "recipe",
+      "sortid": 1695,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb5",
+      "type": "recipe",
+      "sortid": 1696,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb6",
+      "type": "recipe",
+      "sortid": 1697,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb7",
+      "type": "recipe",
+      "sortid": 1698,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb8",
+      "type": "recipe",
+      "sortid": 1699,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb9",
+      "type": "recipe",
+      "sortid": 1700,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb10",
+      "type": "recipe",
+      "sortid": 1701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prb11",
+      "type": "recipe",
+      "sortid": 1702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prb_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prb_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc1",
+      "type": "recipe",
+      "sortid": 1703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc2",
+      "type": "recipe",
+      "sortid": 1704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc3",
+      "type": "recipe",
+      "sortid": 1705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc4",
+      "type": "recipe",
+      "sortid": 1706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc5",
+      "type": "recipe",
+      "sortid": 1707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc6",
+      "type": "recipe",
+      "sortid": 1708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc7",
+      "type": "recipe",
+      "sortid": 1709,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc8",
+      "type": "recipe",
+      "sortid": 1710,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc9",
+      "type": "recipe",
+      "sortid": 1711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc10",
+      "type": "recipe",
+      "sortid": 1712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prc11",
+      "type": "recipe",
+      "sortid": 1713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prc_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prc_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd1",
+      "type": "recipe",
+      "sortid": 1714,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd2",
+      "type": "recipe",
+      "sortid": 1715,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd3",
+      "type": "recipe",
+      "sortid": 1716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd4",
+      "type": "recipe",
+      "sortid": 1717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd5",
+      "type": "recipe",
+      "sortid": 1718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd6",
+      "type": "recipe",
+      "sortid": 1719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd7",
+      "type": "recipe",
+      "sortid": 1720,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd8",
+      "type": "recipe",
+      "sortid": 1721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd9",
+      "type": "recipe",
+      "sortid": 1722,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd10",
+      "type": "recipe",
+      "sortid": 1723,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prd11",
+      "type": "recipe",
+      "sortid": 1724,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prd_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prd_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre1",
+      "type": "recipe",
+      "sortid": 1725,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre2",
+      "type": "recipe",
+      "sortid": 1726,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre3",
+      "type": "recipe",
+      "sortid": 1727,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre4",
+      "type": "recipe",
+      "sortid": 1728,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre5",
+      "type": "recipe",
+      "sortid": 1729,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre6",
+      "type": "recipe",
+      "sortid": 1730,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre7",
+      "type": "recipe",
+      "sortid": 1731,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre8",
+      "type": "recipe",
+      "sortid": 1732,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre9",
+      "type": "recipe",
+      "sortid": 1733,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre10",
+      "type": "recipe",
+      "sortid": 1734,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pre11",
+      "type": "recipe",
+      "sortid": 1735,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pre_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pre_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf1",
+      "type": "recipe",
+      "sortid": 1736,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf2",
+      "type": "recipe",
+      "sortid": 1737,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf3",
+      "type": "recipe",
+      "sortid": 1738,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf4",
+      "type": "recipe",
+      "sortid": 1739,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf5",
+      "type": "recipe",
+      "sortid": 1740,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf6",
+      "type": "recipe",
+      "sortid": 1741,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf7",
+      "type": "recipe",
+      "sortid": 1742,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf8",
+      "type": "recipe",
+      "sortid": 1743,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf9",
+      "type": "recipe",
+      "sortid": 1744,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf10",
+      "type": "recipe",
+      "sortid": 1745,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prf11",
+      "type": "recipe",
+      "sortid": 1746,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prf_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prf_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg1",
+      "type": "recipe",
+      "sortid": 1747,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg2",
+      "type": "recipe",
+      "sortid": 1748,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg3",
+      "type": "recipe",
+      "sortid": 1749,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg4",
+      "type": "recipe",
+      "sortid": 1750,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg5",
+      "type": "recipe",
+      "sortid": 1751,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg6",
+      "type": "recipe",
+      "sortid": 1752,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg7",
+      "type": "recipe",
+      "sortid": 1753,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg8",
+      "type": "recipe",
+      "sortid": 1754,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg9",
+      "type": "recipe",
+      "sortid": 1755,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg10",
+      "type": "recipe",
+      "sortid": 1756,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prg11",
+      "type": "recipe",
+      "sortid": 1757,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prg_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prg_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh1",
+      "type": "recipe",
+      "sortid": 1758,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh2",
+      "type": "recipe",
+      "sortid": 1759,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh3",
+      "type": "recipe",
+      "sortid": 1760,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh4",
+      "type": "recipe",
+      "sortid": 1761,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh5",
+      "type": "recipe",
+      "sortid": 1762,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh6",
+      "type": "recipe",
+      "sortid": 1763,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh7",
+      "type": "recipe",
+      "sortid": 1764,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh8",
+      "type": "recipe",
+      "sortid": 1765,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh9",
+      "type": "recipe",
+      "sortid": 1766,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh10",
+      "type": "recipe",
+      "sortid": 1767,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prh11",
+      "type": "recipe",
+      "sortid": 1768,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prh_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prh_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri1",
+      "type": "recipe",
+      "sortid": 1769,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri2",
+      "type": "recipe",
+      "sortid": 1770,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri3",
+      "type": "recipe",
+      "sortid": 1771,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri4",
+      "type": "recipe",
+      "sortid": 1772,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri5",
+      "type": "recipe",
+      "sortid": 1773,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri6",
+      "type": "recipe",
+      "sortid": 1774,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri7",
+      "type": "recipe",
+      "sortid": 1775,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri8",
+      "type": "recipe",
+      "sortid": 1776,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri9",
+      "type": "recipe",
+      "sortid": 1777,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri10",
+      "type": "recipe",
+      "sortid": 1778,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Pri11",
+      "type": "recipe",
+      "sortid": 1779,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pri_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/pri_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj1",
+      "type": "recipe",
+      "sortid": 1780,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_1.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj2",
+      "type": "recipe",
+      "sortid": 1781,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_2.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj3",
+      "type": "recipe",
+      "sortid": 1782,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_3.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj4",
+      "type": "recipe",
+      "sortid": 1783,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_4.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj5",
+      "type": "recipe",
+      "sortid": 1784,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_5.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj6",
+      "type": "recipe",
+      "sortid": 1785,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_6.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj7",
+      "type": "recipe",
+      "sortid": 1786,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_7.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj8",
+      "type": "recipe",
+      "sortid": 1787,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_8.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj9",
+      "type": "recipe",
+      "sortid": 1788,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_9.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj10",
+      "type": "recipe",
+      "sortid": 1789,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_10.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
+    },
+    {
+      "name": "Prj11",
+      "type": "recipe",
+      "sortid": 1790,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prj_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/prj_11.json"
+        ]
+      },
+      "path": "~/colorfull world/shovel"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.switchots_craft.oaksword": "Oak sword",
       "item.switchots_craft.acaciahoe": "Acacia hoe",
       "item.switchots_craft.birch_stick": "Birch stick",
-      "item.switchots_craft.plank_10": "Warped plank",
-      "block.switchots_craft.l_200": "Clol 1",
-      "item.switchots_craft.bamboohatchet": "Bamboo hatchet",
-      "item.switchots_craft.darkoakaxe": "Dark oak axe",
       "item.switchots_craft.dark_oak_stick": "Dark oak stick",
       "item.switchots_craft.bamboohoe": "Bamboo hoe",
+      "item.switchots_craft.acaciashovel_7": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_6": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_9": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_8": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_3": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_2": "Acacia shovel",
       "item.switchots_craft.acaciasword": "Acacia sword",
+      "item.switchots_craft.acaciashovel_5": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_4": "Acacia shovel",
       "item.switchots_craft.darkoakaxe_11": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_10": "Dark oak axe",
-      "item.switchots_craft.oakhoe": "Oak hoe",
-      "block.switchots_craft.cl_5": "Acacia cutting log",
-      "block.switchots_craft.cl_4": "Jungle cutting Log",
-      "block.switchots_craft.cl_3": "Birch cutting log",
-      "block.switchots_craft.cl_2": "Spruce cutting log",
-      "block.switchots_craft.cl_9": "Crimson cutting log",
-      "block.switchots_craft.cl_8": "Cherry cutting log",
-      "block.switchots_craft.cl_7": "Mangrove cutting log",
-      "item.switchots_craft.mangrovesword_10": "Mangrove sword",
-      "block.switchots_craft.cl_6": "Dark oak cutting log",
-      "item.switchots_craft.mangrovesword_11": "Mangrove sword",
-      "item.switchots_craft.mangroveaxe_11": "Mangrove axe",
-      "item.switchots_craft.crimson_stick": "Crimson stick",
-      "item.switchots_craft.mangroveaxe_10": "Mangrove axe",
+      "item.switchots_craft.crimsonshovel_9": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_8": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_7": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_6": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_5": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_4": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_3": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_2": "Crimson shovel",
+      "item.switchots_craft.oakshovel_5": "Oak shovel",
+      "item.switchots_craft.oakshovel_6": "Oak shovel",
+      "item.switchots_craft.oakshovel_7": "Oak shovel",
+      "item.switchots_craft.oakshovel_8": "Oak shovel",
+      "item.switchots_craft.oakshovel_2": "Oak shovel",
+      "item.switchots_craft.oakshovel_3": "Oak shovel",
+      "item.switchots_craft.oakshovel_4": "Oak shovel",
+      "item.switchots_craft.oakshovel_9": "Oak shovel",
       "block.switchots_craft.l_101": "Clol 1",
-      "item.switchots_craft.acacioaaxe_9": "Acacia axe",
-      "item.switchots_craft.cherryhoe_8": "Cherry hoe",
       "block.switchots_craft.l_100": "Clol 1",
-      "item.switchots_craft.cherryhoe_9": "Cherry hoe",
       "block.switchots_craft.l_105": "Clol 1",
-      "item.switchots_craft.cherry_stick": "Cherry stick",
       "block.switchots_craft.l_104": "Clol 1",
       "block.switchots_craft.l_103": "Clol 1",
       "block.switchots_craft.l_102": "Clol 1",
       "item.switchots_craft.jungle_stick": "Jungle stick",
       "item.switchots_craft.warpedrocksaw": "Warped saw",
-      "item.switchots_craft.oakshovel": "Oak shovel",
       "item.switchots_craft.jungleaxe_2": "Jungle axe",
       "item.switchots_craft.jungleaxe_3": "Jungle axe",
       "block.switchots_craft.l_109": "Clol 1",
@@ -23843,16 +27337,10 @@
       "item.switchots_craft.jungleaxe_7": "Jungle axe",
       "block.switchots_craft.l_107": "Clol 1",
       "item.switchots_craft.jungleaxe_4": "Jungle axe",
-      "item.switchots_craft.cherryhoe_2": "Cherry hoe",
       "block.switchots_craft.l_106": "Clol 1",
       "item.switchots_craft.jungleaxe_5": "Jungle axe",
-      "item.switchots_craft.cherryhoe_3": "Cherry hoe",
-      "item.switchots_craft.cherryhoe_4": "Cherry hoe",
-      "item.switchots_craft.cherryhoe_5": "Cherry hoe",
       "item.switchots_craft.jungleaxe_8": "Jungle axe",
-      "item.switchots_craft.cherryhoe_6": "Cherry hoe",
       "item.switchots_craft.jungleaxe_9": "Jungle axe",
-      "item.switchots_craft.cherryhoe_7": "Cherry hoe",
       "block.switchots_craft.l_112": "Clol 1",
       "block.switchots_craft.l_111": "Clol 1",
       "block.switchots_craft.l_110": "Clol 1",
@@ -23868,31 +27356,35 @@
       "item.switchots_craft.warpedaxe_5": "Warped axe",
       "item.switchots_craft.warpedaxe_2": "Warped axe",
       "item.switchots_craft.warpedaxe_3": "Warped axe",
+      "item.switchots_craft.jungleshovel_9": "Jungle shovel",
       "item.switchots_craft.acaciahatchet": "Acacia hatchet",
+      "item.switchots_craft.jungleshovel_7": "Jungle shovel",
       "block.switchots_craft.l_119": "Clol 1",
+      "item.switchots_craft.jungleshovel_8": "Jungle shovel",
       "block.switchots_craft.l_118": "Clol 1",
+      "item.switchots_craft.jungleshovel_5": "Jungle shovel",
       "block.switchots_craft.l_117": "Clol 1",
+      "item.switchots_craft.jungleshovel_6": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_3": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_4": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_2": "Jungle shovel",
       "block.switchots_craft.l_123": "Clol 1",
-      "item.switchots_craft.darkoakaxe_5": "Dark oak axe",
       "block.switchots_craft.l_122": "Clol 1",
-      "item.switchots_craft.darkoakaxe_4": "Dark oak axe",
-      "block.switchots_craft.l_121": "Clol 1",
-      "item.switchots_craft.darkoakaxe_3": "Dark oak axe",
       "item.switchots_craft.sprucehoe": "Spruce hoe",
+      "block.switchots_craft.l_121": "Clol 1",
       "block.switchots_craft.l_120": "Clol 1",
-      "item.switchots_craft.darkoakaxe_2": "Dark oak axe",
       "block.switchots_craft.l_127": "Clol 1",
       "block.switchots_craft.l_126": "Clol 1",
       "block.switchots_craft.l_125": "Clol 1",
       "block.switchots_craft.l_124": "Clol 1",
       "block.switchots_craft.l_2": "Clol 1",
       "block.switchots_craft.l_1": "Clol 1",
+      "item.switchots_craft.cherryshovel": "Cherry shovel",
       "block.switchots_craft.l_4": "Clol 1",
       "block.switchots_craft.l_3": "Clol 1",
       "item.switchots_craft.mangroverocksaw": "Mangrove saw",
-      "block.switchots_craft.l_6": "Clol 1",
-      "item.switchots_craft.birchhatchet": "Birch hatchet",
       "item.switchots_craft.birchtale_3": "Birch axe",
+      "block.switchots_craft.l_6": "Clol 1",
       "block.switchots_craft.l_5": "Clol 1",
       "item.switchots_craft.jungleaxe": "Jungle axe",
       "block.switchots_craft.l_8": "Clol 1",
@@ -23900,10 +27392,6 @@
       "block.switchots_craft.l_9": "Clol 1",
       "block.switchots_craft.l_129": "Clol 1",
       "block.switchots_craft.l_128": "Clol 1",
-      "item.switchots_craft.darkoakaxe_9": "Dark oak axe",
-      "item.switchots_craft.darkoakaxe_8": "Dark oak axe",
-      "item.switchots_craft.darkoakaxe_7": "Dark oak axe",
-      "item.switchots_craft.darkoakaxe_6": "Dark oak axe",
       "block.switchots_craft.l_134": "Clol 1",
       "block.switchots_craft.l_133": "Clol 1",
       "block.switchots_craft.l_132": "Clol 1",
@@ -23914,6 +27402,7 @@
       "block.switchots_craft.l_135": "Clol 1",
       "block.switchots_craft.l_130": "Clol 1",
       "item_group.switchots_craft.creative_table": "R progression",
+      "item.switchots_craft.crimsonshovel": "Crimson shovel",
       "block.switchots_craft.l_139": "Clol 1",
       "item.switchots_craft.warped_stick": "Warped stick",
       "block.switchots_craft.p_97": "Clol 1",
@@ -23946,10 +27435,8 @@
       "block.switchots_craft.l_152": "Clol 1",
       "block.switchots_craft.l_151": "Clol 1",
       "block.switchots_craft.l_150": "Clol 1",
-      "block.switchots_craft.cl_10": "Warped cutting log",
       "item.switchots_craft.oaksword_10": "Oak sword",
       "item.switchots_craft.oaksword_11": "Oak sword",
-      "item.switchots_craft.spruce_stick": "Spruce stick",
       "item.switchots_craft.cherrysword": "Cherry sword",
       "block.switchots_craft.p_91": "Clol 1",
       "block.switchots_craft.p_90": "Clol 1",
@@ -23974,8 +27461,6 @@
       "block.switchots_craft.l_162": "Clol 1",
       "block.switchots_craft.l_161": "Clol 1",
       "block.switchots_craft.l_160": "Clol 1",
-      "item.switchots_craft.darkoakrocksaw": "Dark oak saw",
-      "item.switchots_craft.acaciarocksaw": "Acacia saw",
       "block.switchots_craft.p_80": "Clol 1",
       "block.switchots_craft.p_82": "Clol 1",
       "block.switchots_craft.p_81": "Clol 1",
@@ -23997,18 +27482,15 @@
       "block.switchots_craft.p_69": "Clol 1",
       "block.switchots_craft.l_170": "Clol 1",
       "block.switchots_craft.l_174": "Clol 1",
-      "item.switchots_craft.warpedhoe_10": "Warped hoe",
       "block.switchots_craft.l_173": "Clol 1",
       "block.switchots_craft.l_172": "Clol 1",
       "block.switchots_craft.l_171": "Clol 1",
-      "item.switchots_craft.warpedhoe_11": "Warped hoe",
+      "item.switchots_craft.cherryshovel_11": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_10": "Cherry shovel",
       "item.switchots_craft.mangrovehoe_11": "Mangrove hoe",
       "item.switchots_craft.mangrovehoe_10": "Mangrove hoe",
       "block.switchots_craft.p_71": "Clol 1",
-      "item.switchots_craft.sprucerocksaw": "Spruce saw",
-      "item.switchots_craft.acaciahoe_10": "Acacia hoe",
       "block.switchots_craft.p_70": "Clol 1",
-      "item.switchots_craft.acaciahoe_11": "Acacia hoe",
       "block.switchots_craft.p_73": "Clol 1",
       "block.switchots_craft.p_72": "Clol 1",
       "block.switchots_craft.l_189": "Clol 1",
@@ -24026,15 +27508,23 @@
       "block.switchots_craft.p_59": "Clol 1",
       "block.switchots_craft.p_58": "Clol 1",
       "block.switchots_craft.l_181": "Clol 1",
+      "item.switchots_craft.bambooshovel_4": "Bamboo shovel",
       "block.switchots_craft.l_180": "Clol 1",
+      "item.switchots_craft.bambooshovel_5": "Bamboo shovel",
+      "item.switchots_craft.bambooshovel_2": "Bamboo shovel",
+      "item.switchots_craft.bambooshovel_3": "Bamboo shovel",
       "block.switchots_craft.l_185": "Clol 1",
+      "item.switchots_craft.bambooshovel_8": "Bamboo shovel",
       "block.switchots_craft.l_184": "Clol 1",
+      "item.switchots_craft.bambooshovel_9": "Bamboo shovel",
       "block.switchots_craft.l_183": "Clol 1",
       "item.switchots_craft.crimsonhatchet": "Crimson hatchet",
       "item.switchots_craft.junglesword_10": "Jungle sword",
       "item.switchots_craft.bamboosword": "Bamboo sword",
+      "item.switchots_craft.bambooshovel_6": "Bamboo shovel",
       "block.switchots_craft.l_182": "Clol 1",
       "item.switchots_craft.junglesword_11": "Jungle sword",
+      "item.switchots_craft.bambooshovel_7": "Bamboo shovel",
       "block.switchots_craft.p_60": "Clol 1",
       "block.switchots_craft.p_62": "Clol 1",
       "block.switchots_craft.p_61": "Clol 1",
@@ -24066,15 +27556,12 @@
       "item.switchots_craft.birchhoe_7": "Birch hoe",
       "item.switchots_craft.birchhoe_8": "Birch hoe",
       "block.switchots_craft.p_51": "Clol 1",
-      "item.switchots_craft.log_bark_10": "Warped bark",
       "block.switchots_craft.p_50": "Clol 1",
       "block.switchots_craft.p_31": "Clol 1",
       "item.switchots_craft.bamboorocksaw": "Bamboo saw",
-      "item.switchots_craft.warpedaxe_11": "Warped axe",
       "block.switchots_craft.p_30": "Clol 1",
       "block.switchots_craft.p_33": "Clol 1",
       "block.switchots_craft.p_32": "Clol 1",
-      "item.switchots_craft.warpedaxe_10": "Warped axe",
       "block.switchots_craft.p_35": "Clol 1",
       "block.switchots_craft.p_34": "Clol 1",
       "block.switchots_craft.p_37": "Clol 1",
@@ -24084,22 +27571,15 @@
       "item.switchots_craft.crimsonaxe": "Crimson axe",
       "block.switchots_craft.p_40": "Clol 1",
       "block.switchots_craft.p_20": "Clol 1",
-      "item.switchots_craft.mangrovesword_2": "Mangrove sword",
       "block.switchots_craft.p_22": "Clol 1",
-      "item.switchots_craft.mangrovesword_4": "Mangrove sword",
       "block.switchots_craft.p_21": "Clol 1",
-      "item.switchots_craft.mangrovesword_3": "Mangrove sword",
       "block.switchots_craft.p_24": "Clol 1",
-      "item.switchots_craft.mangrovesword_6": "Mangrove sword",
       "item.switchots_craft.rock": "Rock",
       "block.switchots_craft.p_23": "Clol 1",
-      "item.switchots_craft.mangrovesword_5": "Mangrove sword",
       "block.switchots_craft.p_26": "Clol 1",
       "item.switchots_craft.acaciasword_3": "Acacia sword",
-      "item.switchots_craft.mangrovesword_8": "Mangrove sword",
       "block.switchots_craft.p_25": "Clol 1",
       "item.switchots_craft.acaciasword_2": "Acacia sword",
-      "item.switchots_craft.mangrovesword_7": "Mangrove sword",
       "block.switchots_craft.p_28": "Clol 1",
       "item.switchots_craft.acaciasword_5": "Acacia sword",
       "block.switchots_craft.p_27": "Clol 1",
@@ -24117,9 +27597,8 @@
       "item.switchots_craft.cherryaxe_6": "Cherry axe",
       "item.switchots_craft.darkoaksword_7": "Dark oak sword",
       "item.switchots_craft.acaciaaxe_11": "Acacia axe",
-      "item.switchots_craft.darkoaksword_8": "Dark oak sword",
-      "item.switchots_craft.mangrovesword_9": "Mangrove sword",
       "item.switchots_craft.acaciaaxe_10": "Acacia axe",
+      "item.switchots_craft.darkoaksword_8": "Dark oak sword",
       "item.switchots_craft.darkoaksword_9": "Dark oak sword",
       "block.switchots_craft.p_11": "Clol 1",
       "block.switchots_craft.p_10": "Clol 1",
@@ -24136,7 +27615,6 @@
       "block.switchots_craft.p_16": "Clol 1",
       "block.switchots_craft.p_19": "Clol 1",
       "block.switchots_craft.p_18": "Clol 1",
-      "item.switchots_craft.oakpickaxe": "Oak pickaxe",
       "item.switchots_craft.acaciaaxe_4": "Acacia axe",
       "item.switchots_craft.cherryaxe_9": "Cherry axe",
       "item.switchots_craft.acaciaaxe_3": "Acacia axe",
@@ -24154,6 +27632,7 @@
       "item.switchots_craft.sprucehoe_10": "Spruce hoe",
       "item.switchots_craft.birchsword_8": "birch sword",
       "item.switchots_craft.birchsword_9": "birch sword",
+      "item.switchots_craft.darkshovel": "Dark oak shovel",
       "item.switchots_craft.mangrovehatchet": "Mangrove hatchet",
       "item.switchots_craft.birchsword_2": "birch sword",
       "item.switchots_craft.birchsword_3": "birch sword",
@@ -24165,7 +27644,6 @@
       "item.switchots_craft.darkhoe_9": "Dark oak hoe",
       "item.switchots_craft.mangrove_stick": "Mangrove stick",
       "block.switchots_craft.p_100": "Clol 1",
-      "item.switchots_craft.dark_oakhatchet": "Dark oak hatchet",
       "item.switchots_craft.cherrysword_11": "Cherry sword",
       "item.switchots_craft.crimsonhoe_4": "Crimson hoe",
       "item.switchots_craft.cherrysword_10": "Cherry sword",
@@ -24177,15 +27655,276 @@
       "item.switchots_craft.darkhoe_4": "Dark oak hoe",
       "item.switchots_craft.crimsonhoe_9": "Crimson hoe",
       "item.switchots_craft.crimsonhoe_6": "Crimson hoe",
-      "item.switchots_craft.bigfiber": "Fiber bundle",
-      "item.switchots_craft.darkhoe_2": "Dark oak hoe",
       "item.switchots_craft.crimsonhoe_7": "Crimson hoe",
+      "item.switchots_craft.darkhoe_2": "Dark oak hoe",
       "item.switchots_craft.oakaxe_2": "Oak axe",
-      "item.switchots_craft.birchaxe_7": "Birch axe",
       "item.switchots_craft.sprucesword_11": "Spruce sword",
       "item.switchots_craft.oakaxe_3": "Oak axe",
-      "item.switchots_craft.bamboohoe_9": "Bamboo hoe",
       "item.switchots_craft.sprucesword_10": "Spruce sword",
+      "item.switchots_craft.warpedaxe": "Warped axe",
+      "item.switchots_craft.oakaxe_8": "Oak axe",
+      "item.switchots_craft.oakaxe_9": "Oak axe",
+      "item.switchots_craft.oakaxe_6": "Oak axe",
+      "item.switchots_craft.oakaxe_7": "Oak axe",
+      "item.switchots_craft.oakaxe_4": "Oak axe",
+      "item.switchots_craft.mangroveaxe": "Mangrove axe",
+      "item.switchots_craft.oakaxe_5": "Oak axe",
+      "item.switchots_craft.cherryaxe_10": "Cherry axe",
+      "item.switchots_craft.cherryaxe_11": "Cherry axe",
+      "block.switchots_craft.cutting_log": "Oak cutting log",
+      "item.switchots_craft.mangrovesword": "Mangrove sword",
+      "item.switchots_craft.spruceaxe": "Spruce axe",
+      "item.switchots_craft.sprucehoe_6": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_5": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_8": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_7": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_2": "Spruce hoe",
+      "item.switchots_craft.mangrovehoe_9": "Mangrove hoe",
+      "item.switchots_craft.mangrovehoe_8": "Mangrove hoe",
+      "item.switchots_craft.darkhoe_10": "Dark oak hoe",
+      "item.switchots_craft.sprucehoe_4": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_3": "Spruce hoe",
+      "item.switchots_craft.darkhoe_11": "Dark oak hoe",
+      "item.switchots_craft.cherrysword_5": "Cherry sword",
+      "item.switchots_craft.oakshovel_11": "Oak shovel",
+      "item.switchots_craft.cherrysword_6": "Cherry sword",
+      "item.switchots_craft.oakshovel_10": "Oak shovel",
+      "item.switchots_craft.cherrysword_7": "Cherry sword",
+      "item.switchots_craft.cherrysword_8": "Cherry sword",
+      "item.switchots_craft.cherrysword_2": "Cherry sword",
+      "item.switchots_craft.sprucehoe_9": "Spruce hoe",
+      "item.switchots_craft.cherrysword_3": "Cherry sword",
+      "item.switchots_craft.cherrysword_4": "Cherry sword",
+      "item.switchots_craft.cherrysword_9": "Cherry sword",
+      "item.switchots_craft.mangrovehoe_5": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_3": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_4": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_4": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_7": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_5": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_6": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_6": "Bamboo axe",
+      "item.switchots_craft.bambooaxe_7": "Bamboo axe",
+      "item.switchots_craft.bambooaxe_8": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_3": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_9": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_2": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_2": "Bamboo axe",
+      "item.switchots_craft.sprucesword": "Spruce sword",
+      "item.switchots_craft.junglehoe_2": "Jungle hoe",
+      "item.switchots_craft.junglehoe_3": "Jungle hoe",
+      "item.switchots_craft.junglehoe_4": "Jungle hoe",
+      "item.switchots_craft.junglehoe_5": "Jungle hoe",
+      "item.switchots_craft.junglehoe_6": "Jungle hoe",
+      "item.switchots_craft.junglehoe_7": "Jungle hoe",
+      "item.switchots_craft.junglehoe_8": "Jungle hoe",
+      "item.switchots_craft.junglesword": "Jungle sword",
+      "item.switchots_craft.junglehoe_9": "Jungle hoe",
+      "item.switchots_craft.junglerocksaw": "Jungle saw",
+      "item.switchots_craft.cherryaxe": "Cherry axe",
+      "item.switchots_craft.bamboo_stick": "Bamboo stick",
+      "item.switchots_craft.darkshovel_11": "Dark oak shovel",
+      "item.switchots_craft.darkoaksword": "Dark oak sword",
+      "item.switchots_craft.darkshovel_10": "Dark oak shovel",
+      "item.switchots_craft.mangroveshovel_10": "Mangrove shovel",
+      "item.switchots_craft.mangroveshovel_11": "Mangrove shovel",
+      "item.switchots_craft.brichaxe_8": "Birch axe",
+      "item.switchots_craft.plank_2": "Spruce plank",
+      "item.switchots_craft.plank_1": "Oak plank",
+      "item.switchots_craft.plank_4": "Jungle plank",
+      "item.switchots_craft.plank_3": "Birch plank",
+      "item.switchots_craft.plank_6": "Dark oak plank",
+      "item.switchots_craft.plank_5": "Acacia plank",
+      "item.switchots_craft.plank_8": "Cherry plank",
+      "item.switchots_craft.plank_7": "Mangrove plank",
+      "item.switchots_craft.plank_9": "Crimson plank",
+      "item.switchots_craft.log_bark_5": "Acacia bark",
+      "item.switchots_craft.crimsonsword_2": "Crimson sword",
+      "item.switchots_craft.mangroveshovel_7": "Mangrove shovel",
+      "item.switchots_craft.log_bark_4": "Jungle bark",
+      "item.switchots_craft.mangroveshovel_8": "Mangrove shovel",
+      "item.switchots_craft.log_bark_3": "Birch bark",
+      "item.switchots_craft.mangroveshovel_5": "Mangrove shovel",
+      "item.switchots_craft.log_bark_2": "Spruce bark",
+      "item.switchots_craft.mangroveshovel_6": "Mangrove shovel",
+      "item.switchots_craft.crimsonsword_10": "Crimson sword",
+      "item.switchots_craft.mangroveshovel_9": "Mangrove shovel",
+      "item.switchots_craft.crimsonsword_11": "Crimson sword",
+      "item.switchots_craft.log_bark_9": "Crimson bark",
+      "item.switchots_craft.log_bark_8": "Cherry bark",
+      "item.switchots_craft.log_bark_7": "Mangrove bark",
+      "item.switchots_craft.log_bark_6": "Dark oak bark",
+      "item.switchots_craft.crimsonsword": "Crimson sword",
+      "item.switchots_craft.oakhatchet": "Oak hatchet",
+      "item.switchots_craft.oakhoe_3": "Oak hoe",
+      "item.switchots_craft.oakhoe_2": "Oak hoe",
+      "item.switchots_craft.darkhoe": "Dark oak hoe",
+      "item.switchots_craft.oakhoe_9": "Oak hoe",
+      "item.switchots_craft.warpedshovel": "Warped shovel",
+      "item.switchots_craft.oakhoe_8": "Oak hoe",
+      "item.switchots_craft.crimsonsword_9": "Crimson sword",
+      "item.switchots_craft.acaciaaxe": "Acacia axe",
+      "item.switchots_craft.crimsonsword_8": "Crimson sword",
+      "item.switchots_craft.oakhoe_11": "Oak hoe",
+      "item.switchots_craft.crimsonsword_7": "Crimson sword",
+      "item.switchots_craft.oakhoe_10": "Oak hoe",
+      "item.switchots_craft.oakhoe_5": "Oak hoe",
+      "item.switchots_craft.crimsonsword_6": "Crimson sword",
+      "item.switchots_craft.oakhoe_4": "Oak hoe",
+      "item.switchots_craft.crimsonsword_5": "Crimson sword",
+      "item.switchots_craft.crimsonsword_4": "Crimson sword",
+      "item.switchots_craft.oakhoe_7": "Oak hoe",
+      "item.switchots_craft.oakhoe_6": "Oak hoe",
+      "item.switchots_craft.crimsonsword_3": "Crimson sword",
+      "item.switchots_craft.fibesr_string": "Fiber string",
+      "item.switchots_craft.darkoaksword_10": "Dark oak sword",
+      "item.switchots_craft.darkoaksword_11": "Dark oak sword",
+      "item.switchots_craft.bamboohoe_10": "Bamboo hoe",
+      "item.switchots_craft.darkshovel_2": "Dark oak shovel",
+      "item.switchots_craft.bamboohoe_11": "Bamboo hoe",
+      "item.switchots_craft.darkshovel_3": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_6": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_7": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_4": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_5": "Dark oak shovel",
+      "item.switchots_craft.log_bark": "Oak bark",
+      "item.switchots_craft.birchhoe_10": "Birch hoe",
+      "item.switchots_craft.birchhoe_11": "Birch hoe",
+      "item.switchots_craft.mangrovehoe": "Mangrove hoe",
+      "item.switchots_craft.oaksword_3": "Oak sword",
+      "item.switchots_craft.oaksword_4": "Oak sword",
+      "item.switchots_craft.warpedhoe": "Warped hoe",
+      "item.switchots_craft.oaksword_2": "Oak sword",
+      "item.switchots_craft.oaksword_7": "Oak sword",
+      "item.switchots_craft.junglehoe_10": "Jungle hoe",
+      "item.switchots_craft.oaksword_8": "Oak sword",
+      "item.switchots_craft.oaksword_5": "Oak sword",
+      "item.switchots_craft.oaksword_6": "Oak sword",
+      "item.switchots_craft.oaksword_9": "Oak sword",
+      "item.switchots_craft.junglehoe": "Jungle hoe",
+      "item.switchots_craft.junglehoe_11": "Jungle hoe",
+      "block.switchots_craft.p_2": "Clol 1",
+      "block.switchots_craft.p_1": "Clol 1",
+      "block.switchots_craft.p_4": "Clol 1",
+      "block.switchots_craft.p_3": "Clol 1",
+      "block.switchots_craft.p_6": "Clol 1",
+      "block.switchots_craft.p_5": "Clol 1",
+      "block.switchots_craft.p_8": "Clol 1",
+      "block.switchots_craft.p_7": "Clol 1",
+      "block.switchots_craft.p_9": "Clol 1",
+      "item.switchots_craft.cherryhoe": "Cherry hoe",
+      "item.switchots_craft.cherryshovel_2": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_3": "Cherry shovel",
+      "item.switchots_craft.bamboosword_11": "Bamboo sword",
+      "item.switchots_craft.cherryshovel_4": "Cherry shovel",
+      "item.switchots_craft.bamboosword_10": "Bamboo sword",
+      "item.switchots_craft.cherryhatchet": "Cherry hatchet",
+      "item.switchots_craft.cherryshovel_9": "Cherry shovel",
+      "item.switchots_craft.mangroveshovel": "Mangrove shovel",
+      "item.switchots_craft.cherryshovel_5": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_6": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_7": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_8": "Cherry shovel",
+      "item.switchots_craft.oakstick": "Oak stick",
+      "item.switchots_craft.birchsword": "birch sword",
+      "item.switchots_craft.oaksword": "Oak sword",
+      "item.switchots_craft.jungleshovel": "Jungle shovel",
+      "item.switchots_craft.plank_10": "Warped plank",
+      "item.switchots_craft.jungleshovel_11": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_10": "Jungle shovel",
+      "block.switchots_craft.l_200": "Clol 1",
+      "item.switchots_craft.bamboohatchet": "Bamboo hatchet",
+      "item.switchots_craft.darkoakaxe": "Dark oak axe",
+      "item.switchots_craft.oakhoe": "Oak hoe",
+      "item.switchots_craft.birchshovel_11": "Birch shovel",
+      "item.switchots_craft.birchshovel_10": "Birch shovel",
+      "block.switchots_craft.cl_5": "Acacia cutting log",
+      "block.switchots_craft.cl_4": "Jungle cutting Log",
+      "block.switchots_craft.cl_3": "Birch cutting log",
+      "block.switchots_craft.cl_2": "Spruce cutting log",
+      "block.switchots_craft.cl_9": "Crimson cutting log",
+      "block.switchots_craft.cl_8": "Cherry cutting log",
+      "block.switchots_craft.cl_7": "Mangrove cutting log",
+      "item.switchots_craft.mangrovesword_10": "Mangrove sword",
+      "block.switchots_craft.cl_6": "Dark oak cutting log",
+      "item.switchots_craft.mangrovesword_11": "Mangrove sword",
+      "item.switchots_craft.mangroveaxe_11": "Mangrove axe",
+      "item.switchots_craft.crimson_stick": "Crimson stick",
+      "item.switchots_craft.mangroveaxe_10": "Mangrove axe",
+      "item.switchots_craft.acacioaaxe_9": "Acacia axe",
+      "item.switchots_craft.cherryhoe_8": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_9": "Cherry hoe",
+      "item.switchots_craft.cherry_stick": "Cherry stick",
+      "item.switchots_craft.oakshovel": "Oak shovel",
+      "item.switchots_craft.cherryhoe_2": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_3": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_4": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_5": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_6": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_7": "Cherry hoe",
+      "item.switchots_craft.spruceshovel_10": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_11": "Spruce shovel",
+      "item.switchots_craft.darkshovel_8": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_9": "Dark oak shovel",
+      "item.switchots_craft.darkoakaxe_5": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_4": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_3": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_2": "Dark oak axe",
+      "item.switchots_craft.birchhatchet": "Birch hatchet",
+      "item.switchots_craft.darkoakaxe_9": "Dark oak axe",
+      "item.switchots_craft.warpedshovel_10": "Warped shovel",
+      "item.switchots_craft.darkoakaxe_8": "Dark oak axe",
+      "item.switchots_craft.warpedshovel_11": "Warped shovel",
+      "item.switchots_craft.darkoakaxe_7": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_6": "Dark oak axe",
+      "item.switchots_craft.bambooshovel_11": "Bamboo shovel",
+      "item.switchots_craft.bambooshovel_10": "Bamboo shovel",
+      "item.switchots_craft.mangroveshovel_3": "Mangrove shovel",
+      "item.switchots_craft.mangroveshovel_4": "Mangrove shovel",
+      "item.switchots_craft.mangroveshovel_2": "Mangrove shovel",
+      "block.switchots_craft.cl_10": "Warped cutting log",
+      "item.switchots_craft.spruce_stick": "Spruce stick",
+      "item.switchots_craft.darkoakrocksaw": "Dark oak saw",
+      "item.switchots_craft.acaciarocksaw": "Acacia saw",
+      "item.switchots_craft.warpedhoe_10": "Warped hoe",
+      "item.switchots_craft.warpedhoe_11": "Warped hoe",
+      "item.switchots_craft.sprucerocksaw": "Spruce saw",
+      "item.switchots_craft.acaciahoe_10": "Acacia hoe",
+      "item.switchots_craft.acaciahoe_11": "Acacia hoe",
+      "item.switchots_craft.spruceshovel_8": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_9": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_6": "Spruce shovel",
+      "item.switchots_craft.birchshovel": "Birch shovel",
+      "item.switchots_craft.spruceshovel_7": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_4": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_5": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_2": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_3": "Spruce shovel",
+      "item.switchots_craft.log_bark_10": "Warped bark",
+      "item.switchots_craft.warpedaxe_11": "Warped axe",
+      "item.switchots_craft.warpedaxe_10": "Warped axe",
+      "item.switchots_craft.bambooshovel": "Bamboo shovel",
+      "item.switchots_craft.mangrovesword_2": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_6": "Warped shovel",
+      "item.switchots_craft.warpedshovel_5": "Warped shovel",
+      "item.switchots_craft.mangrovesword_4": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_4": "Warped shovel",
+      "item.switchots_craft.mangrovesword_3": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_3": "Warped shovel",
+      "item.switchots_craft.mangrovesword_6": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_2": "Warped shovel",
+      "item.switchots_craft.mangrovesword_5": "Mangrove sword",
+      "item.switchots_craft.mangrovesword_8": "Mangrove sword",
+      "item.switchots_craft.mangrovesword_7": "Mangrove sword",
+      "item.switchots_craft.mangrovesword_9": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_9": "Warped shovel",
+      "item.switchots_craft.warpedshovel_8": "Warped shovel",
+      "item.switchots_craft.warpedshovel_7": "Warped shovel",
+      "item.switchots_craft.oakpickaxe": "Oak pickaxe",
+      "item.switchots_craft.dark_oakhatchet": "Dark oak hatchet",
+      "item.switchots_craft.bigfiber": "Fiber bundle",
+      "item.switchots_craft.birchaxe_7": "Birch axe",
+      "item.switchots_craft.bamboohoe_9": "Bamboo hoe",
       "item.switchots_craft.birchaxe_9": "Birch axe",
       "item.switchots_craft.bamboohoe_8": "Bamboo hoe",
       "item.switchots_craft.bamboohoe_7": "Bamboo hoe",
@@ -24193,24 +27932,15 @@
       "item.switchots_craft.birchaxe_4": "Birch axe",
       "item.switchots_craft.bamboohoe_5": "Bamboo hoe",
       "item.switchots_craft.birchaxe_5": "Birch axe",
-      "item.switchots_craft.warpedaxe": "Warped axe",
       "item.switchots_craft.bamboohoe_4": "Bamboo hoe",
       "item.switchots_craft.birchaxe_6": "Birch axe",
       "item.switchots_craft.bamboohoe_3": "Bamboo hoe",
       "item.switchots_craft.bamboosword_7": "Bamboo sword",
       "item.switchots_craft.bamboosword_6": "Bamboo sword",
       "item.switchots_craft.bamboosword_5": "Bamboo sword",
-      "item.switchots_craft.oakaxe_8": "Oak axe",
       "item.switchots_craft.bamboosword_4": "Bamboo sword",
-      "item.switchots_craft.oakaxe_9": "Oak axe",
-      "item.switchots_craft.oakaxe_6": "Oak axe",
-      "item.switchots_craft.oakaxe_7": "Oak axe",
       "item.switchots_craft.bamboosword_9": "Bamboo sword",
-      "item.switchots_craft.oakaxe_4": "Oak axe",
       "item.switchots_craft.bamboosword_8": "Bamboo sword",
-      "item.switchots_craft.oakaxe_5": "Oak axe",
-      "item.switchots_craft.mangroveaxe": "Mangrove axe",
-      "item.switchots_craft.cherryaxe_10": "Cherry axe",
       "item.switchots_craft.bamboosword_3": "Bamboo sword",
       "item.switchots_craft.bamboosword_2": "Bamboo sword",
       "block.switchots_craft.l_99": "Clol 1",
@@ -24221,63 +27951,25 @@
       "block.switchots_craft.l_95": "Clol 1",
       "block.switchots_craft.l_94": "Clol 1",
       "block.switchots_craft.l_93": "Clol 1",
-      "item.switchots_craft.cherryaxe_11": "Cherry axe",
-      "block.switchots_craft.cutting_log": "Oak cutting log",
       "block.switchots_craft.l_92": "Clol 1",
-      "item.switchots_craft.mangrovesword": "Mangrove sword",
       "item.switchots_craft.jungleaxe_11": "Jungle axe",
       "item.switchots_craft.jungleaxe_10": "Jungle axe",
-      "item.switchots_craft.spruceaxe": "Spruce axe",
       "block.switchots_craft.l_80": "Clol 1",
-      "item.switchots_craft.sprucehoe_6": "Spruce hoe",
       "item.switchots_craft.birchsword_11": "birch sword",
-      "item.switchots_craft.sprucehoe_5": "Spruce hoe",
-      "item.switchots_craft.sprucehoe_8": "Spruce hoe",
-      "item.switchots_craft.sprucehoe_7": "Spruce hoe",
-      "item.switchots_craft.sprucehoe_2": "Spruce hoe",
-      "item.switchots_craft.mangrovehoe_9": "Mangrove hoe",
-      "item.switchots_craft.mangrovehoe_8": "Mangrove hoe",
       "item.switchots_craft.birchsword_10": "birch sword",
-      "item.switchots_craft.sprucehoe_4": "Spruce hoe",
-      "item.switchots_craft.darkhoe_10": "Dark oak hoe",
-      "item.switchots_craft.sprucehoe_3": "Spruce hoe",
-      "item.switchots_craft.darkhoe_11": "Dark oak hoe",
-      "item.switchots_craft.cherrysword_5": "Cherry sword",
-      "item.switchots_craft.cherrysword_6": "Cherry sword",
-      "item.switchots_craft.cherrysword_7": "Cherry sword",
-      "item.switchots_craft.cherrysword_8": "Cherry sword",
-      "item.switchots_craft.cherrysword_2": "Cherry sword",
-      "item.switchots_craft.sprucehoe_9": "Spruce hoe",
-      "item.switchots_craft.cherrysword_3": "Cherry sword",
-      "item.switchots_craft.cherrysword_4": "Cherry sword",
-      "item.switchots_craft.cherrysword_9": "Cherry sword",
+      "item.switchots_craft.spruceshovel": "Spruce shovel",
       "block.switchots_craft.l_79": "Clol 1",
       "block.switchots_craft.l_78": "Clol 1",
       "block.switchots_craft.l_77": "Clol 1",
-      "item.switchots_craft.bambooaxe_3": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_5": "Mangrove hoe",
       "block.switchots_craft.l_76": "Clol 1",
-      "item.switchots_craft.bambooaxe_4": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_4": "Mangrove hoe",
       "block.switchots_craft.l_75": "Clol 1",
-      "item.switchots_craft.bambooaxe_5": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_7": "Mangrove hoe",
       "block.switchots_craft.l_74": "Clol 1",
-      "item.switchots_craft.bambooaxe_6": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_6": "Mangrove hoe",
       "block.switchots_craft.l_73": "Clol 1",
-      "item.switchots_craft.bambooaxe_7": "Bamboo axe",
       "block.switchots_craft.l_72": "Clol 1",
-      "item.switchots_craft.bambooaxe_8": "Bamboo axe",
       "block.switchots_craft.l_71": "Clol 1",
-      "item.switchots_craft.bambooaxe_9": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_3": "Mangrove hoe",
       "block.switchots_craft.l_70": "Clol 1",
-      "item.switchots_craft.mangrovehoe_2": "Mangrove hoe",
       "block.switchots_craft.l_91": "Clol 1",
       "block.switchots_craft.l_90": "Clol 1",
-      "item.switchots_craft.bambooaxe_2": "Bamboo axe",
-      "item.switchots_craft.sprucesword": "Spruce sword",
       "item.switchots_craft.cherryrocksaw": "Cherry saw",
       "block.switchots_craft.l_89": "Clol 1",
       "block.switchots_craft.l_88": "Clol 1",
@@ -24292,18 +27984,7 @@
       "item.switchots_craft.warpedhoe_8": "Warped hoe",
       "block.switchots_craft.l_81": "Clol 1",
       "item.switchots_craft.warpedhoe_9": "Warped hoe",
-      "item.switchots_craft.junglehoe_2": "Jungle hoe",
-      "item.switchots_craft.junglehoe_3": "Jungle hoe",
-      "item.switchots_craft.junglehoe_4": "Jungle hoe",
-      "item.switchots_craft.junglehoe_5": "Jungle hoe",
-      "item.switchots_craft.junglehoe_6": "Jungle hoe",
-      "item.switchots_craft.junglehoe_7": "Jungle hoe",
       "item.switchots_craft.birchaxe": "Birch axe",
-      "item.switchots_craft.junglehoe_8": "Jungle hoe",
-      "item.switchots_craft.junglesword": "Jungle sword",
-      "item.switchots_craft.junglehoe_9": "Jungle hoe",
-      "item.switchots_craft.junglerocksaw": "Jungle saw",
-      "item.switchots_craft.cherryaxe": "Cherry axe",
       "item.switchots_craft.warpedsword": "Warped sword",
       "block.switchots_craft.l_59": "Clol 1",
       "block.switchots_craft.l_58": "Clol 1",
@@ -24315,7 +27996,6 @@
       "block.switchots_craft.l_52": "Clol 1",
       "block.switchots_craft.l_51": "Clol 1",
       "block.switchots_craft.l_50": "Clol 1",
-      "item.switchots_craft.bamboo_stick": "Bamboo stick",
       "item.switchots_craft.oakrocksaw": "Oak saw",
       "item.switchots_craft.sprucesword_3": "Spruce sword",
       "item.switchots_craft.acacia_stick": "Acacia stick",
@@ -24323,90 +28003,49 @@
       "item.switchots_craft.sprucesword_5": "Spruce sword",
       "item.switchots_craft.sprucesword_4": "Spruce sword",
       "item.switchots_craft.sprucesword_7": "Spruce sword",
-      "item.switchots_craft.darkoaksword": "Dark oak sword",
       "item.switchots_craft.sprucesword_6": "Spruce sword",
       "item.switchots_craft.sprucesword_9": "Spruce sword",
       "item.switchots_craft.sprucesword_8": "Spruce sword",
+      "item.switchots_craft.acaciashovel_10": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_11": "Acacia shovel",
       "item.switchots_craft.acaciasword_10": "Acacia sword",
       "item.switchots_craft.warpedhatchet": "Warped hatchet",
       "block.switchots_craft.l_69": "Clol 1",
       "item.switchots_craft.acaciasword_11": "Acacia sword",
-      "item.switchots_craft.plank_2": "Spruce plank",
       "block.switchots_craft.l_68": "Clol 1",
-      "item.switchots_craft.brichaxe_8": "Birch axe",
-      "item.switchots_craft.plank_1": "Oak plank",
       "block.switchots_craft.l_67": "Clol 1",
-      "item.switchots_craft.plank_4": "Jungle plank",
       "block.switchots_craft.l_66": "Clol 1",
-      "item.switchots_craft.plank_3": "Birch plank",
       "block.switchots_craft.l_65": "Clol 1",
-      "item.switchots_craft.plank_6": "Dark oak plank",
       "block.switchots_craft.l_64": "Clol 1",
-      "item.switchots_craft.plank_5": "Acacia plank",
       "block.switchots_craft.l_63": "Clol 1",
-      "item.switchots_craft.plank_8": "Cherry plank",
       "block.switchots_craft.l_62": "Clol 1",
-      "item.switchots_craft.plank_7": "Mangrove plank",
       "block.switchots_craft.l_61": "Clol 1",
       "block.switchots_craft.l_60": "Clol 1",
-      "item.switchots_craft.plank_9": "Crimson plank",
-      "item.switchots_craft.log_bark_5": "Acacia bark",
-      "item.switchots_craft.crimsonsword_2": "Crimson sword",
-      "item.switchots_craft.log_bark_4": "Jungle bark",
-      "item.switchots_craft.log_bark_3": "Birch bark",
-      "item.switchots_craft.log_bark_2": "Spruce bark",
       "item.switchots_craft.warpedsword_11": "Warped sword",
       "item.switchots_craft.warpedsword_10": "Warped sword",
-      "item.switchots_craft.crimsonsword_10": "Crimson sword",
-      "item.switchots_craft.crimsonsword_11": "Crimson sword",
-      "item.switchots_craft.log_bark_9": "Crimson bark",
-      "item.switchots_craft.log_bark_8": "Cherry bark",
-      "item.switchots_craft.log_bark_7": "Mangrove bark",
-      "item.switchots_craft.log_bark_6": "Dark oak bark",
       "block.switchots_craft.l_39": "Clol 1",
       "block.switchots_craft.l_38": "Clol 1",
       "block.switchots_craft.l_37": "Clol 1",
       "block.switchots_craft.l_36": "Clol 1",
-      "item.switchots_craft.crimsonsword": "Crimson sword",
       "block.switchots_craft.l_35": "Clol 1",
       "block.switchots_craft.l_34": "Clol 1",
       "block.switchots_craft.l_33": "Clol 1",
       "block.switchots_craft.l_32": "Clol 1",
       "block.switchots_craft.l_31": "Clol 1",
       "block.switchots_craft.l_30": "Clol 1",
-      "item.switchots_craft.oakhatchet": "Oak hatchet",
-      "item.switchots_craft.oakhoe_3": "Oak hoe",
       "block.switchots_craft.l_49": "Clol 1",
-      "item.switchots_craft.oakhoe_2": "Oak hoe",
       "block.switchots_craft.l_48": "Clol 1",
       "block.switchots_craft.l_47": "Clol 1",
-      "item.switchots_craft.darkhoe": "Dark oak hoe",
       "block.switchots_craft.l_46": "Clol 1",
       "block.switchots_craft.l_45": "Clol 1",
       "block.switchots_craft.l_44": "Clol 1",
-      "item.switchots_craft.oakhoe_9": "Oak hoe",
       "block.switchots_craft.l_43": "Clol 1",
-      "item.switchots_craft.crimsonsword_9": "Crimson sword",
-      "item.switchots_craft.oakhoe_8": "Oak hoe",
       "block.switchots_craft.l_42": "Clol 1",
-      "item.switchots_craft.crimsonsword_8": "Crimson sword",
-      "item.switchots_craft.acaciaaxe": "Acacia axe",
       "block.switchots_craft.l_41": "Clol 1",
-      "item.switchots_craft.crimsonsword_7": "Crimson sword",
-      "item.switchots_craft.oakhoe_11": "Oak hoe",
-      "block.switchots_craft.l_40": "Clol 1",
-      "item.switchots_craft.crimsonsword_6": "Crimson sword",
       "item.switchots_craft.warpedsword_8": "Warped sword",
-      "item.switchots_craft.oakhoe_5": "Oak hoe",
-      "item.switchots_craft.oakhoe_10": "Oak hoe",
-      "item.switchots_craft.crimsonsword_5": "Crimson sword",
+      "block.switchots_craft.l_40": "Clol 1",
       "item.switchots_craft.warpedsword_7": "Warped sword",
-      "item.switchots_craft.oakhoe_4": "Oak hoe",
-      "item.switchots_craft.crimsonsword_4": "Crimson sword",
-      "item.switchots_craft.oakhoe_7": "Oak hoe",
-      "item.switchots_craft.crimsonsword_3": "Crimson sword",
       "item.switchots_craft.warpedsword_9": "Warped sword",
-      "item.switchots_craft.oakhoe_6": "Oak hoe",
       "item.switchots_craft.warpedsword_4": "Warped sword",
       "item.switchots_craft.acaciahoe_2": "Acacia hoe",
       "item.switchots_craft.warpedhoe_2": "Warped hoe",
@@ -24422,27 +28061,24 @@
       "item.switchots_craft.acaciahoe_8": "Acacia hoe",
       "item.switchots_craft.acaciahoe_7": "Acacia hoe",
       "item.switchots_craft.acaciahoe_6": "Acacia hoe",
+      "item.switchots_craft.crimsonshovel_11": "Crimson shovel",
       "item.switchots_craft.acaciahoe_5": "Acacia hoe",
+      "item.switchots_craft.crimsonshovel_10": "Crimson shovel",
       "item.switchots_craft.acaciahoe_4": "Acacia hoe",
       "item.switchots_craft.acaciahoe_3": "Acacia hoe",
       "block.switchots_craft.l_19": "Clol 1",
       "block.switchots_craft.l_18": "Clol 1",
       "block.switchots_craft.l_17": "Clol 1",
       "block.switchots_craft.l_16": "Clol 1",
+      "item.switchots_craft.acaciashovel": "Acacia shovel",
       "block.switchots_craft.l_15": "Clol 1",
-      "item.switchots_craft.fibesr_string": "Fiber string",
       "block.switchots_craft.l_14": "Clol 1",
       "block.switchots_craft.l_13": "Clol 1",
       "block.switchots_craft.l_12": "Clol 1",
       "block.switchots_craft.l_11": "Clol 1",
       "block.switchots_craft.l_10": "Clol 1",
-      "item.switchots_craft.darkoaksword_10": "Dark oak sword",
-      "item.switchots_craft.darkoaksword_11": "Dark oak sword",
-      "item.switchots_craft.bamboohoe_10": "Bamboo hoe",
-      "item.switchots_craft.bamboohoe_11": "Bamboo hoe",
       "item.switchots_craft.oakaxe": "Oak axe",
       "item.switchots_craft.spruceaxe_8": "Spruce axe",
-      "item.switchots_craft.log_bark": "Oak bark",
       "block.switchots_craft.l_29": "Clol 1",
       "item.switchots_craft.spruceaxe_7": "Spruce axe",
       "block.switchots_craft.l_28": "Clol 1",
@@ -24457,26 +28093,19 @@
       "item.switchots_craft.spruceaxe_2": "Spruce axe",
       "block.switchots_craft.l_23": "Clol 1",
       "block.switchots_craft.l_22": "Clol 1",
-      "item.switchots_craft.birchhoe_10": "Birch hoe",
+      "item.switchots_craft.birchshovel_2": "Birch shovel",
       "block.switchots_craft.l_21": "Clol 1",
-      "item.switchots_craft.birchhoe_11": "Birch hoe",
+      "item.switchots_craft.birchshovel_3": "Birch shovel",
       "block.switchots_craft.l_20": "Clol 1",
+      "item.switchots_craft.birchshovel_4": "Birch shovel",
+      "item.switchots_craft.birchshovel_5": "Birch shovel",
+      "item.switchots_craft.birchshovel_6": "Birch shovel",
+      "item.switchots_craft.birchshovel_7": "Birch shovel",
+      "item.switchots_craft.birchshovel_8": "Birch shovel",
       "item.switchots_craft.spruceaxe_9": "Spruce axe",
-      "item.switchots_craft.mangrovehoe": "Mangrove hoe",
+      "item.switchots_craft.birchshovel_9": "Birch shovel",
       "item.switchots_craft.bambooaxe_11": "Bamboo axe",
       "item.switchots_craft.bambooaxe_10": "Bamboo axe",
-      "item.switchots_craft.oaksword_3": "Oak sword",
-      "item.switchots_craft.oaksword_4": "Oak sword",
-      "item.switchots_craft.warpedhoe": "Warped hoe",
-      "item.switchots_craft.oaksword_2": "Oak sword",
-      "item.switchots_craft.oaksword_7": "Oak sword",
-      "item.switchots_craft.junglehoe_10": "Jungle hoe",
-      "item.switchots_craft.oaksword_8": "Oak sword",
-      "item.switchots_craft.oaksword_5": "Oak sword",
-      "item.switchots_craft.oaksword_6": "Oak sword",
-      "item.switchots_craft.oaksword_9": "Oak sword",
-      "item.switchots_craft.junglehoe": "Jungle hoe",
-      "item.switchots_craft.junglehoe_11": "Jungle hoe",
       "item.switchots_craft.spruceaxe_10": "Spruce axe",
       "item.switchots_craft.spruceaxe_11": "Spruce axe",
       "item.switchots_craft.junglesword_9": "Jungle sword",
@@ -24493,19 +28122,9 @@
       "item.switchots_craft.mangroveaxe_4": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_3": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_2": "Mangrove axe",
-      "block.switchots_craft.p_2": "Clol 1",
-      "block.switchots_craft.p_1": "Clol 1",
-      "block.switchots_craft.p_4": "Clol 1",
-      "block.switchots_craft.p_3": "Clol 1",
-      "block.switchots_craft.p_6": "Clol 1",
-      "block.switchots_craft.p_5": "Clol 1",
-      "block.switchots_craft.p_8": "Clol 1",
       "item.switchots_craft.birchaxe_11": "Birch axe",
-      "block.switchots_craft.p_7": "Clol 1",
       "item.switchots_craft.birchaxe_10": "Birch axe",
-      "block.switchots_craft.p_9": "Clol 1",
       "item.switchots_craft.birchaxe_2": "Birch axe",
-      "item.switchots_craft.cherryhoe": "Cherry hoe",
       "item.switchots_craft.crimsonaxe_5": "Crimson axe",
       "item.switchots_craft.crimsonaxe_4": "Crimson axe",
       "item.switchots_craft.crimsonaxe_3": "Crimson axe",
@@ -24516,61 +28135,56 @@
       "item.switchots_craft.crimsonaxe_7": "Crimson axe",
       "item.switchots_craft.crimsonaxe_6": "Crimson axe",
       "item.switchots_craft.cherryhoe_11": "Cherry hoe",
-      "item.switchots_craft.bamboosword_11": "Bamboo sword",
-      "item.switchots_craft.bamboosword_10": "Bamboo sword",
       "item.switchots_craft.mangroveaxe_9": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_8": "Mangrove axe",
       "item.switchots_craft.birchrocksaw": "Birch saw",
-      "item.switchots_craft.cherryhatchet": "Cherry hatchet",
       "item.switchots_craft.bambooaxe": "Bamboo axe",
       "item.switchots_craft.cherryhoe_10": "Cherry hoe",
       "item.switchots_craft.crimsonrocksaw": "Crimson saw",
-      "item.switchots_craft.oakstick": "Oak stick",
       "item.switchots_craft.oakaxe_11": "Oak axe",
-      "item.switchots_craft.birchsword": "birch sword",
       "item.switchots_craft.birchhoe": "Birch hoe",
       "item.switchots_craft.oakaxe_10": "Oak axe"
     },
     "fr_fr": {
-      "item.switchots_craft.oaksword": "Oak sword",
       "item.switchots_craft.acaciahoe": "Jungle hoe",
       "item.switchots_craft.birch_stick": "Oak stick",
-      "item.switchots_craft.plank_10": " Planche biscornue",
-      "block.switchots_craft.l_200": "Clol 1",
-      "item.switchots_craft.bamboohatchet": "Warped hatchet",
-      "item.switchots_craft.darkoakaxe": "Acacia axe",
       "item.switchots_craft.dark_oak_stick": "Acacia stick",
       "item.switchots_craft.bamboohoe": "Warped hoe",
+      "item.switchots_craft.acaciashovel_7": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_6": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_9": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_8": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_3": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_2": "Acacia shovel",
       "item.switchots_craft.acaciasword": "Jungle sword",
+      "item.switchots_craft.acaciashovel_5": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_4": "Acacia shovel",
       "item.switchots_craft.darkoakaxe_11": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_10": "Dark oak axe",
-      "item.switchots_craft.oakhoe": "Oak hoe",
-      "block.switchots_craft.cl_5": "Bûche de coupe en acacia",
-      "block.switchots_craft.cl_4": "Bûche de coupe en acajou",
-      "block.switchots_craft.cl_3": "Bûche de coupe en bouleau",
-      "block.switchots_craft.cl_2": "Bûche de coupe en sapin",
-      "block.switchots_craft.cl_9": "Bûche de coupe carmin",
-      "block.switchots_craft.cl_8": "Bûche de coupe de cerisier",
-      "block.switchots_craft.cl_7": "Bûche de coupe de palétuvier",
-      "item.switchots_craft.mangrovesword_10": "Mangrove sword",
-      "block.switchots_craft.cl_6": "Bûche de coupe en chêne noir",
-      "item.switchots_craft.mangrovesword_11": "Mangrove sword",
-      "item.switchots_craft.mangroveaxe_11": "Mangrove axe",
-      "item.switchots_craft.crimson_stick": "Cherry stick",
-      "item.switchots_craft.mangroveaxe_10": "Mangrove axe",
+      "item.switchots_craft.crimsonshovel_9": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_8": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_7": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_6": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_5": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_4": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_3": "Crimson shovel",
+      "item.switchots_craft.crimsonshovel_2": "Crimson shovel",
+      "item.switchots_craft.oakshovel_5": "Oak shovel",
+      "item.switchots_craft.oakshovel_6": "Oak shovel",
+      "item.switchots_craft.oakshovel_7": "Oak shovel",
+      "item.switchots_craft.oakshovel_8": "Oak shovel",
+      "item.switchots_craft.oakshovel_2": "Oak shovel",
+      "item.switchots_craft.oakshovel_3": "Oak shovel",
+      "item.switchots_craft.oakshovel_4": "Oak shovel",
+      "item.switchots_craft.oakshovel_9": "Oak shovel",
       "block.switchots_craft.l_101": "Clol 1",
-      "item.switchots_craft.acacioaaxe_9": "Acacia axe",
-      "item.switchots_craft.cherryhoe_8": "Cherry hoe",
       "block.switchots_craft.l_100": "Clol 1",
-      "item.switchots_craft.cherryhoe_9": "Cherry hoe",
       "block.switchots_craft.l_105": "Clol 1",
-      "item.switchots_craft.cherry_stick": "Mangrove stick",
       "block.switchots_craft.l_104": "Clol 1",
       "block.switchots_craft.l_103": "Clol 1",
       "block.switchots_craft.l_102": "Clol 1",
       "item.switchots_craft.jungle_stick": "Birch stick",
       "item.switchots_craft.warpedrocksaw": "Crimson saw",
-      "item.switchots_craft.oakshovel": "Oak shovel",
       "item.switchots_craft.jungleaxe_2": "Jungle axe",
       "item.switchots_craft.jungleaxe_3": "Jungle axe",
       "block.switchots_craft.l_109": "Clol 1",
@@ -24579,16 +28193,10 @@
       "item.switchots_craft.jungleaxe_7": "Jungle axe",
       "block.switchots_craft.l_107": "Clol 1",
       "item.switchots_craft.jungleaxe_4": "Jungle axe",
-      "item.switchots_craft.cherryhoe_2": "Cherry hoe",
       "block.switchots_craft.l_106": "Clol 1",
       "item.switchots_craft.jungleaxe_5": "Jungle axe",
-      "item.switchots_craft.cherryhoe_3": "Cherry hoe",
-      "item.switchots_craft.cherryhoe_4": "Cherry hoe",
-      "item.switchots_craft.cherryhoe_5": "Cherry hoe",
       "item.switchots_craft.jungleaxe_8": "Jungle axe",
-      "item.switchots_craft.cherryhoe_6": "Cherry hoe",
       "item.switchots_craft.jungleaxe_9": "Jungle axe",
-      "item.switchots_craft.cherryhoe_7": "Cherry hoe",
       "block.switchots_craft.l_112": "Clol 1",
       "block.switchots_craft.l_111": "Clol 1",
       "block.switchots_craft.l_110": "Clol 1",
@@ -24604,31 +28212,35 @@
       "item.switchots_craft.warpedaxe_5": "Warped axe",
       "item.switchots_craft.warpedaxe_2": "Warped axe",
       "item.switchots_craft.warpedaxe_3": "Warped axe",
+      "item.switchots_craft.jungleshovel_9": "Jungle shovel",
       "item.switchots_craft.acaciahatchet": "Jungle hatchet",
+      "item.switchots_craft.jungleshovel_7": "Jungle shovel",
       "block.switchots_craft.l_119": "Clol 1",
+      "item.switchots_craft.jungleshovel_8": "Jungle shovel",
       "block.switchots_craft.l_118": "Clol 1",
+      "item.switchots_craft.jungleshovel_5": "Jungle shovel",
       "block.switchots_craft.l_117": "Clol 1",
+      "item.switchots_craft.jungleshovel_6": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_3": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_4": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_2": "Jungle shovel",
       "block.switchots_craft.l_123": "Clol 1",
-      "item.switchots_craft.darkoakaxe_5": "Dark oak axe",
       "block.switchots_craft.l_122": "Clol 1",
-      "item.switchots_craft.darkoakaxe_4": "Dark oak axe",
-      "block.switchots_craft.l_121": "Clol 1",
-      "item.switchots_craft.darkoakaxe_3": "Dark oak axe",
       "item.switchots_craft.sprucehoe": "Oak hoe",
+      "block.switchots_craft.l_121": "Clol 1",
       "block.switchots_craft.l_120": "Clol 1",
-      "item.switchots_craft.darkoakaxe_2": "Dark oak axe",
       "block.switchots_craft.l_127": "Clol 1",
       "block.switchots_craft.l_126": "Clol 1",
       "block.switchots_craft.l_125": "Clol 1",
       "block.switchots_craft.l_124": "Clol 1",
       "block.switchots_craft.l_2": "Clol 1",
       "block.switchots_craft.l_1": "Clol 1",
+      "item.switchots_craft.cherryshovel": "Mangrove shovel",
       "block.switchots_craft.l_4": "Clol 1",
       "block.switchots_craft.l_3": "Clol 1",
       "item.switchots_craft.mangroverocksaw": "Dark oak saw",
-      "block.switchots_craft.l_6": "Clol 1",
-      "item.switchots_craft.birchhatchet": "Spruce hatchet",
       "item.switchots_craft.birchtale_3": "Birch axe",
+      "block.switchots_craft.l_6": "Clol 1",
       "block.switchots_craft.l_5": "Clol 1",
       "item.switchots_craft.jungleaxe": "Birch axe",
       "block.switchots_craft.l_8": "Clol 1",
@@ -24636,10 +28248,6 @@
       "block.switchots_craft.l_9": "Clol 1",
       "block.switchots_craft.l_129": "Clol 1",
       "block.switchots_craft.l_128": "Clol 1",
-      "item.switchots_craft.darkoakaxe_9": "Dark oak axe",
-      "item.switchots_craft.darkoakaxe_8": "Dark oak axe",
-      "item.switchots_craft.darkoakaxe_7": "Dark oak axe",
-      "item.switchots_craft.darkoakaxe_6": "Dark oak axe",
       "block.switchots_craft.l_134": "Clol 1",
       "block.switchots_craft.l_133": "Clol 1",
       "block.switchots_craft.l_132": "Clol 1",
@@ -24650,6 +28258,7 @@
       "block.switchots_craft.l_135": "Clol 1",
       "block.switchots_craft.l_130": "Clol 1",
       "item_group.switchots_craft.creative_table": "R progression",
+      "item.switchots_craft.crimsonshovel": "Cherry shovel",
       "block.switchots_craft.l_139": "Clol 1",
       "item.switchots_craft.warped_stick": "Crimson stick",
       "block.switchots_craft.p_97": "Clol 1",
@@ -24682,10 +28291,8 @@
       "block.switchots_craft.l_152": "Clol 1",
       "block.switchots_craft.l_151": "Clol 1",
       "block.switchots_craft.l_150": "Clol 1",
-      "block.switchots_craft.cl_10": "Bûche de coupe biscornue",
       "item.switchots_craft.oaksword_10": "Oak sword",
       "item.switchots_craft.oaksword_11": "Oak sword",
-      "item.switchots_craft.spruce_stick": "Spruce stick",
       "item.switchots_craft.cherrysword": "Mangrove sword",
       "block.switchots_craft.p_91": "Clol 1",
       "block.switchots_craft.p_90": "Clol 1",
@@ -24710,8 +28317,6 @@
       "block.switchots_craft.l_162": "Clol 1",
       "block.switchots_craft.l_161": "Clol 1",
       "block.switchots_craft.l_160": "Clol 1",
-      "item.switchots_craft.darkoakrocksaw": "Acacia saw",
-      "item.switchots_craft.acaciarocksaw": "Jungle saw",
       "block.switchots_craft.p_80": "Clol 1",
       "block.switchots_craft.p_82": "Clol 1",
       "block.switchots_craft.p_81": "Clol 1",
@@ -24733,18 +28338,15 @@
       "block.switchots_craft.p_69": "Clol 1",
       "block.switchots_craft.l_170": "Clol 1",
       "block.switchots_craft.l_174": "Clol 1",
-      "item.switchots_craft.warpedhoe_10": "Warped hoe",
       "block.switchots_craft.l_173": "Clol 1",
       "block.switchots_craft.l_172": "Clol 1",
       "block.switchots_craft.l_171": "Clol 1",
-      "item.switchots_craft.warpedhoe_11": "Warped hoe",
+      "item.switchots_craft.cherryshovel_11": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_10": "Cherry shovel",
       "item.switchots_craft.mangrovehoe_11": "Mangrove hoe",
       "item.switchots_craft.mangrovehoe_10": "Mangrove hoe",
       "block.switchots_craft.p_71": "Clol 1",
-      "item.switchots_craft.sprucerocksaw": "Oak saw",
-      "item.switchots_craft.acaciahoe_10": "Acacia hoe",
       "block.switchots_craft.p_70": "Clol 1",
-      "item.switchots_craft.acaciahoe_11": "Acacia hoe",
       "block.switchots_craft.p_73": "Clol 1",
       "block.switchots_craft.p_72": "Clol 1",
       "block.switchots_craft.l_189": "Clol 1",
@@ -24762,15 +28364,23 @@
       "block.switchots_craft.p_59": "Clol 1",
       "block.switchots_craft.p_58": "Clol 1",
       "block.switchots_craft.l_181": "Clol 1",
+      "item.switchots_craft.bambooshovel_4": "Bamboo shovel",
       "block.switchots_craft.l_180": "Clol 1",
+      "item.switchots_craft.bambooshovel_5": "Bamboo shovel",
+      "item.switchots_craft.bambooshovel_2": "Bamboo shovel",
+      "item.switchots_craft.bambooshovel_3": "Bamboo shovel",
       "block.switchots_craft.l_185": "Clol 1",
+      "item.switchots_craft.bambooshovel_8": "Bamboo shovel",
       "block.switchots_craft.l_184": "Clol 1",
+      "item.switchots_craft.bambooshovel_9": "Bamboo shovel",
       "block.switchots_craft.l_183": "Clol 1",
       "item.switchots_craft.crimsonhatchet": "Cherry hatchet",
       "item.switchots_craft.junglesword_10": "Jungle sword",
       "item.switchots_craft.bamboosword": "Warped sword",
+      "item.switchots_craft.bambooshovel_6": "Bamboo shovel",
       "block.switchots_craft.l_182": "Clol 1",
       "item.switchots_craft.junglesword_11": "Jungle sword",
+      "item.switchots_craft.bambooshovel_7": "Bamboo shovel",
       "block.switchots_craft.p_60": "Clol 1",
       "block.switchots_craft.p_62": "Clol 1",
       "block.switchots_craft.p_61": "Clol 1",
@@ -24802,15 +28412,12 @@
       "item.switchots_craft.birchhoe_7": "Birch hoe",
       "item.switchots_craft.birchhoe_8": "Birch hoe",
       "block.switchots_craft.p_51": "Clol 1",
-      "item.switchots_craft.log_bark_10": "Écorce biscornue",
       "block.switchots_craft.p_50": "Clol 1",
       "block.switchots_craft.p_31": "Clol 1",
       "item.switchots_craft.bamboorocksaw": "Warped saw",
-      "item.switchots_craft.warpedaxe_11": "Warped axe",
       "block.switchots_craft.p_30": "Clol 1",
       "block.switchots_craft.p_33": "Clol 1",
       "block.switchots_craft.p_32": "Clol 1",
-      "item.switchots_craft.warpedaxe_10": "Warped axe",
       "block.switchots_craft.p_35": "Clol 1",
       "block.switchots_craft.p_34": "Clol 1",
       "block.switchots_craft.p_37": "Clol 1",
@@ -24820,22 +28427,15 @@
       "item.switchots_craft.crimsonaxe": "Cherry axe",
       "block.switchots_craft.p_40": "Clol 1",
       "block.switchots_craft.p_20": "Clol 1",
-      "item.switchots_craft.mangrovesword_2": "Mangrove sword",
       "block.switchots_craft.p_22": "Clol 1",
-      "item.switchots_craft.mangrovesword_4": "Mangrove sword",
       "block.switchots_craft.p_21": "Clol 1",
-      "item.switchots_craft.mangrovesword_3": "Mangrove sword",
       "block.switchots_craft.p_24": "Clol 1",
-      "item.switchots_craft.mangrovesword_6": "Mangrove sword",
       "item.switchots_craft.rock": "Roche",
       "block.switchots_craft.p_23": "Clol 1",
-      "item.switchots_craft.mangrovesword_5": "Mangrove sword",
       "block.switchots_craft.p_26": "Clol 1",
       "item.switchots_craft.acaciasword_3": "Acacia sword",
-      "item.switchots_craft.mangrovesword_8": "Mangrove sword",
       "block.switchots_craft.p_25": "Clol 1",
       "item.switchots_craft.acaciasword_2": "Acacia sword",
-      "item.switchots_craft.mangrovesword_7": "Mangrove sword",
       "block.switchots_craft.p_28": "Clol 1",
       "item.switchots_craft.acaciasword_5": "Acacia sword",
       "block.switchots_craft.p_27": "Clol 1",
@@ -24853,9 +28453,8 @@
       "item.switchots_craft.cherryaxe_6": "Cherry axe",
       "item.switchots_craft.darkoaksword_7": "Dark oak sword",
       "item.switchots_craft.acaciaaxe_11": "Acacia axe",
-      "item.switchots_craft.darkoaksword_8": "Dark oak sword",
-      "item.switchots_craft.mangrovesword_9": "Mangrove sword",
       "item.switchots_craft.acaciaaxe_10": "Acacia axe",
+      "item.switchots_craft.darkoaksword_8": "Dark oak sword",
       "item.switchots_craft.darkoaksword_9": "Dark oak sword",
       "block.switchots_craft.p_11": "Clol 1",
       "block.switchots_craft.p_10": "Clol 1",
@@ -24872,7 +28471,6 @@
       "block.switchots_craft.p_16": "Clol 1",
       "block.switchots_craft.p_19": "Clol 1",
       "block.switchots_craft.p_18": "Clol 1",
-      "item.switchots_craft.oakpickaxe": "Oak pickaxe",
       "item.switchots_craft.acaciaaxe_4": "Acacia axe",
       "item.switchots_craft.cherryaxe_9": "Cherry axe",
       "item.switchots_craft.acaciaaxe_3": "Acacia axe",
@@ -24890,6 +28488,7 @@
       "item.switchots_craft.sprucehoe_10": "Spruce hoe",
       "item.switchots_craft.birchsword_8": "birch sword",
       "item.switchots_craft.birchsword_9": "birch sword",
+      "item.switchots_craft.darkshovel": "Acacia shovel",
       "item.switchots_craft.mangrovehatchet": "Dark oak hatchet",
       "item.switchots_craft.birchsword_2": "birch sword",
       "item.switchots_craft.birchsword_3": "birch sword",
@@ -24901,7 +28500,6 @@
       "item.switchots_craft.darkhoe_9": "Dark oak hoe",
       "item.switchots_craft.mangrove_stick": "Dark oak stick",
       "block.switchots_craft.p_100": "Clol 1",
-      "item.switchots_craft.dark_oakhatchet": "Acacia hatchet",
       "item.switchots_craft.cherrysword_11": "Cherry sword",
       "item.switchots_craft.crimsonhoe_4": "Crimson hoe",
       "item.switchots_craft.cherrysword_10": "Cherry sword",
@@ -24913,15 +28511,276 @@
       "item.switchots_craft.darkhoe_4": "Dark oak hoe",
       "item.switchots_craft.crimsonhoe_9": "Crimson hoe",
       "item.switchots_craft.crimsonhoe_6": "Crimson hoe",
-      "item.switchots_craft.bigfiber": "Lot de fibre",
-      "item.switchots_craft.darkhoe_2": "Dark oak hoe",
       "item.switchots_craft.crimsonhoe_7": "Crimson hoe",
+      "item.switchots_craft.darkhoe_2": "Dark oak hoe",
       "item.switchots_craft.oakaxe_2": "Oak axe",
-      "item.switchots_craft.birchaxe_7": "Birch axe",
       "item.switchots_craft.sprucesword_11": "Spruce sword",
       "item.switchots_craft.oakaxe_3": "Oak axe",
-      "item.switchots_craft.bamboohoe_9": "Bamboo hoe",
       "item.switchots_craft.sprucesword_10": "Spruce sword",
+      "item.switchots_craft.warpedaxe": "Crimson axe",
+      "item.switchots_craft.oakaxe_8": "Oak axe",
+      "item.switchots_craft.oakaxe_9": "Oak axe",
+      "item.switchots_craft.oakaxe_6": "Oak axe",
+      "item.switchots_craft.oakaxe_7": "Oak axe",
+      "item.switchots_craft.oakaxe_4": "Oak axe",
+      "item.switchots_craft.mangroveaxe": "Dark oak axe",
+      "item.switchots_craft.oakaxe_5": "Oak axe",
+      "item.switchots_craft.cherryaxe_10": "Cherry axe",
+      "item.switchots_craft.cherryaxe_11": "Cherry axe",
+      "block.switchots_craft.cutting_log": "Bûche de coupe en chêne",
+      "item.switchots_craft.mangrovesword": "Dark oak sword",
+      "item.switchots_craft.spruceaxe": "Oak axe",
+      "item.switchots_craft.sprucehoe_6": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_5": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_8": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_7": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_2": "Spruce hoe",
+      "item.switchots_craft.mangrovehoe_9": "Mangrove hoe",
+      "item.switchots_craft.mangrovehoe_8": "Mangrove hoe",
+      "item.switchots_craft.darkhoe_10": "Dark oak hoe",
+      "item.switchots_craft.sprucehoe_4": "Spruce hoe",
+      "item.switchots_craft.sprucehoe_3": "Spruce hoe",
+      "item.switchots_craft.darkhoe_11": "Dark oak hoe",
+      "item.switchots_craft.cherrysword_5": "Cherry sword",
+      "item.switchots_craft.oakshovel_11": "Oak shovel",
+      "item.switchots_craft.cherrysword_6": "Cherry sword",
+      "item.switchots_craft.oakshovel_10": "Oak shovel",
+      "item.switchots_craft.cherrysword_7": "Cherry sword",
+      "item.switchots_craft.cherrysword_8": "Cherry sword",
+      "item.switchots_craft.cherrysword_2": "Cherry sword",
+      "item.switchots_craft.sprucehoe_9": "Spruce hoe",
+      "item.switchots_craft.cherrysword_3": "Cherry sword",
+      "item.switchots_craft.cherrysword_4": "Cherry sword",
+      "item.switchots_craft.cherrysword_9": "Cherry sword",
+      "item.switchots_craft.mangrovehoe_5": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_3": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_4": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_4": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_7": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_5": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_6": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_6": "Bamboo axe",
+      "item.switchots_craft.bambooaxe_7": "Bamboo axe",
+      "item.switchots_craft.bambooaxe_8": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_3": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_9": "Bamboo axe",
+      "item.switchots_craft.mangrovehoe_2": "Mangrove hoe",
+      "item.switchots_craft.bambooaxe_2": "Bamboo axe",
+      "item.switchots_craft.sprucesword": "Oak sword",
+      "item.switchots_craft.junglehoe_2": "Jungle hoe",
+      "item.switchots_craft.junglehoe_3": "Jungle hoe",
+      "item.switchots_craft.junglehoe_4": "Jungle hoe",
+      "item.switchots_craft.junglehoe_5": "Jungle hoe",
+      "item.switchots_craft.junglehoe_6": "Jungle hoe",
+      "item.switchots_craft.junglehoe_7": "Jungle hoe",
+      "item.switchots_craft.junglehoe_8": "Jungle hoe",
+      "item.switchots_craft.junglesword": "birch sword",
+      "item.switchots_craft.junglehoe_9": "Jungle hoe",
+      "item.switchots_craft.junglerocksaw": "Birch saw",
+      "item.switchots_craft.cherryaxe": "Mangrove axe",
+      "item.switchots_craft.bamboo_stick": "Warped stick",
+      "item.switchots_craft.darkshovel_11": "Dark oak shovel",
+      "item.switchots_craft.darkoaksword": "Acacia sword",
+      "item.switchots_craft.darkshovel_10": "Dark oak shovel",
+      "item.switchots_craft.mangroveshovel_10": "Mangrove shovel",
+      "item.switchots_craft.mangroveshovel_11": "Mangrove shovel",
+      "item.switchots_craft.brichaxe_8": "Birch axe",
+      "item.switchots_craft.plank_2": "Planche de sapin",
+      "item.switchots_craft.plank_1": "Planche de chêne",
+      "item.switchots_craft.plank_4": "Planche en acajou",
+      "item.switchots_craft.plank_3": "Planche de bouleau",
+      "item.switchots_craft.plank_6": "Planche de chêne noir",
+      "item.switchots_craft.plank_5": "Planche d\u0027acacia",
+      "item.switchots_craft.plank_8": "Planche de cerisier",
+      "item.switchots_craft.plank_7": "Planche de palétuvier",
+      "item.switchots_craft.plank_9": "Planche carmin",
+      "item.switchots_craft.log_bark_5": "Écorde d\u0027acacia",
+      "item.switchots_craft.crimsonsword_2": "Crimson sword",
+      "item.switchots_craft.mangroveshovel_7": "Mangrove shovel",
+      "item.switchots_craft.log_bark_4": "Écorce d\u0027acajou",
+      "item.switchots_craft.mangroveshovel_8": "Mangrove shovel",
+      "item.switchots_craft.log_bark_3": "Écorce de bouleau",
+      "item.switchots_craft.mangroveshovel_5": "Mangrove shovel",
+      "item.switchots_craft.log_bark_2": "Écorce de sapin",
+      "item.switchots_craft.mangroveshovel_6": "Mangrove shovel",
+      "item.switchots_craft.crimsonsword_10": "Crimson sword",
+      "item.switchots_craft.mangroveshovel_9": "Mangrove shovel",
+      "item.switchots_craft.crimsonsword_11": "Crimson sword",
+      "item.switchots_craft.log_bark_9": "Écorce carmin",
+      "item.switchots_craft.log_bark_8": "Écorce de cerisier",
+      "item.switchots_craft.log_bark_7": "Écorce de palétuvier",
+      "item.switchots_craft.log_bark_6": "Écorce de chêne noir",
+      "item.switchots_craft.crimsonsword": "Cherry sword",
+      "item.switchots_craft.oakhatchet": "Oak hatchet",
+      "item.switchots_craft.oakhoe_3": "Oak hoe",
+      "item.switchots_craft.oakhoe_2": "Oak hoe",
+      "item.switchots_craft.darkhoe": "Acacia hoe",
+      "item.switchots_craft.oakhoe_9": "Oak hoe",
+      "item.switchots_craft.warpedshovel": "Crimson shovel",
+      "item.switchots_craft.oakhoe_8": "Oak hoe",
+      "item.switchots_craft.crimsonsword_9": "Crimson sword",
+      "item.switchots_craft.acaciaaxe": "Jungle axe",
+      "item.switchots_craft.crimsonsword_8": "Crimson sword",
+      "item.switchots_craft.oakhoe_11": "Oak hoe",
+      "item.switchots_craft.crimsonsword_7": "Crimson sword",
+      "item.switchots_craft.oakhoe_10": "Oak hoe",
+      "item.switchots_craft.oakhoe_5": "Oak hoe",
+      "item.switchots_craft.crimsonsword_6": "Crimson sword",
+      "item.switchots_craft.oakhoe_4": "Oak hoe",
+      "item.switchots_craft.crimsonsword_5": "Crimson sword",
+      "item.switchots_craft.crimsonsword_4": "Crimson sword",
+      "item.switchots_craft.oakhoe_7": "Oak hoe",
+      "item.switchots_craft.oakhoe_6": "Oak hoe",
+      "item.switchots_craft.crimsonsword_3": "Crimson sword",
+      "item.switchots_craft.fibesr_string": "Corde de fibre",
+      "item.switchots_craft.darkoaksword_10": "Dark oak sword",
+      "item.switchots_craft.darkoaksword_11": "Dark oak sword",
+      "item.switchots_craft.bamboohoe_10": "Bamboo hoe",
+      "item.switchots_craft.darkshovel_2": "Dark oak shovel",
+      "item.switchots_craft.bamboohoe_11": "Bamboo hoe",
+      "item.switchots_craft.darkshovel_3": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_6": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_7": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_4": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_5": "Dark oak shovel",
+      "item.switchots_craft.log_bark": "Écorce de chêne",
+      "item.switchots_craft.birchhoe_10": "Birch hoe",
+      "item.switchots_craft.birchhoe_11": "Birch hoe",
+      "item.switchots_craft.mangrovehoe": "Dark oak hoe",
+      "item.switchots_craft.oaksword_3": "Oak sword",
+      "item.switchots_craft.oaksword_4": "Oak sword",
+      "item.switchots_craft.warpedhoe": "Crimson hoe",
+      "item.switchots_craft.oaksword_2": "Oak sword",
+      "item.switchots_craft.oaksword_7": "Oak sword",
+      "item.switchots_craft.junglehoe_10": "Jungle hoe",
+      "item.switchots_craft.oaksword_8": "Oak sword",
+      "item.switchots_craft.oaksword_5": "Oak sword",
+      "item.switchots_craft.oaksword_6": "Oak sword",
+      "item.switchots_craft.oaksword_9": "Oak sword",
+      "item.switchots_craft.junglehoe": "Birch hoe",
+      "item.switchots_craft.junglehoe_11": "Jungle hoe",
+      "block.switchots_craft.p_2": "Clol 1",
+      "block.switchots_craft.p_1": "Clol 1",
+      "block.switchots_craft.p_4": "Clol 1",
+      "block.switchots_craft.p_3": "Clol 1",
+      "block.switchots_craft.p_6": "Clol 1",
+      "block.switchots_craft.p_5": "Clol 1",
+      "block.switchots_craft.p_8": "Clol 1",
+      "block.switchots_craft.p_7": "Clol 1",
+      "block.switchots_craft.p_9": "Clol 1",
+      "item.switchots_craft.cherryhoe": "Mangrove hoe",
+      "item.switchots_craft.cherryshovel_2": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_3": "Cherry shovel",
+      "item.switchots_craft.bamboosword_11": "Bamboo sword",
+      "item.switchots_craft.cherryshovel_4": "Cherry shovel",
+      "item.switchots_craft.bamboosword_10": "Bamboo sword",
+      "item.switchots_craft.cherryhatchet": "Mangrove hatchet",
+      "item.switchots_craft.cherryshovel_9": "Cherry shovel",
+      "item.switchots_craft.mangroveshovel": "Dark oak shovel",
+      "item.switchots_craft.cherryshovel_5": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_6": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_7": "Cherry shovel",
+      "item.switchots_craft.cherryshovel_8": "Cherry shovel",
+      "item.switchots_craft.oakstick": "Oak stick",
+      "item.switchots_craft.birchsword": "Spruce sword",
+      "item.switchots_craft.oaksword": "Oak sword",
+      "item.switchots_craft.jungleshovel": "Birch shovel",
+      "item.switchots_craft.plank_10": " Planche biscornue",
+      "item.switchots_craft.jungleshovel_11": "Jungle shovel",
+      "item.switchots_craft.jungleshovel_10": "Jungle shovel",
+      "block.switchots_craft.l_200": "Clol 1",
+      "item.switchots_craft.bamboohatchet": "Warped hatchet",
+      "item.switchots_craft.darkoakaxe": "Acacia axe",
+      "item.switchots_craft.oakhoe": "Oak hoe",
+      "item.switchots_craft.birchshovel_11": "Birch shovel",
+      "item.switchots_craft.birchshovel_10": "Birch shovel",
+      "block.switchots_craft.cl_5": "Bûche de coupe en acacia",
+      "block.switchots_craft.cl_4": "Bûche de coupe en acajou",
+      "block.switchots_craft.cl_3": "Bûche de coupe en bouleau",
+      "block.switchots_craft.cl_2": "Bûche de coupe en sapin",
+      "block.switchots_craft.cl_9": "Bûche de coupe carmin",
+      "block.switchots_craft.cl_8": "Bûche de coupe de cerisier",
+      "block.switchots_craft.cl_7": "Bûche de coupe de palétuvier",
+      "item.switchots_craft.mangrovesword_10": "Mangrove sword",
+      "block.switchots_craft.cl_6": "Bûche de coupe en chêne noir",
+      "item.switchots_craft.mangrovesword_11": "Mangrove sword",
+      "item.switchots_craft.mangroveaxe_11": "Mangrove axe",
+      "item.switchots_craft.crimson_stick": "Cherry stick",
+      "item.switchots_craft.mangroveaxe_10": "Mangrove axe",
+      "item.switchots_craft.acacioaaxe_9": "Acacia axe",
+      "item.switchots_craft.cherryhoe_8": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_9": "Cherry hoe",
+      "item.switchots_craft.cherry_stick": "Mangrove stick",
+      "item.switchots_craft.oakshovel": "Oak shovel",
+      "item.switchots_craft.cherryhoe_2": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_3": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_4": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_5": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_6": "Cherry hoe",
+      "item.switchots_craft.cherryhoe_7": "Cherry hoe",
+      "item.switchots_craft.spruceshovel_10": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_11": "Spruce shovel",
+      "item.switchots_craft.darkshovel_8": "Dark oak shovel",
+      "item.switchots_craft.darkshovel_9": "Dark oak shovel",
+      "item.switchots_craft.darkoakaxe_5": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_4": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_3": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_2": "Dark oak axe",
+      "item.switchots_craft.birchhatchet": "Spruce hatchet",
+      "item.switchots_craft.darkoakaxe_9": "Dark oak axe",
+      "item.switchots_craft.warpedshovel_10": "Warped shovel",
+      "item.switchots_craft.darkoakaxe_8": "Dark oak axe",
+      "item.switchots_craft.warpedshovel_11": "Warped shovel",
+      "item.switchots_craft.darkoakaxe_7": "Dark oak axe",
+      "item.switchots_craft.darkoakaxe_6": "Dark oak axe",
+      "item.switchots_craft.bambooshovel_11": "Bamboo shovel",
+      "item.switchots_craft.bambooshovel_10": "Bamboo shovel",
+      "item.switchots_craft.mangroveshovel_3": "Mangrove shovel",
+      "item.switchots_craft.mangroveshovel_4": "Mangrove shovel",
+      "item.switchots_craft.mangroveshovel_2": "Mangrove shovel",
+      "block.switchots_craft.cl_10": "Bûche de coupe biscornue",
+      "item.switchots_craft.spruce_stick": "Spruce stick",
+      "item.switchots_craft.darkoakrocksaw": "Acacia saw",
+      "item.switchots_craft.acaciarocksaw": "Jungle saw",
+      "item.switchots_craft.warpedhoe_10": "Warped hoe",
+      "item.switchots_craft.warpedhoe_11": "Warped hoe",
+      "item.switchots_craft.sprucerocksaw": "Oak saw",
+      "item.switchots_craft.acaciahoe_10": "Acacia hoe",
+      "item.switchots_craft.acaciahoe_11": "Acacia hoe",
+      "item.switchots_craft.spruceshovel_8": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_9": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_6": "Spruce shovel",
+      "item.switchots_craft.birchshovel": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_7": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_4": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_5": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_2": "Spruce shovel",
+      "item.switchots_craft.spruceshovel_3": "Spruce shovel",
+      "item.switchots_craft.log_bark_10": "Écorce biscornue",
+      "item.switchots_craft.warpedaxe_11": "Warped axe",
+      "item.switchots_craft.warpedaxe_10": "Warped axe",
+      "item.switchots_craft.bambooshovel": "Warped shovel",
+      "item.switchots_craft.mangrovesword_2": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_6": "Warped shovel",
+      "item.switchots_craft.warpedshovel_5": "Warped shovel",
+      "item.switchots_craft.mangrovesword_4": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_4": "Warped shovel",
+      "item.switchots_craft.mangrovesword_3": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_3": "Warped shovel",
+      "item.switchots_craft.mangrovesword_6": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_2": "Warped shovel",
+      "item.switchots_craft.mangrovesword_5": "Mangrove sword",
+      "item.switchots_craft.mangrovesword_8": "Mangrove sword",
+      "item.switchots_craft.mangrovesword_7": "Mangrove sword",
+      "item.switchots_craft.mangrovesword_9": "Mangrove sword",
+      "item.switchots_craft.warpedshovel_9": "Warped shovel",
+      "item.switchots_craft.warpedshovel_8": "Warped shovel",
+      "item.switchots_craft.warpedshovel_7": "Warped shovel",
+      "item.switchots_craft.oakpickaxe": "Oak pickaxe",
+      "item.switchots_craft.dark_oakhatchet": "Acacia hatchet",
+      "item.switchots_craft.bigfiber": "Lot de fibre",
+      "item.switchots_craft.birchaxe_7": "Birch axe",
+      "item.switchots_craft.bamboohoe_9": "Bamboo hoe",
       "item.switchots_craft.birchaxe_9": "Birch axe",
       "item.switchots_craft.bamboohoe_8": "Bamboo hoe",
       "item.switchots_craft.bamboohoe_7": "Bamboo hoe",
@@ -24929,24 +28788,15 @@
       "item.switchots_craft.birchaxe_4": "Birch axe",
       "item.switchots_craft.bamboohoe_5": "Bamboo hoe",
       "item.switchots_craft.birchaxe_5": "Birch axe",
-      "item.switchots_craft.warpedaxe": "Crimson axe",
       "item.switchots_craft.bamboohoe_4": "Bamboo hoe",
       "item.switchots_craft.birchaxe_6": "Birch axe",
       "item.switchots_craft.bamboohoe_3": "Bamboo hoe",
       "item.switchots_craft.bamboosword_7": "Bamboo sword",
       "item.switchots_craft.bamboosword_6": "Bamboo sword",
       "item.switchots_craft.bamboosword_5": "Bamboo sword",
-      "item.switchots_craft.oakaxe_8": "Oak axe",
       "item.switchots_craft.bamboosword_4": "Bamboo sword",
-      "item.switchots_craft.oakaxe_9": "Oak axe",
-      "item.switchots_craft.oakaxe_6": "Oak axe",
-      "item.switchots_craft.oakaxe_7": "Oak axe",
       "item.switchots_craft.bamboosword_9": "Bamboo sword",
-      "item.switchots_craft.oakaxe_4": "Oak axe",
       "item.switchots_craft.bamboosword_8": "Bamboo sword",
-      "item.switchots_craft.oakaxe_5": "Oak axe",
-      "item.switchots_craft.mangroveaxe": "Dark oak axe",
-      "item.switchots_craft.cherryaxe_10": "Cherry axe",
       "item.switchots_craft.bamboosword_3": "Bamboo sword",
       "item.switchots_craft.bamboosword_2": "Bamboo sword",
       "block.switchots_craft.l_99": "Clol 1",
@@ -24957,63 +28807,25 @@
       "block.switchots_craft.l_95": "Clol 1",
       "block.switchots_craft.l_94": "Clol 1",
       "block.switchots_craft.l_93": "Clol 1",
-      "item.switchots_craft.cherryaxe_11": "Cherry axe",
-      "block.switchots_craft.cutting_log": "Bûche de coupe en chêne",
       "block.switchots_craft.l_92": "Clol 1",
-      "item.switchots_craft.mangrovesword": "Dark oak sword",
       "item.switchots_craft.jungleaxe_11": "Jungle axe",
       "item.switchots_craft.jungleaxe_10": "Jungle axe",
-      "item.switchots_craft.spruceaxe": "Oak axe",
       "block.switchots_craft.l_80": "Clol 1",
-      "item.switchots_craft.sprucehoe_6": "Spruce hoe",
       "item.switchots_craft.birchsword_11": "birch sword",
-      "item.switchots_craft.sprucehoe_5": "Spruce hoe",
-      "item.switchots_craft.sprucehoe_8": "Spruce hoe",
-      "item.switchots_craft.sprucehoe_7": "Spruce hoe",
-      "item.switchots_craft.sprucehoe_2": "Spruce hoe",
-      "item.switchots_craft.mangrovehoe_9": "Mangrove hoe",
-      "item.switchots_craft.mangrovehoe_8": "Mangrove hoe",
       "item.switchots_craft.birchsword_10": "birch sword",
-      "item.switchots_craft.sprucehoe_4": "Spruce hoe",
-      "item.switchots_craft.darkhoe_10": "Dark oak hoe",
-      "item.switchots_craft.sprucehoe_3": "Spruce hoe",
-      "item.switchots_craft.darkhoe_11": "Dark oak hoe",
-      "item.switchots_craft.cherrysword_5": "Cherry sword",
-      "item.switchots_craft.cherrysword_6": "Cherry sword",
-      "item.switchots_craft.cherrysword_7": "Cherry sword",
-      "item.switchots_craft.cherrysword_8": "Cherry sword",
-      "item.switchots_craft.cherrysword_2": "Cherry sword",
-      "item.switchots_craft.sprucehoe_9": "Spruce hoe",
-      "item.switchots_craft.cherrysword_3": "Cherry sword",
-      "item.switchots_craft.cherrysword_4": "Cherry sword",
-      "item.switchots_craft.cherrysword_9": "Cherry sword",
+      "item.switchots_craft.spruceshovel": "Oak shovel",
       "block.switchots_craft.l_79": "Clol 1",
       "block.switchots_craft.l_78": "Clol 1",
       "block.switchots_craft.l_77": "Clol 1",
-      "item.switchots_craft.bambooaxe_3": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_5": "Mangrove hoe",
       "block.switchots_craft.l_76": "Clol 1",
-      "item.switchots_craft.bambooaxe_4": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_4": "Mangrove hoe",
       "block.switchots_craft.l_75": "Clol 1",
-      "item.switchots_craft.bambooaxe_5": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_7": "Mangrove hoe",
       "block.switchots_craft.l_74": "Clol 1",
-      "item.switchots_craft.bambooaxe_6": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_6": "Mangrove hoe",
       "block.switchots_craft.l_73": "Clol 1",
-      "item.switchots_craft.bambooaxe_7": "Bamboo axe",
       "block.switchots_craft.l_72": "Clol 1",
-      "item.switchots_craft.bambooaxe_8": "Bamboo axe",
       "block.switchots_craft.l_71": "Clol 1",
-      "item.switchots_craft.bambooaxe_9": "Bamboo axe",
-      "item.switchots_craft.mangrovehoe_3": "Mangrove hoe",
       "block.switchots_craft.l_70": "Clol 1",
-      "item.switchots_craft.mangrovehoe_2": "Mangrove hoe",
       "block.switchots_craft.l_91": "Clol 1",
       "block.switchots_craft.l_90": "Clol 1",
-      "item.switchots_craft.bambooaxe_2": "Bamboo axe",
-      "item.switchots_craft.sprucesword": "Oak sword",
       "item.switchots_craft.cherryrocksaw": "Mangrove saw",
       "block.switchots_craft.l_89": "Clol 1",
       "block.switchots_craft.l_88": "Clol 1",
@@ -25028,18 +28840,7 @@
       "item.switchots_craft.warpedhoe_8": "Warped hoe",
       "block.switchots_craft.l_81": "Clol 1",
       "item.switchots_craft.warpedhoe_9": "Warped hoe",
-      "item.switchots_craft.junglehoe_2": "Jungle hoe",
-      "item.switchots_craft.junglehoe_3": "Jungle hoe",
-      "item.switchots_craft.junglehoe_4": "Jungle hoe",
-      "item.switchots_craft.junglehoe_5": "Jungle hoe",
-      "item.switchots_craft.junglehoe_6": "Jungle hoe",
-      "item.switchots_craft.junglehoe_7": "Jungle hoe",
       "item.switchots_craft.birchaxe": "Spruce axe",
-      "item.switchots_craft.junglehoe_8": "Jungle hoe",
-      "item.switchots_craft.junglesword": "birch sword",
-      "item.switchots_craft.junglehoe_9": "Jungle hoe",
-      "item.switchots_craft.junglerocksaw": "Birch saw",
-      "item.switchots_craft.cherryaxe": "Mangrove axe",
       "item.switchots_craft.warpedsword": "Crimson sword",
       "block.switchots_craft.l_59": "Clol 1",
       "block.switchots_craft.l_58": "Clol 1",
@@ -25051,7 +28852,6 @@
       "block.switchots_craft.l_52": "Clol 1",
       "block.switchots_craft.l_51": "Clol 1",
       "block.switchots_craft.l_50": "Clol 1",
-      "item.switchots_craft.bamboo_stick": "Warped stick",
       "item.switchots_craft.oakrocksaw": "Oak saw",
       "item.switchots_craft.sprucesword_3": "Spruce sword",
       "item.switchots_craft.acacia_stick": "Jungle stick",
@@ -25059,90 +28859,49 @@
       "item.switchots_craft.sprucesword_5": "Spruce sword",
       "item.switchots_craft.sprucesword_4": "Spruce sword",
       "item.switchots_craft.sprucesword_7": "Spruce sword",
-      "item.switchots_craft.darkoaksword": "Acacia sword",
       "item.switchots_craft.sprucesword_6": "Spruce sword",
       "item.switchots_craft.sprucesword_9": "Spruce sword",
       "item.switchots_craft.sprucesword_8": "Spruce sword",
+      "item.switchots_craft.acaciashovel_10": "Acacia shovel",
+      "item.switchots_craft.acaciashovel_11": "Acacia shovel",
       "item.switchots_craft.acaciasword_10": "Acacia sword",
       "item.switchots_craft.warpedhatchet": "Crimson hatchet",
       "block.switchots_craft.l_69": "Clol 1",
       "item.switchots_craft.acaciasword_11": "Acacia sword",
-      "item.switchots_craft.plank_2": "Planche de sapin",
       "block.switchots_craft.l_68": "Clol 1",
-      "item.switchots_craft.brichaxe_8": "Birch axe",
-      "item.switchots_craft.plank_1": "Planche de chêne",
       "block.switchots_craft.l_67": "Clol 1",
-      "item.switchots_craft.plank_4": "Planche en acajou",
       "block.switchots_craft.l_66": "Clol 1",
-      "item.switchots_craft.plank_3": "Planche de bouleau",
       "block.switchots_craft.l_65": "Clol 1",
-      "item.switchots_craft.plank_6": "Planche de chêne noir",
       "block.switchots_craft.l_64": "Clol 1",
-      "item.switchots_craft.plank_5": "Planche d\u0027acacia",
       "block.switchots_craft.l_63": "Clol 1",
-      "item.switchots_craft.plank_8": "Planche de cerisier",
       "block.switchots_craft.l_62": "Clol 1",
-      "item.switchots_craft.plank_7": "Planche de palétuvier",
       "block.switchots_craft.l_61": "Clol 1",
       "block.switchots_craft.l_60": "Clol 1",
-      "item.switchots_craft.plank_9": "Planche carmin",
-      "item.switchots_craft.log_bark_5": "Écorde d\u0027acacia",
-      "item.switchots_craft.crimsonsword_2": "Crimson sword",
-      "item.switchots_craft.log_bark_4": "Écorce d\u0027acajou",
-      "item.switchots_craft.log_bark_3": "Écorce de bouleau",
-      "item.switchots_craft.log_bark_2": "Écorce de sapin",
       "item.switchots_craft.warpedsword_11": "Warped sword",
       "item.switchots_craft.warpedsword_10": "Warped sword",
-      "item.switchots_craft.crimsonsword_10": "Crimson sword",
-      "item.switchots_craft.crimsonsword_11": "Crimson sword",
-      "item.switchots_craft.log_bark_9": "Écorce carmin",
-      "item.switchots_craft.log_bark_8": "Écorce de cerisier",
-      "item.switchots_craft.log_bark_7": "Écorce de palétuvier",
-      "item.switchots_craft.log_bark_6": "Écorce de chêne noir",
       "block.switchots_craft.l_39": "Clol 1",
       "block.switchots_craft.l_38": "Clol 1",
       "block.switchots_craft.l_37": "Clol 1",
       "block.switchots_craft.l_36": "Clol 1",
-      "item.switchots_craft.crimsonsword": "Cherry sword",
       "block.switchots_craft.l_35": "Clol 1",
       "block.switchots_craft.l_34": "Clol 1",
       "block.switchots_craft.l_33": "Clol 1",
       "block.switchots_craft.l_32": "Clol 1",
       "block.switchots_craft.l_31": "Clol 1",
       "block.switchots_craft.l_30": "Clol 1",
-      "item.switchots_craft.oakhatchet": "Oak hatchet",
-      "item.switchots_craft.oakhoe_3": "Oak hoe",
       "block.switchots_craft.l_49": "Clol 1",
-      "item.switchots_craft.oakhoe_2": "Oak hoe",
       "block.switchots_craft.l_48": "Clol 1",
       "block.switchots_craft.l_47": "Clol 1",
-      "item.switchots_craft.darkhoe": "Acacia hoe",
       "block.switchots_craft.l_46": "Clol 1",
       "block.switchots_craft.l_45": "Clol 1",
       "block.switchots_craft.l_44": "Clol 1",
-      "item.switchots_craft.oakhoe_9": "Oak hoe",
       "block.switchots_craft.l_43": "Clol 1",
-      "item.switchots_craft.crimsonsword_9": "Crimson sword",
-      "item.switchots_craft.oakhoe_8": "Oak hoe",
       "block.switchots_craft.l_42": "Clol 1",
-      "item.switchots_craft.crimsonsword_8": "Crimson sword",
-      "item.switchots_craft.acaciaaxe": "Jungle axe",
       "block.switchots_craft.l_41": "Clol 1",
-      "item.switchots_craft.crimsonsword_7": "Crimson sword",
-      "item.switchots_craft.oakhoe_11": "Oak hoe",
-      "block.switchots_craft.l_40": "Clol 1",
-      "item.switchots_craft.crimsonsword_6": "Crimson sword",
       "item.switchots_craft.warpedsword_8": "Warped sword",
-      "item.switchots_craft.oakhoe_5": "Oak hoe",
-      "item.switchots_craft.oakhoe_10": "Oak hoe",
-      "item.switchots_craft.crimsonsword_5": "Crimson sword",
+      "block.switchots_craft.l_40": "Clol 1",
       "item.switchots_craft.warpedsword_7": "Warped sword",
-      "item.switchots_craft.oakhoe_4": "Oak hoe",
-      "item.switchots_craft.crimsonsword_4": "Crimson sword",
-      "item.switchots_craft.oakhoe_7": "Oak hoe",
-      "item.switchots_craft.crimsonsword_3": "Crimson sword",
       "item.switchots_craft.warpedsword_9": "Warped sword",
-      "item.switchots_craft.oakhoe_6": "Oak hoe",
       "item.switchots_craft.warpedsword_4": "Warped sword",
       "item.switchots_craft.acaciahoe_2": "Acacia hoe",
       "item.switchots_craft.warpedhoe_2": "Warped hoe",
@@ -25158,27 +28917,24 @@
       "item.switchots_craft.acaciahoe_8": "Acacia hoe",
       "item.switchots_craft.acaciahoe_7": "Acacia hoe",
       "item.switchots_craft.acaciahoe_6": "Acacia hoe",
+      "item.switchots_craft.crimsonshovel_11": "Crimson shovel",
       "item.switchots_craft.acaciahoe_5": "Acacia hoe",
+      "item.switchots_craft.crimsonshovel_10": "Crimson shovel",
       "item.switchots_craft.acaciahoe_4": "Acacia hoe",
       "item.switchots_craft.acaciahoe_3": "Acacia hoe",
       "block.switchots_craft.l_19": "Clol 1",
       "block.switchots_craft.l_18": "Clol 1",
       "block.switchots_craft.l_17": "Clol 1",
       "block.switchots_craft.l_16": "Clol 1",
+      "item.switchots_craft.acaciashovel": "Jungle shovel",
       "block.switchots_craft.l_15": "Clol 1",
-      "item.switchots_craft.fibesr_string": "Corde de fibre",
       "block.switchots_craft.l_14": "Clol 1",
       "block.switchots_craft.l_13": "Clol 1",
       "block.switchots_craft.l_12": "Clol 1",
       "block.switchots_craft.l_11": "Clol 1",
       "block.switchots_craft.l_10": "Clol 1",
-      "item.switchots_craft.darkoaksword_10": "Dark oak sword",
-      "item.switchots_craft.darkoaksword_11": "Dark oak sword",
-      "item.switchots_craft.bamboohoe_10": "Bamboo hoe",
-      "item.switchots_craft.bamboohoe_11": "Bamboo hoe",
       "item.switchots_craft.oakaxe": "Oak axe",
       "item.switchots_craft.spruceaxe_8": "Spruce axe",
-      "item.switchots_craft.log_bark": "Écorce de chêne",
       "block.switchots_craft.l_29": "Clol 1",
       "item.switchots_craft.spruceaxe_7": "Spruce axe",
       "block.switchots_craft.l_28": "Clol 1",
@@ -25193,26 +28949,19 @@
       "item.switchots_craft.spruceaxe_2": "Spruce axe",
       "block.switchots_craft.l_23": "Clol 1",
       "block.switchots_craft.l_22": "Clol 1",
-      "item.switchots_craft.birchhoe_10": "Birch hoe",
+      "item.switchots_craft.birchshovel_2": "Birch shovel",
       "block.switchots_craft.l_21": "Clol 1",
-      "item.switchots_craft.birchhoe_11": "Birch hoe",
+      "item.switchots_craft.birchshovel_3": "Birch shovel",
       "block.switchots_craft.l_20": "Clol 1",
+      "item.switchots_craft.birchshovel_4": "Birch shovel",
+      "item.switchots_craft.birchshovel_5": "Birch shovel",
+      "item.switchots_craft.birchshovel_6": "Birch shovel",
+      "item.switchots_craft.birchshovel_7": "Birch shovel",
+      "item.switchots_craft.birchshovel_8": "Birch shovel",
       "item.switchots_craft.spruceaxe_9": "Spruce axe",
-      "item.switchots_craft.mangrovehoe": "Dark oak hoe",
+      "item.switchots_craft.birchshovel_9": "Birch shovel",
       "item.switchots_craft.bambooaxe_11": "Bamboo axe",
       "item.switchots_craft.bambooaxe_10": "Bamboo axe",
-      "item.switchots_craft.oaksword_3": "Oak sword",
-      "item.switchots_craft.oaksword_4": "Oak sword",
-      "item.switchots_craft.warpedhoe": "Crimson hoe",
-      "item.switchots_craft.oaksword_2": "Oak sword",
-      "item.switchots_craft.oaksword_7": "Oak sword",
-      "item.switchots_craft.junglehoe_10": "Jungle hoe",
-      "item.switchots_craft.oaksword_8": "Oak sword",
-      "item.switchots_craft.oaksword_5": "Oak sword",
-      "item.switchots_craft.oaksword_6": "Oak sword",
-      "item.switchots_craft.oaksword_9": "Oak sword",
-      "item.switchots_craft.junglehoe": "Birch hoe",
-      "item.switchots_craft.junglehoe_11": "Jungle hoe",
       "item.switchots_craft.spruceaxe_10": "Spruce axe",
       "item.switchots_craft.spruceaxe_11": "Spruce axe",
       "item.switchots_craft.junglesword_9": "Jungle sword",
@@ -25229,19 +28978,9 @@
       "item.switchots_craft.mangroveaxe_4": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_3": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_2": "Mangrove axe",
-      "block.switchots_craft.p_2": "Clol 1",
-      "block.switchots_craft.p_1": "Clol 1",
-      "block.switchots_craft.p_4": "Clol 1",
-      "block.switchots_craft.p_3": "Clol 1",
-      "block.switchots_craft.p_6": "Clol 1",
-      "block.switchots_craft.p_5": "Clol 1",
-      "block.switchots_craft.p_8": "Clol 1",
       "item.switchots_craft.birchaxe_11": "Birch axe",
-      "block.switchots_craft.p_7": "Clol 1",
       "item.switchots_craft.birchaxe_10": "Birch axe",
-      "block.switchots_craft.p_9": "Clol 1",
       "item.switchots_craft.birchaxe_2": "Birch axe",
-      "item.switchots_craft.cherryhoe": "Mangrove hoe",
       "item.switchots_craft.crimsonaxe_5": "Crimson axe",
       "item.switchots_craft.crimsonaxe_4": "Crimson axe",
       "item.switchots_craft.crimsonaxe_3": "Crimson axe",
@@ -25252,18 +28991,13 @@
       "item.switchots_craft.crimsonaxe_7": "Crimson axe",
       "item.switchots_craft.crimsonaxe_6": "Crimson axe",
       "item.switchots_craft.cherryhoe_11": "Cherry hoe",
-      "item.switchots_craft.bamboosword_11": "Bamboo sword",
-      "item.switchots_craft.bamboosword_10": "Bamboo sword",
       "item.switchots_craft.mangroveaxe_9": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_8": "Mangrove axe",
       "item.switchots_craft.birchrocksaw": "Spruce saw",
-      "item.switchots_craft.cherryhatchet": "Mangrove hatchet",
       "item.switchots_craft.bambooaxe": "Warped axe",
       "item.switchots_craft.cherryhoe_10": "Cherry hoe",
       "item.switchots_craft.crimsonrocksaw": "Cherry saw",
-      "item.switchots_craft.oakstick": "Oak stick",
       "item.switchots_craft.oakaxe_11": "Oak axe",
-      "item.switchots_craft.birchsword": "Spruce sword",
       "item.switchots_craft.birchhoe": "Spruce hoe",
       "item.switchots_craft.oakaxe_10": "Oak axe"
     }

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "2": {
+      "item": "switchots_craft:bamboo_stick"
+    },
+    "3": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "4": {
+      "item": "switchots_craft:bamboo_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:darkshovel_11",
+    "count": 1
+  }
+}
