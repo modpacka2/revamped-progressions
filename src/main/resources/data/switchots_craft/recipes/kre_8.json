@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "1": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "2": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "4": {
+      "item": "switchots_craft:cherry_stick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "7": {
+      "item": "switchots_craft:cherry_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:darkpickaxe_8",
+    "count": 1
+  }
+}

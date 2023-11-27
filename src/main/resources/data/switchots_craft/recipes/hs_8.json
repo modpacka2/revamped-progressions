@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01 ",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "4": {
+      "item": "switchots_craft:cherry_stick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "7": {
+      "item": "switchots_craft:cherry_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:stonehoe_8",
+    "count": 1
+  }
+}

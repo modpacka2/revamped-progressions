@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_planks"
+    },
+    "1": {
+      "item": "minecraft:crimson_planks"
+    },
+    "2": {
+      "item": "minecraft:crimson_planks"
+    },
+    "4": {
+      "item": "switchots_craft:spruce_stick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "7": {
+      "item": "switchots_craft:spruce_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:crimsonpickaxe_2",
+    "count": 1
+  }
+}

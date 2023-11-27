@@ -7,7 +7,6 @@ import net.minecraftforge.event.level.BlockEvent;
 
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.item.ItemEntity;
 import net.minecraft.world.entity.LivingEntity;
@@ -37,14 +36,91 @@ public class StickdropProcedure {
 			return;
 		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == SwitchotsCraftModItems.SHARP_ROCK.get()
 				|| (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == SwitchotsCraftModItems.ROCK.get()) {
-			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.OAK_LEAVES || (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.SPRUCE_LEAVES
-					|| (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.BIRCH_LEAVES || (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.JUNGLE_LEAVES
-					|| (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.ACACIA_LEAVES || (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.DARK_OAK_LEAVES
-					|| (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.MANGROVE_LEAVES || (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.AZALEA_LEAVES
-					|| (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.FLOWERING_AZALEA_LEAVES || (world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.CHERRY_LEAVES) {
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.OAK_LEAVES) {
 				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
 					if (world instanceof ServerLevel _level) {
-						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(Items.STICK));
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.OAKSTICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.SPRUCE_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.SPRUCE_STICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.BIRCH_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.BIRCH_STICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.JUNGLE_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.JUNGLE_STICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.ACACIA_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.ACACIA_STICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.DARK_OAK_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.DARK_OAK_STICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.MANGROVE_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.MANGROVE_STICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.AZALEA_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.OAKSTICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.FLOWERING_AZALEA_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.OAKSTICK.get()));
+						entityToSpawn.setPickUpDelay(10);
+						_level.addFreshEntity(entityToSpawn);
+					}
+				}
+			}
+			if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == Blocks.CHERRY_LEAVES) {
+				if (Mth.nextInt(RandomSource.create(), 1, 3) == 3) {
+					if (world instanceof ServerLevel _level) {
+						ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(SwitchotsCraftModItems.CHERRY_STICK.get()));
 						entityToSpawn.setPickUpDelay(10);
 						_level.addFreshEntity(entityToSpawn);
 					}
