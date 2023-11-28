@@ -32973,6 +32973,3046 @@
         ]
       },
       "path": "~/colorfull world/stone"
+    },
+    {
+      "name": "Ironsword2",
+      "type": "tool",
+      "sortid": 2182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword3",
+      "type": "tool",
+      "sortid": 2183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword4",
+      "type": "tool",
+      "sortid": 2184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword5",
+      "type": "tool",
+      "sortid": 2185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword6",
+      "type": "tool",
+      "sortid": 2186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword7",
+      "type": "tool",
+      "sortid": 2187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword8",
+      "type": "tool",
+      "sortid": 2188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword9",
+      "type": "tool",
+      "sortid": 2189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword10",
+      "type": "tool",
+      "sortid": 2190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironsword11",
+      "type": "tool",
+      "sortid": 2191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsword_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironsword_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironsword11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring2",
+      "type": "tool",
+      "sortid": 2192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring3",
+      "type": "tool",
+      "sortid": 2193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring4",
+      "type": "tool",
+      "sortid": 2194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring5",
+      "type": "tool",
+      "sortid": 2195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring6",
+      "type": "tool",
+      "sortid": 2196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring7",
+      "type": "tool",
+      "sortid": 2197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring8",
+      "type": "tool",
+      "sortid": 2198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring9",
+      "type": "tool",
+      "sortid": 2199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring10",
+      "type": "tool",
+      "sortid": 2200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironswordstring11",
+      "type": "tool",
+      "sortid": 2201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironswordstring_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironswordstring11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironswordstring_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe2",
+      "type": "tool",
+      "sortid": 2202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe3",
+      "type": "tool",
+      "sortid": 2203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe4",
+      "type": "tool",
+      "sortid": 2204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe5",
+      "type": "tool",
+      "sortid": 2205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe6",
+      "type": "tool",
+      "sortid": 2206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe7",
+      "type": "tool",
+      "sortid": 2207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe8",
+      "type": "tool",
+      "sortid": 2208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe9",
+      "type": "tool",
+      "sortid": 2209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe10",
+      "type": "tool",
+      "sortid": 2210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxe11",
+      "type": "tool",
+      "sortid": 2211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxe_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxe11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxe_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring2",
+      "type": "tool",
+      "sortid": 2212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring3",
+      "type": "tool",
+      "sortid": 2213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring4",
+      "type": "tool",
+      "sortid": 2214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring5",
+      "type": "tool",
+      "sortid": 2215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring6",
+      "type": "tool",
+      "sortid": 2216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring7",
+      "type": "tool",
+      "sortid": 2217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring8",
+      "type": "tool",
+      "sortid": 2218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring9",
+      "type": "tool",
+      "sortid": 2219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring10",
+      "type": "tool",
+      "sortid": 2220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironpickaxestring11",
+      "type": "tool",
+      "sortid": 2221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpickaxestring_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironpickaxestring11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironpickaxestring_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe2",
+      "type": "tool",
+      "sortid": 2222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe3",
+      "type": "tool",
+      "sortid": 2223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe4",
+      "type": "tool",
+      "sortid": 2224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe5",
+      "type": "tool",
+      "sortid": 2225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe6",
+      "type": "tool",
+      "sortid": 2226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe7",
+      "type": "tool",
+      "sortid": 2227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe8",
+      "type": "tool",
+      "sortid": 2228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe9",
+      "type": "tool",
+      "sortid": 2229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe10",
+      "type": "tool",
+      "sortid": 2230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_10.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe10Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxe11",
+      "type": "tool",
+      "sortid": 2231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxe_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxe11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxe_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring2",
+      "type": "tool",
+      "sortid": 2232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring3",
+      "type": "tool",
+      "sortid": 2233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring4",
+      "type": "tool",
+      "sortid": 2234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring5",
+      "type": "tool",
+      "sortid": 2235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring6",
+      "type": "tool",
+      "sortid": 2236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring7",
+      "type": "tool",
+      "sortid": 2237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring8",
+      "type": "tool",
+      "sortid": 2238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring9",
+      "type": "tool",
+      "sortid": 2239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring10",
+      "type": "tool",
+      "sortid": 2240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironaxestring11",
+      "type": "tool",
+      "sortid": 2241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironaxestring_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironaxestring_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironaxestring11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe2",
+      "type": "tool",
+      "sortid": 2242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe3",
+      "type": "tool",
+      "sortid": 2243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe4",
+      "type": "tool",
+      "sortid": 2244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe5",
+      "type": "tool",
+      "sortid": 2245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_5.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe5Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe6",
+      "type": "tool",
+      "sortid": 2246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe7",
+      "type": "tool",
+      "sortid": 2247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe8",
+      "type": "tool",
+      "sortid": 2248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe9",
+      "type": "tool",
+      "sortid": 2249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_9.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe9Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe10",
+      "type": "tool",
+      "sortid": 2250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoe11",
+      "type": "tool",
+      "sortid": 2251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoe_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoe_11.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoe11Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring2",
+      "type": "tool",
+      "sortid": 2252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring3",
+      "type": "tool",
+      "sortid": 2253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring4",
+      "type": "tool",
+      "sortid": 2254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_4.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring4Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring5",
+      "type": "tool",
+      "sortid": 2255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring6",
+      "type": "tool",
+      "sortid": 2256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring7",
+      "type": "tool",
+      "sortid": 2257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring8",
+      "type": "tool",
+      "sortid": 2258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring9",
+      "type": "tool",
+      "sortid": 2259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring10",
+      "type": "tool",
+      "sortid": 2260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironhoestring11",
+      "type": "tool",
+      "sortid": 2261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhoestring_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironhoestring11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironhoestring_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel2",
+      "type": "tool",
+      "sortid": 2262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel2Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel3",
+      "type": "tool",
+      "sortid": 2263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_3.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel3Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel4",
+      "type": "tool",
+      "sortid": 2264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel5",
+      "type": "tool",
+      "sortid": 2265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel6",
+      "type": "tool",
+      "sortid": 2266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_6.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel6Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel7",
+      "type": "tool",
+      "sortid": 2267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_7.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel7Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel8",
+      "type": "tool",
+      "sortid": 2268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel8Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel9",
+      "type": "tool",
+      "sortid": 2269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel10",
+      "type": "tool",
+      "sortid": 2270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovel11",
+      "type": "tool",
+      "sortid": 2271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovel_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovel11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovel_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring2",
+      "type": "tool",
+      "sortid": 2272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_2.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring2Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring3",
+      "type": "tool",
+      "sortid": 2273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring3Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring4",
+      "type": "tool",
+      "sortid": 2274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring4Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring5",
+      "type": "tool",
+      "sortid": 2275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring5Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring6",
+      "type": "tool",
+      "sortid": 2276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring6Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring7",
+      "type": "tool",
+      "sortid": 2277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring7Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring8",
+      "type": "tool",
+      "sortid": 2278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_8.json",
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring8Item.java"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring9",
+      "type": "tool",
+      "sortid": 2279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring9Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring10",
+      "type": "tool",
+      "sortid": 2280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring10Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ironshovelstring11",
+      "type": "tool",
+      "sortid": 2281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironshovelstring_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/Ironshovelstring11Item.java",
+          "src/main/resources/assets/switchots_craft/models/item/ironshovelstring_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si1",
+      "type": "recipe",
+      "sortid": 2282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si2",
+      "type": "recipe",
+      "sortid": 2283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si3",
+      "type": "recipe",
+      "sortid": 2284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si4",
+      "type": "recipe",
+      "sortid": 2285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si5",
+      "type": "recipe",
+      "sortid": 2286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si6",
+      "type": "recipe",
+      "sortid": 2287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si7",
+      "type": "recipe",
+      "sortid": 2288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si8",
+      "type": "recipe",
+      "sortid": 2289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si9",
+      "type": "recipe",
+      "sortid": 2290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si10",
+      "type": "recipe",
+      "sortid": 2291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Si11",
+      "type": "recipe",
+      "sortid": 2292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "si_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/si_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis1",
+      "type": "recipe",
+      "sortid": 2293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis2",
+      "type": "recipe",
+      "sortid": 2294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis3",
+      "type": "recipe",
+      "sortid": 2295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis4",
+      "type": "recipe",
+      "sortid": 2296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis5",
+      "type": "recipe",
+      "sortid": 2297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis6",
+      "type": "recipe",
+      "sortid": 2298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis7",
+      "type": "recipe",
+      "sortid": 2299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis8",
+      "type": "recipe",
+      "sortid": 2300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis9",
+      "type": "recipe",
+      "sortid": 2301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis10",
+      "type": "recipe",
+      "sortid": 2302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Sis11",
+      "type": "recipe",
+      "sortid": 2303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sis_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/sis_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki1",
+      "type": "recipe",
+      "sortid": 2304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki2",
+      "type": "recipe",
+      "sortid": 2305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki3",
+      "type": "recipe",
+      "sortid": 2306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki4",
+      "type": "recipe",
+      "sortid": 2307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki5",
+      "type": "recipe",
+      "sortid": 2308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki6",
+      "type": "recipe",
+      "sortid": 2309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki7",
+      "type": "recipe",
+      "sortid": 2310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki8",
+      "type": "recipe",
+      "sortid": 2311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki9",
+      "type": "recipe",
+      "sortid": 2312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki10",
+      "type": "recipe",
+      "sortid": 2313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ki11",
+      "type": "recipe",
+      "sortid": 2314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ki_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ki_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis1",
+      "type": "recipe",
+      "sortid": 2315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis2",
+      "type": "recipe",
+      "sortid": 2316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis3",
+      "type": "recipe",
+      "sortid": 2317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis4",
+      "type": "recipe",
+      "sortid": 2318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis5",
+      "type": "recipe",
+      "sortid": 2319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis6",
+      "type": "recipe",
+      "sortid": 2320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis7",
+      "type": "recipe",
+      "sortid": 2321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis8",
+      "type": "recipe",
+      "sortid": 2322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis9",
+      "type": "recipe",
+      "sortid": 2323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis10",
+      "type": "recipe",
+      "sortid": 2324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Kis11",
+      "type": "recipe",
+      "sortid": 2325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kis_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/kis_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai1",
+      "type": "recipe",
+      "sortid": 2326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai2",
+      "type": "recipe",
+      "sortid": 2327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai3",
+      "type": "recipe",
+      "sortid": 2328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai4",
+      "type": "recipe",
+      "sortid": 2329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai5",
+      "type": "recipe",
+      "sortid": 2330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai6",
+      "type": "recipe",
+      "sortid": 2331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai7",
+      "type": "recipe",
+      "sortid": 2332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai8",
+      "type": "recipe",
+      "sortid": 2333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai9",
+      "type": "recipe",
+      "sortid": 2334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai10",
+      "type": "recipe",
+      "sortid": 2335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ai11",
+      "type": "recipe",
+      "sortid": 2336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ai_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ai_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais1",
+      "type": "recipe",
+      "sortid": 2337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais2",
+      "type": "recipe",
+      "sortid": 2338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais3",
+      "type": "recipe",
+      "sortid": 2339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais4",
+      "type": "recipe",
+      "sortid": 2340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais5",
+      "type": "recipe",
+      "sortid": 2341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais6",
+      "type": "recipe",
+      "sortid": 2342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais7",
+      "type": "recipe",
+      "sortid": 2343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais8",
+      "type": "recipe",
+      "sortid": 2344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais9",
+      "type": "recipe",
+      "sortid": 2345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais10",
+      "type": "recipe",
+      "sortid": 2346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ais11",
+      "type": "recipe",
+      "sortid": 2347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ais_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ais_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi1",
+      "type": "recipe",
+      "sortid": 2348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi2",
+      "type": "recipe",
+      "sortid": 2349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi3",
+      "type": "recipe",
+      "sortid": 2350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi4",
+      "type": "recipe",
+      "sortid": 2351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi5",
+      "type": "recipe",
+      "sortid": 2352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi6",
+      "type": "recipe",
+      "sortid": 2353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi7",
+      "type": "recipe",
+      "sortid": 2354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi8",
+      "type": "recipe",
+      "sortid": 2355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi9",
+      "type": "recipe",
+      "sortid": 2356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi10",
+      "type": "recipe",
+      "sortid": 2357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Hi11",
+      "type": "recipe",
+      "sortid": 2358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/hi_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His1",
+      "type": "recipe",
+      "sortid": 2359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His2",
+      "type": "recipe",
+      "sortid": 2360,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His3",
+      "type": "recipe",
+      "sortid": 2361,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His4",
+      "type": "recipe",
+      "sortid": 2362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His5",
+      "type": "recipe",
+      "sortid": 2363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His6",
+      "type": "recipe",
+      "sortid": 2364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His7",
+      "type": "recipe",
+      "sortid": 2365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His8",
+      "type": "recipe",
+      "sortid": 2366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His9",
+      "type": "recipe",
+      "sortid": 2367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His10",
+      "type": "recipe",
+      "sortid": 2368,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "His11",
+      "type": "recipe",
+      "sortid": 2369,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "his_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/his_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi1",
+      "type": "recipe",
+      "sortid": 2370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi2",
+      "type": "recipe",
+      "sortid": 2371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi3",
+      "type": "recipe",
+      "sortid": 2372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi4",
+      "type": "recipe",
+      "sortid": 2373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi5",
+      "type": "recipe",
+      "sortid": 2374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi6",
+      "type": "recipe",
+      "sortid": 2375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi7",
+      "type": "recipe",
+      "sortid": 2376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi8",
+      "type": "recipe",
+      "sortid": 2377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi9",
+      "type": "recipe",
+      "sortid": 2378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi10",
+      "type": "recipe",
+      "sortid": 2379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Oi11",
+      "type": "recipe",
+      "sortid": 2380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oi_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/oi_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois1",
+      "type": "recipe",
+      "sortid": 2381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_1.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois2",
+      "type": "recipe",
+      "sortid": 2382,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_2.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois3",
+      "type": "recipe",
+      "sortid": 2383,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_3.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois4",
+      "type": "recipe",
+      "sortid": 2384,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_4.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois5",
+      "type": "recipe",
+      "sortid": 2385,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_5.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois6",
+      "type": "recipe",
+      "sortid": 2386,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_6.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois7",
+      "type": "recipe",
+      "sortid": 2387,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_7.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois8",
+      "type": "recipe",
+      "sortid": 2388,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_8.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois9",
+      "type": "recipe",
+      "sortid": 2389,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_9.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois10",
+      "type": "recipe",
+      "sortid": 2390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_10.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
+    },
+    {
+      "name": "Ois11",
+      "type": "recipe",
+      "sortid": 2391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ois_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ois_11.json"
+        ]
+      },
+      "path": "~/colorfull world/iron"
     }
   ],
   "variable_elements": [],
@@ -32996,13 +36036,13 @@
       "item.switchots_craft.acaciashovel_9": "Acacia shovel",
       "item.switchots_craft.acaciashovel_8": "Acacia shovel",
       "item.switchots_craft.acaciashovel_3": "Acacia shovel",
-      "item.switchots_craft.acaciashovel_2": "Acacia shovel",
       "item.switchots_craft.acaciasword": "Acacia sword",
+      "item.switchots_craft.acaciashovel_2": "Acacia shovel",
       "item.switchots_craft.acaciashovel_5": "Acacia shovel",
       "item.switchots_craft.acaciashovel_4": "Acacia shovel",
       "item.switchots_craft.stonepickaxe_9": "Stone pickaxe",
-      "item.switchots_craft.darkoakaxe_11": "Dark oak axe",
       "item.switchots_craft.stoneshovel": "Stone shovel",
+      "item.switchots_craft.darkoakaxe_11": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_10": "Dark oak axe",
       "item.switchots_craft.crimsonshovel_9": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_8": "Crimson shovel",
@@ -33016,8 +36056,8 @@
       "item.switchots_craft.oakshovel_6": "Oak shovel",
       "item.switchots_craft.oakshovel_7": "Oak shovel",
       "item.switchots_craft.oakshovel_8": "Oak shovel",
-      "item.switchots_craft.oakshovel_2": "Oak shovel",
       "item.switchots_craft.netheriteaxe": "Netherite axe",
+      "item.switchots_craft.oakshovel_2": "Oak shovel",
       "item.switchots_craft.oakshovel_3": "Oak shovel",
       "item.switchots_craft.oakshovel_4": "Oak shovel",
       "item.switchots_craft.oakshovel_9": "Oak shovel",
@@ -33031,14 +36071,14 @@
       "item.switchots_craft.warpedrocksaw": "Warped saw",
       "item.switchots_craft.jungleaxe_2": "Jungle axe",
       "item.switchots_craft.jungleaxe_3": "Jungle axe",
-      "block.switchots_craft.l_109": "Clol 1",
       "item.switchots_craft.jungleaxe_6": "Jungle axe",
+      "block.switchots_craft.l_109": "Clol 1",
       "block.switchots_craft.l_108": "Clol 1",
       "item.switchots_craft.jungleaxe_7": "Jungle axe",
-      "block.switchots_craft.l_107": "Clol 1",
       "item.switchots_craft.jungleaxe_4": "Jungle axe",
-      "block.switchots_craft.l_106": "Clol 1",
+      "block.switchots_craft.l_107": "Clol 1",
       "item.switchots_craft.jungleaxe_5": "Jungle axe",
+      "block.switchots_craft.l_106": "Clol 1",
       "item.switchots_craft.jungleaxe_8": "Jungle axe",
       "item.switchots_craft.jungleaxe_9": "Jungle axe",
       "block.switchots_craft.l_112": "Clol 1",
@@ -33056,10 +36096,10 @@
       "item.switchots_craft.acaciapickaxe_5": "Acacia pickaxe",
       "item.switchots_craft.warpedaxe_5": "Warped axe",
       "item.switchots_craft.acaciapickaxe_4": "Acacia pickaxe",
-      "item.switchots_craft.warpedaxe_2": "Warped axe",
       "item.switchots_craft.acaciapickaxe_7": "Acacia pickaxe",
-      "item.switchots_craft.warpedaxe_3": "Warped axe",
+      "item.switchots_craft.warpedaxe_2": "Warped axe",
       "item.switchots_craft.acaciapickaxe_6": "Acacia pickaxe",
+      "item.switchots_craft.warpedaxe_3": "Warped axe",
       "item.switchots_craft.acaciapickaxe_9": "Acacia pickaxe",
       "item.switchots_craft.acaciapickaxe_8": "Acacia pickaxe",
       "item.switchots_craft.jungleshovel_9": "Jungle shovel",
@@ -33070,9 +36110,11 @@
       "block.switchots_craft.l_119": "Clol 1",
       "item.switchots_craft.jungleshovel_8": "Jungle shovel",
       "item.switchots_craft.stonesword_3": "Stone sword",
+      "item.switchots_craft.ironhoestring_11": "Iron hoe",
       "block.switchots_craft.l_118": "Clol 1",
       "item.switchots_craft.jungleshovel_5": "Jungle shovel",
       "item.switchots_craft.stonesword_2": "Stone sword",
+      "item.switchots_craft.ironhoestring_10": "Iron hoe",
       "block.switchots_craft.l_117": "Clol 1",
       "item.switchots_craft.jungleshovel_6": "Jungle shovel",
       "item.switchots_craft.jungleshovel_3": "Jungle shovel",
@@ -33086,10 +36128,10 @@
       "item.switchots_craft.stonesword_5": "Stone sword",
       "block.switchots_craft.l_123": "Clol 1",
       "block.switchots_craft.l_122": "Clol 1",
-      "item.switchots_craft.sprucehoe": "Spruce hoe",
       "block.switchots_craft.l_121": "Clol 1",
-      "block.switchots_craft.l_120": "Clol 1",
+      "item.switchots_craft.sprucehoe": "Spruce hoe",
       "item.switchots_craft.stonesword_9": "Stone sword",
+      "block.switchots_craft.l_120": "Clol 1",
       "block.switchots_craft.l_127": "Clol 1",
       "block.switchots_craft.l_126": "Clol 1",
       "block.switchots_craft.l_125": "Clol 1",
@@ -33097,15 +36139,15 @@
       "block.switchots_craft.l_2": "Clol 1",
       "block.switchots_craft.l_1": "Clol 1",
       "item.switchots_craft.cherryshovel": "Cherry shovel",
-      "block.switchots_craft.l_4": "Clol 1",
       "item.switchots_craft.oakpickaxe_11": "Oak pickaxe",
-      "block.switchots_craft.l_3": "Clol 1",
-      "item.switchots_craft.mangroverocksaw": "Mangrove saw",
+      "block.switchots_craft.l_4": "Clol 1",
       "item.switchots_craft.oakpickaxe_10": "Oak pickaxe",
-      "item.switchots_craft.birchtale_3": "Birch axe",
+      "item.switchots_craft.mangroverocksaw": "Mangrove saw",
+      "block.switchots_craft.l_3": "Clol 1",
       "block.switchots_craft.l_6": "Clol 1",
-      "block.switchots_craft.l_5": "Clol 1",
+      "item.switchots_craft.birchtale_3": "Birch axe",
       "item.switchots_craft.jungleaxe": "Jungle axe",
+      "block.switchots_craft.l_5": "Clol 1",
       "block.switchots_craft.l_8": "Clol 1",
       "block.switchots_craft.l_7": "Clol 1",
       "block.switchots_craft.l_9": "Clol 1",
@@ -33158,7 +36200,9 @@
       "block.switchots_craft.p_87": "Clol 1",
       "block.switchots_craft.l_159": "Clol 1",
       "block.switchots_craft.p_89": "Clol 1",
+      "item.switchots_craft.ironshovel_11": "Iron shovel",
       "block.switchots_craft.l_158": "Clol 1",
+      "item.switchots_craft.ironshovel_10": "Iron shovel",
       "block.switchots_craft.l_157": "Clol 1",
       "item.switchots_craft.stonehoe_6": "Stone hoe",
       "item.switchots_craft.stonehoe_7": "Stone hoe",
@@ -33172,18 +36216,23 @@
       "item.switchots_craft.oaksword_10": "Oak sword",
       "item.switchots_craft.oaksword_11": "Oak sword",
       "item.switchots_craft.acaciapickaxe_10": "Acacia pickaxe",
+      "item.switchots_craft.ironshovelstring_3": "Iron shovel",
       "item.switchots_craft.cherrysword": "Cherry sword",
+      "item.switchots_craft.ironshovelstring_4": "Iron shovel",
       "block.switchots_craft.p_91": "Clol 1",
       "item.switchots_craft.goldensword": "Golden sword",
       "block.switchots_craft.p_90": "Clol 1",
       "item.switchots_craft.acaciaaxde_5": "Acacia axe",
+      "item.switchots_craft.ironshovelstring_2": "Iron shovel",
       "block.switchots_craft.p_93": "Clol 1",
       "item.switchots_craft.stoneshovel_11": "Stone shovel",
       "block.switchots_craft.p_92": "Clol 1",
       "item.switchots_craft.stoneshovel_10": "Stone shovel",
       "block.switchots_craft.p_95": "Clol 1",
+      "item.switchots_craft.ironaxe_10": "Iron axe",
       "block.switchots_craft.p_94": "Clol 1",
       "item.switchots_craft.acaciapickaxe_11": "Acacia pickaxe",
+      "item.switchots_craft.ironaxe_11": "Iron axe",
       "block.switchots_craft.l_167": "Clol 1",
       "block.switchots_craft.p_75": "Clol 1",
       "block.switchots_craft.l_166": "Clol 1",
@@ -33191,12 +36240,17 @@
       "block.switchots_craft.l_165": "Clol 1",
       "block.switchots_craft.p_77": "Clol 1",
       "item.switchots_craft.warpedpickaxe": "Warped pickaxe",
+      "item.switchots_craft.ironshovelstring_9": "Iron shovel",
       "block.switchots_craft.l_164": "Clol 1",
       "block.switchots_craft.p_76": "Clol 1",
       "block.switchots_craft.p_79": "Clol 1",
+      "item.switchots_craft.ironshovelstring_7": "Iron shovel",
       "block.switchots_craft.p_78": "Clol 1",
+      "item.switchots_craft.ironshovelstring_8": "Iron shovel",
       "block.switchots_craft.l_169": "Clol 1",
+      "item.switchots_craft.ironshovelstring_5": "Iron shovel",
       "block.switchots_craft.l_168": "Clol 1",
+      "item.switchots_craft.ironshovelstring_6": "Iron shovel",
       "block.switchots_craft.l_163": "Clol 1",
       "block.switchots_craft.l_162": "Clol 1",
       "block.switchots_craft.l_161": "Clol 1",
@@ -33213,15 +36267,20 @@
       "block.switchots_craft.l_177": "Clol 1",
       "block.switchots_craft.p_63": "Clol 1",
       "item.switchots_craft.crimsonhoe_11": "Crimson hoe",
+      "item.switchots_craft.ironaxe_2": "Iron axe",
       "block.switchots_craft.l_176": "Clol 1",
       "block.switchots_craft.p_66": "Clol 1",
       "item.switchots_craft.crimsonhoe_10": "Crimson hoe",
       "block.switchots_craft.l_175": "Clol 1",
       "block.switchots_craft.p_65": "Clol 1",
       "block.switchots_craft.p_68": "Clol 1",
+      "item.switchots_craft.ironaxe_5": "Iron axe",
       "block.switchots_craft.p_67": "Clol 1",
+      "item.switchots_craft.ironaxe_6": "Iron axe",
+      "item.switchots_craft.ironaxe_3": "Iron axe",
       "block.switchots_craft.l_179": "Clol 1",
       "block.switchots_craft.p_69": "Clol 1",
+      "item.switchots_craft.ironaxe_4": "Iron axe",
       "block.switchots_craft.l_170": "Clol 1",
       "block.switchots_craft.l_174": "Clol 1",
       "block.switchots_craft.l_173": "Clol 1",
@@ -33230,7 +36289,10 @@
       "item.switchots_craft.cherryshovel_11": "Cherry shovel",
       "item.switchots_craft.cherryshovel_10": "Cherry shovel",
       "item.switchots_craft.mangrovehoe_11": "Mangrove hoe",
+      "item.switchots_craft.ironaxe_9": "Iron axe",
+      "item.switchots_craft.ironaxe_7": "Iron axe",
       "item.switchots_craft.mangrovehoe_10": "Mangrove hoe",
+      "item.switchots_craft.ironaxe_8": "Iron axe",
       "block.switchots_craft.p_71": "Clol 1",
       "block.switchots_craft.p_70": "Clol 1",
       "block.switchots_craft.p_73": "Clol 1",
@@ -33392,6 +36454,11 @@
       "item.switchots_craft.darkshovel": "Dark oak shovel",
       "item.switchots_craft.cherrypickaxe_2": "Cherry pickaxe",
       "item.switchots_craft.mangrovehatchet": "Mangrove hatchet",
+      "item.switchots_craft.ironhoe_2": "Iron hoe",
+      "item.switchots_craft.ironhoe_3": "Iron hoe",
+      "item.switchots_craft.ironhoe_4": "Iron hoe",
+      "item.switchots_craft.ironhoe_5": "Iron hoe",
+      "item.switchots_craft.ironhoe_6": "Iron hoe",
       "item.switchots_craft.birchsword_2": "birch sword",
       "item.switchots_craft.birchsword_3": "birch sword",
       "item.switchots_craft.fiber_string": "Fiber",
@@ -33489,12 +36556,17 @@
       "item.switchots_craft.bamboo_stick": "Bamboo stick",
       "item.switchots_craft.darkshovel_11": "Dark oak shovel",
       "item.switchots_craft.darkoaksword": "Dark oak sword",
+      "item.switchots_craft.ironhoe_7": "Iron hoe",
+      "item.switchots_craft.ironhoe_8": "Iron hoe",
       "item.switchots_craft.mangrovepickaxe_11": "Mangrove pickaxe",
+      "item.switchots_craft.ironhoe_9": "Iron hoe",
       "item.switchots_craft.mangrovepickaxe_10": "Mangrove pickaxe",
       "item.switchots_craft.darkshovel_10": "Dark oak shovel",
       "item.switchots_craft.ironhoestring": "Iron hoe",
       "item.switchots_craft.mangroveshovel_10": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_11": "Mangrove shovel",
+      "item.switchots_craft.ironsword_9": "Iron sword",
+      "item.switchots_craft.ironsword_8": "Iron sword",
       "item.switchots_craft.brichaxe_8": "Birch axe",
       "item.switchots_craft.plank_2": "Spruce plank",
       "item.switchots_craft.goldenhoestring": "Golden hoe",
@@ -33561,8 +36633,10 @@
       "item.switchots_craft.darkshovel_4": "Dark oak shovel",
       "item.switchots_craft.darkshovel_5": "Dark oak shovel",
       "item.switchots_craft.log_bark": "Oak bark",
+      "item.switchots_craft.ironpickaxe_11": "Iron pickaxe",
       "item.switchots_craft.birchhoe_10": "Birch hoe",
       "item.switchots_craft.birchhoe_11": "Birch hoe",
+      "item.switchots_craft.ironpickaxe_10": "Iron pickaxe",
       "item.switchots_craft.mangrovehoe": "Mangrove hoe",
       "item.switchots_craft.netheritehoe": "Netherite hoe",
       "item.switchots_craft.stonehoe_11": "Stone hoe",
@@ -33598,7 +36672,15 @@
       "item.switchots_craft.bamboosword_11": "Bamboo sword",
       "item.switchots_craft.cherryshovel_4": "Cherry shovel",
       "item.switchots_craft.bamboosword_10": "Bamboo sword",
+      "item.switchots_craft.ironaxestring_4": "Iron axe",
+      "item.switchots_craft.ironaxestring_5": "Iron axe",
+      "item.switchots_craft.ironaxestring_2": "Iron axe",
+      "item.switchots_craft.ironaxestring_3": "Iron axe",
       "item.switchots_craft.cherryhatchet": "Cherry hatchet",
+      "item.switchots_craft.ironaxestring_8": "Iron axe",
+      "item.switchots_craft.ironaxestring_9": "Iron axe",
+      "item.switchots_craft.ironaxestring_6": "Iron axe",
+      "item.switchots_craft.ironaxestring_7": "Iron axe",
       "item.switchots_craft.cherryshovel_9": "Cherry shovel",
       "item.switchots_craft.mangroveshovel": "Mangrove shovel",
       "item.switchots_craft.cherryshovel_5": "Cherry shovel",
@@ -33613,12 +36695,22 @@
       "item.switchots_craft.jungleshovel_11": "Jungle shovel",
       "item.switchots_craft.jungleshovel_10": "Jungle shovel",
       "block.switchots_craft.l_200": "Clol 1",
+      "item.switchots_craft.ironhoestring_8": "Iron hoe",
       "item.switchots_craft.bamboohatchet": "Bamboo hatchet",
+      "item.switchots_craft.ironhoestring_9": "Iron hoe",
+      "item.switchots_craft.ironhoestring_6": "Iron hoe",
+      "item.switchots_craft.ironhoestring_7": "Iron hoe",
       "item.switchots_craft.darkoakaxe": "Dark oak axe",
       "item.switchots_craft.diamondaxe": "Diamond axe",
       "item.switchots_craft.goldenhoe": "Golden hoe",
       "item.switchots_craft.junglepickaxe_11": "Jungle pickaxe",
       "item.switchots_craft.junglepickaxe_10": "Jungle pickaxe",
+      "item.switchots_craft.ironsword_11": "Iron sword",
+      "item.switchots_craft.ironsword_10": "Iron sword",
+      "item.switchots_craft.ironhoestring_4": "Iron hoe",
+      "item.switchots_craft.ironhoestring_5": "Iron hoe",
+      "item.switchots_craft.ironhoestring_2": "Iron hoe",
+      "item.switchots_craft.ironhoestring_3": "Iron hoe",
       "item.switchots_craft.oakhoe": "Oak hoe",
       "item.switchots_craft.netheritehoestring": "Netherite hoe",
       "item.switchots_craft.birchshovel_11": "Birch shovel",
@@ -33644,6 +36736,8 @@
       "item.switchots_craft.stoneaxe_5": "Stone axe",
       "item.switchots_craft.stoneaxe_6": "Stone axe",
       "item.switchots_craft.stoneaxe_7": "Stone axe",
+      "item.switchots_craft.ironhoe_11": "Iron hoe",
+      "item.switchots_craft.ironhoe_10": "Iron hoe",
       "item.switchots_craft.mangroveaxe_10": "Mangrove axe",
       "item.switchots_craft.acacioaaxe_9": "Acacia axe",
       "item.switchots_craft.cherryhoe_8": "Cherry hoe",
@@ -33651,8 +36745,10 @@
       "item.switchots_craft.goldenshovel": "Golden shovel",
       "item.switchots_craft.cherry_stick": "Cherry stick",
       "item.switchots_craft.oakshovel": "Oak shovel",
+      "item.switchots_craft.ironaxestring_10": "Iron axe",
       "item.switchots_craft.cherryhoe_2": "Cherry hoe",
       "item.switchots_craft.cherryhoe_3": "Cherry hoe",
+      "item.switchots_craft.ironaxestring_11": "Iron axe",
       "item.switchots_craft.cherryhoe_4": "Cherry hoe",
       "item.switchots_craft.cherryhoe_5": "Cherry hoe",
       "item.switchots_craft.cherryhoe_6": "Cherry hoe",
@@ -33690,16 +36786,36 @@
       "item.switchots_craft.darkoakaxe_7": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_6": "Dark oak axe",
       "item.switchots_craft.oakpickaxe_2": "Oak pickaxe",
+      "item.switchots_craft.ironswordstring_9": "Iron sword",
+      "item.switchots_craft.ironswordstring_7": "Iron sword",
+      "item.switchots_craft.ironswordstring_8": "Iron sword",
       "item.switchots_craft.ironshovel": "Iron shovel",
       "item.switchots_craft.bambooshovel_11": "Bamboo shovel",
       "item.switchots_craft.bambooshovel_10": "Bamboo shovel",
+      "item.switchots_craft.ironshovelstring_11": "Iron shovel",
+      "item.switchots_craft.ironshovelstring_10": "Iron shovel",
+      "item.switchots_craft.ironswordstring_2": "Iron sword",
+      "item.switchots_craft.ironswordstring_5": "Iron sword",
+      "item.switchots_craft.ironswordstring_6": "Iron sword",
+      "item.switchots_craft.ironswordstring_3": "Iron sword",
+      "item.switchots_craft.ironswordstring_4": "Iron sword",
       "item.switchots_craft.mangroveshovel_3": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_4": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_2": "Mangrove shovel",
       "item.switchots_craft.ironsword": "Iron sword",
       "item.switchots_craft.ironhoe": "Iron hoe",
+      "item.switchots_craft.ironsword_3": "Iron sword",
+      "item.switchots_craft.ironsword_2": "Iron sword",
+      "item.switchots_craft.ironsword_7": "Iron sword",
+      "item.switchots_craft.ironsword_6": "Iron sword",
+      "item.switchots_craft.ironsword_5": "Iron sword",
+      "item.switchots_craft.ironsword_4": "Iron sword",
       "block.switchots_craft.cl_10": "Warped cutting log",
+      "item.switchots_craft.ironswordstring_10": "Iron sword",
+      "item.switchots_craft.ironswordstring_11": "Iron sword",
       "item.switchots_craft.spruce_stick": "Spruce stick",
+      "item.switchots_craft.ironpickaxestring_11": "Iron pickaxe",
+      "item.switchots_craft.ironpickaxestring_10": "Iron pickaxe",
       "item.switchots_craft.darkoakrocksaw": "Dark oak saw",
       "item.switchots_craft.acaciarocksaw": "Acacia saw",
       "item.switchots_craft.diamondpickaxestring": "Diamond pickaxe",
@@ -33718,8 +36834,16 @@
       "item.switchots_craft.sprucerocksaw": "Spruce saw",
       "item.switchots_craft.acaciahoe_10": "Acacia hoe",
       "item.switchots_craft.acaciahoe_11": "Acacia hoe",
+      "item.switchots_craft.ironshovel_5": "Iron shovel",
+      "item.switchots_craft.ironshovel_4": "Iron shovel",
+      "item.switchots_craft.ironshovel_3": "Iron shovel",
+      "item.switchots_craft.ironshovel_2": "Iron shovel",
       "item.switchots_craft.birchpickaxe_2": "Birch pickaxe",
       "item.switchots_craft.birchpickaxe_3": "Birch pickaxe",
+      "item.switchots_craft.ironshovel_9": "Iron shovel",
+      "item.switchots_craft.ironshovel_8": "Iron shovel",
+      "item.switchots_craft.ironshovel_7": "Iron shovel",
+      "item.switchots_craft.ironshovel_6": "Iron shovel",
       "item.switchots_craft.spruceshovel_8": "Spruce shovel",
       "item.switchots_craft.spruceshovel_9": "Spruce shovel",
       "item.switchots_craft.spruceshovel_6": "Spruce shovel",
@@ -33784,8 +36908,10 @@
       "item.switchots_craft.bamboohoe_7": "Bamboo hoe",
       "item.switchots_craft.sprucepickaxe": "Spruce pickaxe",
       "item.switchots_craft.bamboohoe_6": "Bamboo hoe",
+      "item.switchots_craft.ironpickaxe_8": "Iron pickaxe",
       "item.switchots_craft.birchaxe_4": "Birch axe",
       "item.switchots_craft.bamboohoe_5": "Bamboo hoe",
+      "item.switchots_craft.ironpickaxe_9": "Iron pickaxe",
       "item.switchots_craft.birchaxe_5": "Birch axe",
       "item.switchots_craft.bamboohoe_4": "Bamboo hoe",
       "item.switchots_craft.birchaxe_6": "Birch axe",
@@ -33803,14 +36929,20 @@
       "block.switchots_craft.l_99": "Clol 1",
       "item.switchots_craft.bamboohoe_2": "Bamboo hoe",
       "item.switchots_craft.bamboopickaxe_11": "Bamboo pickaxe",
+      "item.switchots_craft.ironpickaxe_4": "Iron pickaxe",
       "block.switchots_craft.l_98": "Clol 1",
+      "item.switchots_craft.ironpickaxe_5": "Iron pickaxe",
       "block.switchots_craft.l_97": "Clol 1",
+      "item.switchots_craft.ironpickaxe_6": "Iron pickaxe",
       "block.switchots_craft.l_96": "Clol 1",
+      "item.switchots_craft.ironpickaxe_7": "Iron pickaxe",
       "block.switchots_craft.l_95": "Clol 1",
       "block.switchots_craft.l_94": "Clol 1",
       "block.switchots_craft.l_93": "Clol 1",
+      "item.switchots_craft.ironpickaxe_2": "Iron pickaxe",
       "block.switchots_craft.l_92": "Clol 1",
       "item.switchots_craft.bamboopickaxe_10": "Bamboo pickaxe",
+      "item.switchots_craft.ironpickaxe_3": "Iron pickaxe",
       "item.switchots_craft.jungleaxe_11": "Jungle axe",
       "item.switchots_craft.jungleaxe_10": "Jungle axe",
       "item.switchots_craft.stonehoe": "Stone hoe",
@@ -33952,8 +37084,11 @@
       "item.switchots_craft.warpedsword_2": "Warped sword",
       "item.switchots_craft.junglepickaxe_9": "Jungle pickaxe",
       "item.switchots_craft.acaciahoe_9": "Acacia hoe",
+      "item.switchots_craft.ironpickaxestring_9": "Iron pickaxe",
       "item.switchots_craft.acaciahoe_8": "Acacia hoe",
+      "item.switchots_craft.ironpickaxestring_8": "Iron pickaxe",
       "item.switchots_craft.acaciahoe_7": "Acacia hoe",
+      "item.switchots_craft.ironpickaxestring_7": "Iron pickaxe",
       "item.switchots_craft.acaciahoe_6": "Acacia hoe",
       "item.switchots_craft.crimsonshovel_11": "Crimson shovel",
       "item.switchots_craft.junglepickaxe_3": "Jungle pickaxe",
@@ -33977,6 +37112,7 @@
       "item.switchots_craft.ironpickaxe": "Iron pickaxe",
       "item.switchots_craft.oakaxe": "Oak axe",
       "item.switchots_craft.spruceaxe_8": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_2": "Iron pickaxe",
       "block.switchots_craft.l_29": "Clol 1",
       "item.switchots_craft.spruceaxe_7": "Spruce axe",
       "block.switchots_craft.l_28": "Clol 1",
@@ -33985,11 +37121,15 @@
       "item.switchots_craft.spruceaxe_5": "Spruce axe",
       "block.switchots_craft.l_26": "Clol 1",
       "item.switchots_craft.spruceaxe_4": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_6": "Iron pickaxe",
       "block.switchots_craft.l_25": "Clol 1",
       "item.switchots_craft.spruceaxe_3": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_5": "Iron pickaxe",
       "block.switchots_craft.l_24": "Clol 1",
       "item.switchots_craft.spruceaxe_2": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_4": "Iron pickaxe",
       "block.switchots_craft.l_23": "Clol 1",
+      "item.switchots_craft.ironpickaxestring_3": "Iron pickaxe",
       "block.switchots_craft.l_22": "Clol 1",
       "item.switchots_craft.birchshovel_2": "Birch shovel",
       "block.switchots_craft.l_21": "Clol 1",
@@ -34067,13 +37207,13 @@
       "item.switchots_craft.acaciashovel_9": "Acacia shovel",
       "item.switchots_craft.acaciashovel_8": "Acacia shovel",
       "item.switchots_craft.acaciashovel_3": "Acacia shovel",
-      "item.switchots_craft.acaciashovel_2": "Acacia shovel",
       "item.switchots_craft.acaciasword": "Jungle sword",
+      "item.switchots_craft.acaciashovel_2": "Acacia shovel",
       "item.switchots_craft.acaciashovel_5": "Acacia shovel",
       "item.switchots_craft.acaciashovel_4": "Acacia shovel",
       "item.switchots_craft.stonepickaxe_9": "Stone pickaxe",
-      "item.switchots_craft.darkoakaxe_11": "Dark oak axe",
       "item.switchots_craft.stoneshovel": "Stone hoe",
+      "item.switchots_craft.darkoakaxe_11": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_10": "Dark oak axe",
       "item.switchots_craft.crimsonshovel_9": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_8": "Crimson shovel",
@@ -34087,8 +37227,8 @@
       "item.switchots_craft.oakshovel_6": "Oak shovel",
       "item.switchots_craft.oakshovel_7": "Oak shovel",
       "item.switchots_craft.oakshovel_8": "Oak shovel",
-      "item.switchots_craft.oakshovel_2": "Oak shovel",
       "item.switchots_craft.netheriteaxe": "Netherite sword",
+      "item.switchots_craft.oakshovel_2": "Oak shovel",
       "item.switchots_craft.oakshovel_3": "Oak shovel",
       "item.switchots_craft.oakshovel_4": "Oak shovel",
       "item.switchots_craft.oakshovel_9": "Oak shovel",
@@ -34102,14 +37242,14 @@
       "item.switchots_craft.warpedrocksaw": "Crimson saw",
       "item.switchots_craft.jungleaxe_2": "Jungle axe",
       "item.switchots_craft.jungleaxe_3": "Jungle axe",
-      "block.switchots_craft.l_109": "Clol 1",
       "item.switchots_craft.jungleaxe_6": "Jungle axe",
+      "block.switchots_craft.l_109": "Clol 1",
       "block.switchots_craft.l_108": "Clol 1",
       "item.switchots_craft.jungleaxe_7": "Jungle axe",
-      "block.switchots_craft.l_107": "Clol 1",
       "item.switchots_craft.jungleaxe_4": "Jungle axe",
-      "block.switchots_craft.l_106": "Clol 1",
+      "block.switchots_craft.l_107": "Clol 1",
       "item.switchots_craft.jungleaxe_5": "Jungle axe",
+      "block.switchots_craft.l_106": "Clol 1",
       "item.switchots_craft.jungleaxe_8": "Jungle axe",
       "item.switchots_craft.jungleaxe_9": "Jungle axe",
       "block.switchots_craft.l_112": "Clol 1",
@@ -34127,10 +37267,10 @@
       "item.switchots_craft.acaciapickaxe_5": "Acacia pickaxe",
       "item.switchots_craft.warpedaxe_5": "Warped axe",
       "item.switchots_craft.acaciapickaxe_4": "Acacia pickaxe",
-      "item.switchots_craft.warpedaxe_2": "Warped axe",
       "item.switchots_craft.acaciapickaxe_7": "Acacia pickaxe",
-      "item.switchots_craft.warpedaxe_3": "Warped axe",
+      "item.switchots_craft.warpedaxe_2": "Warped axe",
       "item.switchots_craft.acaciapickaxe_6": "Acacia pickaxe",
+      "item.switchots_craft.warpedaxe_3": "Warped axe",
       "item.switchots_craft.acaciapickaxe_9": "Acacia pickaxe",
       "item.switchots_craft.acaciapickaxe_8": "Acacia pickaxe",
       "item.switchots_craft.jungleshovel_9": "Jungle shovel",
@@ -34141,9 +37281,11 @@
       "block.switchots_craft.l_119": "Clol 1",
       "item.switchots_craft.jungleshovel_8": "Jungle shovel",
       "item.switchots_craft.stonesword_3": "Stone sword",
+      "item.switchots_craft.ironhoestring_11": "Iron hoe",
       "block.switchots_craft.l_118": "Clol 1",
       "item.switchots_craft.jungleshovel_5": "Jungle shovel",
       "item.switchots_craft.stonesword_2": "Stone sword",
+      "item.switchots_craft.ironhoestring_10": "Iron hoe",
       "block.switchots_craft.l_117": "Clol 1",
       "item.switchots_craft.jungleshovel_6": "Jungle shovel",
       "item.switchots_craft.jungleshovel_3": "Jungle shovel",
@@ -34157,10 +37299,10 @@
       "item.switchots_craft.stonesword_5": "Stone sword",
       "block.switchots_craft.l_123": "Clol 1",
       "block.switchots_craft.l_122": "Clol 1",
-      "item.switchots_craft.sprucehoe": "Oak hoe",
       "block.switchots_craft.l_121": "Clol 1",
-      "block.switchots_craft.l_120": "Clol 1",
+      "item.switchots_craft.sprucehoe": "Oak hoe",
       "item.switchots_craft.stonesword_9": "Stone sword",
+      "block.switchots_craft.l_120": "Clol 1",
       "block.switchots_craft.l_127": "Clol 1",
       "block.switchots_craft.l_126": "Clol 1",
       "block.switchots_craft.l_125": "Clol 1",
@@ -34168,15 +37310,15 @@
       "block.switchots_craft.l_2": "Clol 1",
       "block.switchots_craft.l_1": "Clol 1",
       "item.switchots_craft.cherryshovel": "Mangrove shovel",
-      "block.switchots_craft.l_4": "Clol 1",
       "item.switchots_craft.oakpickaxe_11": "Oak pickaxe",
-      "block.switchots_craft.l_3": "Clol 1",
-      "item.switchots_craft.mangroverocksaw": "Dark oak saw",
+      "block.switchots_craft.l_4": "Clol 1",
       "item.switchots_craft.oakpickaxe_10": "Oak pickaxe",
-      "item.switchots_craft.birchtale_3": "Birch axe",
+      "item.switchots_craft.mangroverocksaw": "Dark oak saw",
+      "block.switchots_craft.l_3": "Clol 1",
       "block.switchots_craft.l_6": "Clol 1",
-      "block.switchots_craft.l_5": "Clol 1",
+      "item.switchots_craft.birchtale_3": "Birch axe",
       "item.switchots_craft.jungleaxe": "Birch axe",
+      "block.switchots_craft.l_5": "Clol 1",
       "block.switchots_craft.l_8": "Clol 1",
       "block.switchots_craft.l_7": "Clol 1",
       "block.switchots_craft.l_9": "Clol 1",
@@ -34229,7 +37371,9 @@
       "block.switchots_craft.p_87": "Clol 1",
       "block.switchots_craft.l_159": "Clol 1",
       "block.switchots_craft.p_89": "Clol 1",
+      "item.switchots_craft.ironshovel_11": "Iron shovel",
       "block.switchots_craft.l_158": "Clol 1",
+      "item.switchots_craft.ironshovel_10": "Iron shovel",
       "block.switchots_craft.l_157": "Clol 1",
       "item.switchots_craft.stonehoe_6": "Stone hoe",
       "item.switchots_craft.stonehoe_7": "Stone hoe",
@@ -34243,18 +37387,23 @@
       "item.switchots_craft.oaksword_10": "Oak sword",
       "item.switchots_craft.oaksword_11": "Oak sword",
       "item.switchots_craft.acaciapickaxe_10": "Acacia pickaxe",
+      "item.switchots_craft.ironshovelstring_3": "Iron shovel",
       "item.switchots_craft.cherrysword": "Mangrove sword",
+      "item.switchots_craft.ironshovelstring_4": "Iron shovel",
       "block.switchots_craft.p_91": "Clol 1",
       "item.switchots_craft.goldensword": "Golden sword",
       "block.switchots_craft.p_90": "Clol 1",
       "item.switchots_craft.acaciaaxde_5": "Acacia axe",
+      "item.switchots_craft.ironshovelstring_2": "Iron shovel",
       "block.switchots_craft.p_93": "Clol 1",
       "item.switchots_craft.stoneshovel_11": "Stone shovel",
       "block.switchots_craft.p_92": "Clol 1",
       "item.switchots_craft.stoneshovel_10": "Stone shovel",
       "block.switchots_craft.p_95": "Clol 1",
+      "item.switchots_craft.ironaxe_10": "Iron axe",
       "block.switchots_craft.p_94": "Clol 1",
       "item.switchots_craft.acaciapickaxe_11": "Acacia pickaxe",
+      "item.switchots_craft.ironaxe_11": "Iron axe",
       "block.switchots_craft.l_167": "Clol 1",
       "block.switchots_craft.p_75": "Clol 1",
       "block.switchots_craft.l_166": "Clol 1",
@@ -34262,12 +37411,17 @@
       "block.switchots_craft.l_165": "Clol 1",
       "block.switchots_craft.p_77": "Clol 1",
       "item.switchots_craft.warpedpickaxe": "Crimson pickaxe",
+      "item.switchots_craft.ironshovelstring_9": "Iron shovel",
       "block.switchots_craft.l_164": "Clol 1",
       "block.switchots_craft.p_76": "Clol 1",
       "block.switchots_craft.p_79": "Clol 1",
+      "item.switchots_craft.ironshovelstring_7": "Iron shovel",
       "block.switchots_craft.p_78": "Clol 1",
+      "item.switchots_craft.ironshovelstring_8": "Iron shovel",
       "block.switchots_craft.l_169": "Clol 1",
+      "item.switchots_craft.ironshovelstring_5": "Iron shovel",
       "block.switchots_craft.l_168": "Clol 1",
+      "item.switchots_craft.ironshovelstring_6": "Iron shovel",
       "block.switchots_craft.l_163": "Clol 1",
       "block.switchots_craft.l_162": "Clol 1",
       "block.switchots_craft.l_161": "Clol 1",
@@ -34284,15 +37438,20 @@
       "block.switchots_craft.l_177": "Clol 1",
       "block.switchots_craft.p_63": "Clol 1",
       "item.switchots_craft.crimsonhoe_11": "Crimson hoe",
+      "item.switchots_craft.ironaxe_2": "Iron axe",
       "block.switchots_craft.l_176": "Clol 1",
       "block.switchots_craft.p_66": "Clol 1",
       "item.switchots_craft.crimsonhoe_10": "Crimson hoe",
       "block.switchots_craft.l_175": "Clol 1",
       "block.switchots_craft.p_65": "Clol 1",
       "block.switchots_craft.p_68": "Clol 1",
+      "item.switchots_craft.ironaxe_5": "Iron axe",
       "block.switchots_craft.p_67": "Clol 1",
+      "item.switchots_craft.ironaxe_6": "Iron axe",
+      "item.switchots_craft.ironaxe_3": "Iron axe",
       "block.switchots_craft.l_179": "Clol 1",
       "block.switchots_craft.p_69": "Clol 1",
+      "item.switchots_craft.ironaxe_4": "Iron axe",
       "block.switchots_craft.l_170": "Clol 1",
       "block.switchots_craft.l_174": "Clol 1",
       "block.switchots_craft.l_173": "Clol 1",
@@ -34301,7 +37460,10 @@
       "item.switchots_craft.cherryshovel_11": "Cherry shovel",
       "item.switchots_craft.cherryshovel_10": "Cherry shovel",
       "item.switchots_craft.mangrovehoe_11": "Mangrove hoe",
+      "item.switchots_craft.ironaxe_9": "Iron axe",
+      "item.switchots_craft.ironaxe_7": "Iron axe",
       "item.switchots_craft.mangrovehoe_10": "Mangrove hoe",
+      "item.switchots_craft.ironaxe_8": "Iron axe",
       "block.switchots_craft.p_71": "Clol 1",
       "block.switchots_craft.p_70": "Clol 1",
       "block.switchots_craft.p_73": "Clol 1",
@@ -34463,6 +37625,11 @@
       "item.switchots_craft.darkshovel": "Acacia shovel",
       "item.switchots_craft.cherrypickaxe_2": "Cherry pickaxe",
       "item.switchots_craft.mangrovehatchet": "Dark oak hatchet",
+      "item.switchots_craft.ironhoe_2": "Iron hoe",
+      "item.switchots_craft.ironhoe_3": "Iron hoe",
+      "item.switchots_craft.ironhoe_4": "Iron hoe",
+      "item.switchots_craft.ironhoe_5": "Iron hoe",
+      "item.switchots_craft.ironhoe_6": "Iron hoe",
       "item.switchots_craft.birchsword_2": "birch sword",
       "item.switchots_craft.birchsword_3": "birch sword",
       "item.switchots_craft.fiber_string": "Fibre",
@@ -34560,12 +37727,17 @@
       "item.switchots_craft.bamboo_stick": "Warped stick",
       "item.switchots_craft.darkshovel_11": "Dark oak shovel",
       "item.switchots_craft.darkoaksword": "Acacia sword",
+      "item.switchots_craft.ironhoe_7": "Iron hoe",
+      "item.switchots_craft.ironhoe_8": "Iron hoe",
       "item.switchots_craft.mangrovepickaxe_11": "Mangrove pickaxe",
+      "item.switchots_craft.ironhoe_9": "Iron hoe",
       "item.switchots_craft.mangrovepickaxe_10": "Mangrove pickaxe",
       "item.switchots_craft.darkshovel_10": "Dark oak shovel",
       "item.switchots_craft.ironhoestring": "Iron sword",
       "item.switchots_craft.mangroveshovel_10": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_11": "Mangrove shovel",
+      "item.switchots_craft.ironsword_9": "Iron sword",
+      "item.switchots_craft.ironsword_8": "Iron sword",
       "item.switchots_craft.brichaxe_8": "Birch axe",
       "item.switchots_craft.plank_2": "Planche de sapin",
       "item.switchots_craft.goldenhoestring": "Golden sword",
@@ -34632,8 +37804,10 @@
       "item.switchots_craft.darkshovel_4": "Dark oak shovel",
       "item.switchots_craft.darkshovel_5": "Dark oak shovel",
       "item.switchots_craft.log_bark": "Écorce de chêne",
+      "item.switchots_craft.ironpickaxe_11": "Iron pickaxe",
       "item.switchots_craft.birchhoe_10": "Birch hoe",
       "item.switchots_craft.birchhoe_11": "Birch hoe",
+      "item.switchots_craft.ironpickaxe_10": "Iron pickaxe",
       "item.switchots_craft.mangrovehoe": "Dark oak hoe",
       "item.switchots_craft.netheritehoe": "Netherite sword",
       "item.switchots_craft.stonehoe_11": "Stone hoe",
@@ -34669,7 +37843,15 @@
       "item.switchots_craft.bamboosword_11": "Bamboo sword",
       "item.switchots_craft.cherryshovel_4": "Cherry shovel",
       "item.switchots_craft.bamboosword_10": "Bamboo sword",
+      "item.switchots_craft.ironaxestring_4": "Iron axe",
+      "item.switchots_craft.ironaxestring_5": "Iron axe",
+      "item.switchots_craft.ironaxestring_2": "Iron axe",
+      "item.switchots_craft.ironaxestring_3": "Iron axe",
       "item.switchots_craft.cherryhatchet": "Mangrove hatchet",
+      "item.switchots_craft.ironaxestring_8": "Iron axe",
+      "item.switchots_craft.ironaxestring_9": "Iron axe",
+      "item.switchots_craft.ironaxestring_6": "Iron axe",
+      "item.switchots_craft.ironaxestring_7": "Iron axe",
       "item.switchots_craft.cherryshovel_9": "Cherry shovel",
       "item.switchots_craft.mangroveshovel": "Dark oak shovel",
       "item.switchots_craft.cherryshovel_5": "Cherry shovel",
@@ -34684,12 +37866,22 @@
       "item.switchots_craft.jungleshovel_11": "Jungle shovel",
       "item.switchots_craft.jungleshovel_10": "Jungle shovel",
       "block.switchots_craft.l_200": "Clol 1",
+      "item.switchots_craft.ironhoestring_8": "Iron hoe",
       "item.switchots_craft.bamboohatchet": "Warped hatchet",
+      "item.switchots_craft.ironhoestring_9": "Iron hoe",
+      "item.switchots_craft.ironhoestring_6": "Iron hoe",
+      "item.switchots_craft.ironhoestring_7": "Iron hoe",
       "item.switchots_craft.darkoakaxe": "Acacia axe",
       "item.switchots_craft.diamondaxe": "Diamond sword",
       "item.switchots_craft.goldenhoe": "Golden sword",
       "item.switchots_craft.junglepickaxe_11": "Jungle pickaxe",
       "item.switchots_craft.junglepickaxe_10": "Jungle pickaxe",
+      "item.switchots_craft.ironsword_11": "Iron sword",
+      "item.switchots_craft.ironsword_10": "Iron sword",
+      "item.switchots_craft.ironhoestring_4": "Iron hoe",
+      "item.switchots_craft.ironhoestring_5": "Iron hoe",
+      "item.switchots_craft.ironhoestring_2": "Iron hoe",
+      "item.switchots_craft.ironhoestring_3": "Iron hoe",
       "item.switchots_craft.oakhoe": "Oak hoe",
       "item.switchots_craft.netheritehoestring": "Netherite sword",
       "item.switchots_craft.birchshovel_11": "Birch shovel",
@@ -34715,6 +37907,8 @@
       "item.switchots_craft.stoneaxe_5": "Stone axe",
       "item.switchots_craft.stoneaxe_6": "Stone axe",
       "item.switchots_craft.stoneaxe_7": "Stone axe",
+      "item.switchots_craft.ironhoe_11": "Iron hoe",
+      "item.switchots_craft.ironhoe_10": "Iron hoe",
       "item.switchots_craft.mangroveaxe_10": "Mangrove axe",
       "item.switchots_craft.acacioaaxe_9": "Acacia axe",
       "item.switchots_craft.cherryhoe_8": "Cherry hoe",
@@ -34722,8 +37916,10 @@
       "item.switchots_craft.goldenshovel": "Golden sword",
       "item.switchots_craft.cherry_stick": "Mangrove stick",
       "item.switchots_craft.oakshovel": "Oak shovel",
+      "item.switchots_craft.ironaxestring_10": "Iron axe",
       "item.switchots_craft.cherryhoe_2": "Cherry hoe",
       "item.switchots_craft.cherryhoe_3": "Cherry hoe",
+      "item.switchots_craft.ironaxestring_11": "Iron axe",
       "item.switchots_craft.cherryhoe_4": "Cherry hoe",
       "item.switchots_craft.cherryhoe_5": "Cherry hoe",
       "item.switchots_craft.cherryhoe_6": "Cherry hoe",
@@ -34761,16 +37957,36 @@
       "item.switchots_craft.darkoakaxe_7": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_6": "Dark oak axe",
       "item.switchots_craft.oakpickaxe_2": "Oak pickaxe",
+      "item.switchots_craft.ironswordstring_9": "Iron sword",
+      "item.switchots_craft.ironswordstring_7": "Iron sword",
+      "item.switchots_craft.ironswordstring_8": "Iron sword",
       "item.switchots_craft.ironshovel": "Iron sword",
       "item.switchots_craft.bambooshovel_11": "Bamboo shovel",
       "item.switchots_craft.bambooshovel_10": "Bamboo shovel",
+      "item.switchots_craft.ironshovelstring_11": "Iron shovel",
+      "item.switchots_craft.ironshovelstring_10": "Iron shovel",
+      "item.switchots_craft.ironswordstring_2": "Iron sword",
+      "item.switchots_craft.ironswordstring_5": "Iron sword",
+      "item.switchots_craft.ironswordstring_6": "Iron sword",
+      "item.switchots_craft.ironswordstring_3": "Iron sword",
+      "item.switchots_craft.ironswordstring_4": "Iron sword",
       "item.switchots_craft.mangroveshovel_3": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_4": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_2": "Mangrove shovel",
       "item.switchots_craft.ironsword": "Iron sword",
       "item.switchots_craft.ironhoe": "Iron sword",
+      "item.switchots_craft.ironsword_3": "Iron sword",
+      "item.switchots_craft.ironsword_2": "Iron sword",
+      "item.switchots_craft.ironsword_7": "Iron sword",
+      "item.switchots_craft.ironsword_6": "Iron sword",
+      "item.switchots_craft.ironsword_5": "Iron sword",
+      "item.switchots_craft.ironsword_4": "Iron sword",
       "block.switchots_craft.cl_10": "Bûche de coupe biscornue",
+      "item.switchots_craft.ironswordstring_10": "Iron sword",
+      "item.switchots_craft.ironswordstring_11": "Iron sword",
       "item.switchots_craft.spruce_stick": "Spruce stick",
+      "item.switchots_craft.ironpickaxestring_11": "Iron pickaxe",
+      "item.switchots_craft.ironpickaxestring_10": "Iron pickaxe",
       "item.switchots_craft.darkoakrocksaw": "Acacia saw",
       "item.switchots_craft.acaciarocksaw": "Jungle saw",
       "item.switchots_craft.diamondpickaxestring": "Diamond sword",
@@ -34789,8 +38005,16 @@
       "item.switchots_craft.sprucerocksaw": "Oak saw",
       "item.switchots_craft.acaciahoe_10": "Acacia hoe",
       "item.switchots_craft.acaciahoe_11": "Acacia hoe",
+      "item.switchots_craft.ironshovel_5": "Iron shovel",
+      "item.switchots_craft.ironshovel_4": "Iron shovel",
+      "item.switchots_craft.ironshovel_3": "Iron shovel",
+      "item.switchots_craft.ironshovel_2": "Iron shovel",
       "item.switchots_craft.birchpickaxe_2": "Birch pickaxe",
       "item.switchots_craft.birchpickaxe_3": "Birch pickaxe",
+      "item.switchots_craft.ironshovel_9": "Iron shovel",
+      "item.switchots_craft.ironshovel_8": "Iron shovel",
+      "item.switchots_craft.ironshovel_7": "Iron shovel",
+      "item.switchots_craft.ironshovel_6": "Iron shovel",
       "item.switchots_craft.spruceshovel_8": "Spruce shovel",
       "item.switchots_craft.spruceshovel_9": "Spruce shovel",
       "item.switchots_craft.spruceshovel_6": "Spruce shovel",
@@ -34855,8 +38079,10 @@
       "item.switchots_craft.bamboohoe_7": "Bamboo hoe",
       "item.switchots_craft.sprucepickaxe": "Oak pickaxe",
       "item.switchots_craft.bamboohoe_6": "Bamboo hoe",
+      "item.switchots_craft.ironpickaxe_8": "Iron pickaxe",
       "item.switchots_craft.birchaxe_4": "Birch axe",
       "item.switchots_craft.bamboohoe_5": "Bamboo hoe",
+      "item.switchots_craft.ironpickaxe_9": "Iron pickaxe",
       "item.switchots_craft.birchaxe_5": "Birch axe",
       "item.switchots_craft.bamboohoe_4": "Bamboo hoe",
       "item.switchots_craft.birchaxe_6": "Birch axe",
@@ -34874,14 +38100,20 @@
       "block.switchots_craft.l_99": "Clol 1",
       "item.switchots_craft.bamboohoe_2": "Bamboo hoe",
       "item.switchots_craft.bamboopickaxe_11": "Bamboo pickaxe",
+      "item.switchots_craft.ironpickaxe_4": "Iron pickaxe",
       "block.switchots_craft.l_98": "Clol 1",
+      "item.switchots_craft.ironpickaxe_5": "Iron pickaxe",
       "block.switchots_craft.l_97": "Clol 1",
+      "item.switchots_craft.ironpickaxe_6": "Iron pickaxe",
       "block.switchots_craft.l_96": "Clol 1",
+      "item.switchots_craft.ironpickaxe_7": "Iron pickaxe",
       "block.switchots_craft.l_95": "Clol 1",
       "block.switchots_craft.l_94": "Clol 1",
       "block.switchots_craft.l_93": "Clol 1",
+      "item.switchots_craft.ironpickaxe_2": "Iron pickaxe",
       "block.switchots_craft.l_92": "Clol 1",
       "item.switchots_craft.bamboopickaxe_10": "Bamboo pickaxe",
+      "item.switchots_craft.ironpickaxe_3": "Iron pickaxe",
       "item.switchots_craft.jungleaxe_11": "Jungle axe",
       "item.switchots_craft.jungleaxe_10": "Jungle axe",
       "item.switchots_craft.stonehoe": "Stone axe",
@@ -35023,8 +38255,11 @@
       "item.switchots_craft.warpedsword_2": "Warped sword",
       "item.switchots_craft.junglepickaxe_9": "Jungle pickaxe",
       "item.switchots_craft.acaciahoe_9": "Acacia hoe",
+      "item.switchots_craft.ironpickaxestring_9": "Iron pickaxe",
       "item.switchots_craft.acaciahoe_8": "Acacia hoe",
+      "item.switchots_craft.ironpickaxestring_8": "Iron pickaxe",
       "item.switchots_craft.acaciahoe_7": "Acacia hoe",
+      "item.switchots_craft.ironpickaxestring_7": "Iron pickaxe",
       "item.switchots_craft.acaciahoe_6": "Acacia hoe",
       "item.switchots_craft.crimsonshovel_11": "Crimson shovel",
       "item.switchots_craft.junglepickaxe_3": "Jungle pickaxe",
@@ -35048,6 +38283,7 @@
       "item.switchots_craft.ironpickaxe": "Iron sword",
       "item.switchots_craft.oakaxe": "Oak axe",
       "item.switchots_craft.spruceaxe_8": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_2": "Iron pickaxe",
       "block.switchots_craft.l_29": "Clol 1",
       "item.switchots_craft.spruceaxe_7": "Spruce axe",
       "block.switchots_craft.l_28": "Clol 1",
@@ -35056,11 +38292,15 @@
       "item.switchots_craft.spruceaxe_5": "Spruce axe",
       "block.switchots_craft.l_26": "Clol 1",
       "item.switchots_craft.spruceaxe_4": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_6": "Iron pickaxe",
       "block.switchots_craft.l_25": "Clol 1",
       "item.switchots_craft.spruceaxe_3": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_5": "Iron pickaxe",
       "block.switchots_craft.l_24": "Clol 1",
       "item.switchots_craft.spruceaxe_2": "Spruce axe",
+      "item.switchots_craft.ironpickaxestring_4": "Iron pickaxe",
       "block.switchots_craft.l_23": "Clol 1",
+      "item.switchots_craft.ironpickaxestring_3": "Iron pickaxe",
       "block.switchots_craft.l_22": "Clol 1",
       "item.switchots_craft.birchshovel_2": "Birch shovel",
       "block.switchots_craft.l_21": "Clol 1",
