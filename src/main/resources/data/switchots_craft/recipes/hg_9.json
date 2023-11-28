@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01 ",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "switchots_craft:crimson_stick"
+    },
+    "5": {
+      "item": "switchots_craft:fibesr_string"
+    },
+    "7": {
+      "item": "switchots_craft:crimson_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:goldenhoe_9",
+    "count": 1
+  }
+}

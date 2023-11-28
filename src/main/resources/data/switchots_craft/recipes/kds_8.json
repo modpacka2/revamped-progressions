@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "switchots_craft:cherry_stick"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "switchots_craft:cherry_stick"
+    }
+  },
+  "result": {
+    "item": "switchots_craft:diamondpickaxestring_8",
+    "count": 1
+  }
+}
