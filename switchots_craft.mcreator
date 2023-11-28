@@ -42093,6 +42093,357 @@
         ]
       },
       "path": "~/colorfull world/gold"
+    },
+    {
+      "name": "Netheritetemplate",
+      "type": "item",
+      "sortid": 2812,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritetemplate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/NetheritetemplateItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/netheritetemplate.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Nethertemp1",
+      "type": "recipe",
+      "sortid": 2813,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nethertemp_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/nethertemp_1.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Swords",
+      "type": "tag",
+      "sortid": 2814,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "swords",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/swords.json"
+        ]
+      }
+    },
+    {
+      "name": "Pickaxes",
+      "type": "tag",
+      "sortid": 2815,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/pickaxes.json"
+        ]
+      }
+    },
+    {
+      "name": "Hoes",
+      "type": "tag",
+      "sortid": 2816,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/hoes.json"
+        ]
+      }
+    },
+    {
+      "name": "Shovels",
+      "type": "tag",
+      "sortid": 2817,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovels",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/shovels.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondfiberstringswords",
+      "type": "tag",
+      "sortid": 2818,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondfiberstringswords",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondfiberstringswords.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondfiberstringaxes",
+      "type": "tag",
+      "sortid": 2819,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondfiberstringaxes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondfiberstringaxes.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondfiberstringpickaxes",
+      "type": "tag",
+      "sortid": 2820,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondfiberstringpickaxes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondfiberstringpickaxes.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondfiberstringhoes",
+      "type": "tag",
+      "sortid": 2821,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondfiberstringhoes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondfiberstringhoes.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondfiberstringshovels",
+      "type": "tag",
+      "sortid": 2822,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondfiberstringshovels",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondfiberstringshovels.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondstringswords",
+      "type": "tag",
+      "sortid": 2823,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondstringswords",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondstringswords.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondstringaxes",
+      "type": "tag",
+      "sortid": 2824,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondstringaxes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondstringaxes.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondstringpickaxes",
+      "type": "tag",
+      "sortid": 2825,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondstringpickaxes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondstringpickaxes.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondstringhoes",
+      "type": "tag",
+      "sortid": 2826,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondstringhoes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondstringhoes.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondstringshovels",
+      "type": "tag",
+      "sortid": 2827,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondstringshovels",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/diamondstringshovels.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritesswords1",
+      "type": "recipe",
+      "sortid": 2828,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritesswords_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritesswords_1.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritesswords2",
+      "type": "recipe",
+      "sortid": 2829,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritesswords_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritesswords_2.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritespickaxes1",
+      "type": "recipe",
+      "sortid": 2830,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritespickaxes_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritespickaxes_1.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritespickaxes2",
+      "type": "recipe",
+      "sortid": 2831,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritespickaxes_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritespickaxes_2.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritesaxes1",
+      "type": "recipe",
+      "sortid": 2832,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritesaxes_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritesaxes_1.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritesaxes2",
+      "type": "recipe",
+      "sortid": 2833,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritesaxes_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritesaxes_2.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheriteshoes1",
+      "type": "recipe",
+      "sortid": 2834,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteshoes_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheriteshoes_1.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheriteshoes2",
+      "type": "recipe",
+      "sortid": 2835,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteshoes_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheriteshoes_2.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritesshovels",
+      "type": "recipe",
+      "sortid": 2836,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritesshovels",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritesshovels.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Netheritesshovels2",
+      "type": "recipe",
+      "sortid": 2837,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritesshovels_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/netheritesshovels_2.json"
+        ]
+      },
+      "path": "~/colorfull world/netherite"
     }
   ],
   "variable_elements": [],
@@ -43272,6 +43623,7 @@
       "item.switchots_craft.sprucesword_9": "Spruce sword",
       "item.switchots_craft.sprucesword_8": "Spruce sword",
       "item.switchots_craft.acaciashovel_10": "Acacia shovel",
+      "item.switchots_craft.netheritetemplate": "Netherite template",
       "item.switchots_craft.acaciashovel_11": "Acacia shovel",
       "item.switchots_craft.acaciasword_10": "Acacia sword",
       "item.switchots_craft.bamboopickaxe": "Bamboo pickaxe",
@@ -44643,6 +44995,7 @@
       "item.switchots_craft.sprucesword_9": "Spruce sword",
       "item.switchots_craft.sprucesword_8": "Spruce sword",
       "item.switchots_craft.acaciashovel_10": "Acacia shovel",
+      "item.switchots_craft.netheritetemplate": "Netherite template",
       "item.switchots_craft.acaciashovel_11": "Acacia shovel",
       "item.switchots_craft.acaciasword_10": "Acacia sword",
       "item.switchots_craft.bamboopickaxe": "Warped pickaxe",

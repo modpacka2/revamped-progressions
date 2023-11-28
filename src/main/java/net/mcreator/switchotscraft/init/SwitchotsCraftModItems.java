@@ -253,6 +253,7 @@ import net.mcreator.switchotscraft.item.Oakaxe3Item;
 import net.mcreator.switchotscraft.item.Oakaxe2Item;
 import net.mcreator.switchotscraft.item.Oakaxe11Item;
 import net.mcreator.switchotscraft.item.Oakaxe10Item;
+import net.mcreator.switchotscraft.item.NetheritetemplateItem;
 import net.mcreator.switchotscraft.item.NetheriteswordstringItem;
 import net.mcreator.switchotscraft.item.NetheriteswordItem;
 import net.mcreator.switchotscraft.item.NetheriteshovelstringItem;
@@ -2442,6 +2443,7 @@ public class SwitchotsCraftModItems {
 	public static final RegistryObject<Item> GOLDENSHOVELSTRING_9 = REGISTRY.register("goldenshovelstring_9", () -> new Goldenshovelstring9Item());
 	public static final RegistryObject<Item> GOLDENSHOVELSTRING_10 = REGISTRY.register("goldenshovelstring_10", () -> new Goldenshovelstring10Item());
 	public static final RegistryObject<Item> GOLDENSHOVELSTRING_11 = REGISTRY.register("goldenshovelstring_11", () -> new Goldenshovelstring11Item());
+	public static final RegistryObject<Item> NETHERITETEMPLATE = REGISTRY.register("netheritetemplate", () -> new NetheritetemplateItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

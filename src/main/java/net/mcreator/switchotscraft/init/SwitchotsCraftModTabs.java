@@ -1086,5 +1086,6 @@ public class SwitchotsCraftModTabs {
 				tabData.accept(SwitchotsCraftModItems.GOLDENSHOVELSTRING_9.get());
 				tabData.accept(SwitchotsCraftModItems.GOLDENSHOVELSTRING_10.get());
 				tabData.accept(SwitchotsCraftModItems.GOLDENSHOVELSTRING_11.get());
+				tabData.accept(SwitchotsCraftModItems.NETHERITETEMPLATE.get());
 			}).withSearchBar().build());
 }
