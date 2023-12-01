@@ -26,7 +26,7 @@
         "value": "CUSTOM:FibesrString"
       }
     ],
-    "immuneToFire": false,
+    "immuneToFire": true,
     "stayInGridWhenCrafting": true,
     "damageOnCrafting": true
   }

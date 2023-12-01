@@ -1,0 +1,45 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Plank1"
+      },
+      {
+        "value": "CUSTOM:Plank2"
+      },
+      {
+        "value": "CUSTOM:Plank3"
+      },
+      {
+        "value": "CUSTOM:Plank4"
+      },
+      {
+        "value": "CUSTOM:Plank5"
+      },
+      {
+        "value": "CUSTOM:Plank6"
+      },
+      {
+        "value": "CUSTOM:Plank7"
+      },
+      {
+        "value": "CUSTOM:Plank8"
+      },
+      {
+        "value": "CUSTOM:Plank9"
+      },
+      {
+        "value": "CUSTOM:Plank10"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "cutplanks",
+    "namespace": "forge"
+  }
+}

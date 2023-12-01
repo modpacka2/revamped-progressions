@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "switchots_craft:warpedhatchet",
+    "switchots_craft:crimsonhatchet",
+    "switchots_craft:sprucehatchet",
+    "switchots_craft:junglehatchet",
+    "switchots_craft:birchhatchet",
+    "switchots_craft:cherryhatchet",
+    "switchots_craft:bamboohatchet",
+    "switchots_craft:acaciahatchet",
+    "switchots_craft:dark_oakhatchet",
+    "switchots_craft:oakhatchet",
+    "switchots_craft:mangrovehatchet"
+  ]
+}

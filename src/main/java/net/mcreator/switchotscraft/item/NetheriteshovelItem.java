@@ -40,7 +40,7 @@ public class NetheriteshovelItem extends ShovelItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(SwitchotsCraftModItems.FIBESR_STRING.get()));
 			}
-		}, 1, -2.4f, new Item.Properties());
+		}, 1, -2.4f, new Item.Properties().fireResistant());
 	}
 
 	@Override

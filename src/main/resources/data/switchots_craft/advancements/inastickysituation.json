@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "switchots_craft:oakstick"
+    },
+    "title": {
+      "translate": "advancements.inastickysituation.title"
+    },
+    "description": {
+      "translate": "advancements.inastickysituation.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inastickysituation": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "switchots_craft:justenoughtstone"
+}

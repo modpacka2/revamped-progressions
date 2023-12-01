@@ -39,7 +39,7 @@ public class NetheritehoestringItem extends HoeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.STRING));
 			}
-		}, 0, 0f, new Item.Properties());
+		}, 0, 0f, new Item.Properties().fireResistant());
 	}
 
 	@Override

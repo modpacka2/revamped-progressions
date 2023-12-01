@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "switchots_craft:log_bark"
+    },
+    "title": {
+      "translate": "advancements.lumberjack.title"
+    },
+    "description": {
+      "translate": "advancements.lumberjack.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lumberjack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "switchots_craft:thistocutsometree"
+}

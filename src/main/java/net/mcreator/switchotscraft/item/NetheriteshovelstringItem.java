@@ -39,7 +39,7 @@ public class NetheriteshovelstringItem extends ShovelItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.STRING));
 			}
-		}, 1, -2.4f, new Item.Properties());
+		}, 1, -2.4f, new Item.Properties().fireResistant());
 	}
 
 	@Override

@@ -39,7 +39,7 @@ public class NetheritepickaxestringItem extends PickaxeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.STRING));
 			}
-		}, 1, -2.8f, new Item.Properties());
+		}, 1, -2.8f, new Item.Properties().fireResistant());
 	}
 
 	@Override

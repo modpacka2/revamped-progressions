@@ -40,7 +40,7 @@ public class NetheritehoeItem extends HoeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(SwitchotsCraftModItems.FIBESR_STRING.get()));
 			}
-		}, 0, 0f, new Item.Properties());
+		}, 0, 0f, new Item.Properties().fireResistant());
 	}
 
 	@Override

@@ -11,7 +11,8 @@
         "files": [
           "src/main/resources/data/minecraft/tags/blocks/dirt.json"
         ]
-      }
+      },
+      "path": "~/tag/minecrafttag"
     },
     {
       "name": "LogBlocks",
@@ -24,7 +25,8 @@
         "files": [
           "src/main/resources/data/minecraft/tags/blocks/logs.json"
         ]
-      }
+      },
+      "path": "~/tag/minecrafttag"
     },
     {
       "name": "NoDestroyableTree",
@@ -574,7 +576,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/bark.json"
         ]
-      }
+      },
+      "path": "~/tag/ressourcetag"
     },
     {
       "name": "FiberString",
@@ -1215,7 +1218,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/axes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Sixlog",
@@ -7527,7 +7531,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/axes_t_1.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "AxesT2",
@@ -7540,7 +7545,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/axes_t_2.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "AxesT3",
@@ -7553,7 +7559,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/axes_t_3.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Chopclick2",
@@ -11464,7 +11471,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/saw.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Sprucerocksaw",
@@ -12240,7 +12248,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/stick.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Actirailr",
@@ -12561,7 +12570,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/coal.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Crossbow",
@@ -12714,7 +12724,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/soulcoal.json"
         ]
-      }
+      },
+      "path": "~/tag/ressourcetag"
     },
     {
       "name": "Soulcampire",
@@ -42134,7 +42145,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/swords.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Pickaxes",
@@ -42147,7 +42159,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/pickaxes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Hoes",
@@ -42160,7 +42173,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/hoes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Shovels",
@@ -42173,7 +42187,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/shovels.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondfiberstringswords",
@@ -42186,7 +42201,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondfiberstringswords.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondfiberstringaxes",
@@ -42199,7 +42215,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondfiberstringaxes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondfiberstringpickaxes",
@@ -42212,7 +42229,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondfiberstringpickaxes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondfiberstringhoes",
@@ -42225,7 +42243,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondfiberstringhoes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondfiberstringshovels",
@@ -42238,7 +42257,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondfiberstringshovels.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondstringswords",
@@ -42251,7 +42271,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondstringswords.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondstringaxes",
@@ -42264,7 +42285,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondstringaxes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondstringpickaxes",
@@ -42277,7 +42299,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondstringpickaxes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondstringhoes",
@@ -42290,7 +42313,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondstringhoes.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Diamondstringshovels",
@@ -42303,7 +42327,8 @@
         "files": [
           "src/main/resources/data/forge/tags/items/diamondstringshovels.json"
         ]
-      }
+      },
+      "path": "~/tag/Tools tag"
     },
     {
       "name": "Netheritesswords1",
@@ -42444,6 +42469,367 @@
         ]
       },
       "path": "~/colorfull world/netherite"
+    },
+    {
+      "name": "Ironchip",
+      "type": "item",
+      "sortid": 2838,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironchip",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/switchots_craft/models/item/ironchip.json",
+          "src/main/java/net/mcreator/switchotscraft/item/IronchipItem.java"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Saddle",
+      "type": "recipe",
+      "sortid": 2839,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saddle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/saddle.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Nametag",
+      "type": "recipe",
+      "sortid": 2840,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nametag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/nametag.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Armorhorse1",
+      "type": "recipe",
+      "sortid": 2841,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armorhorse_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/armorhorse_1.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Armorhorse2",
+      "type": "recipe",
+      "sortid": 2842,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armorhorse_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/armorhorse_2.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Armorhorse3",
+      "type": "recipe",
+      "sortid": 2843,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armorhorse_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/armorhorse_3.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Armorhorse4",
+      "type": "recipe",
+      "sortid": 2844,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armorhorse_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/armorhorse_4.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Ironchipcraft",
+      "type": "recipe",
+      "sortid": 2845,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironchipcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ironchipcraft.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Ironchipuncraft",
+      "type": "recipe",
+      "sortid": 2846,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironchipuncraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/ironchipuncraft.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Gravel",
+      "type": "loottable",
+      "sortid": 2847,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gravel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/loot_tables/blocks/gravel.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Craftingtablecraft",
+      "type": "recipe",
+      "sortid": 2848,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftingtablecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crafting_table.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Justenoughtstone",
+      "type": "achievement",
+      "sortid": 2849,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "justenoughtstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/advancements/justenoughtstone.json"
+        ]
+      },
+      "path": "~/advencement"
+    },
+    {
+      "name": "Onthefiber",
+      "type": "achievement",
+      "sortid": 2850,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onthefiber",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/advancements/onthefiber.json"
+        ]
+      },
+      "path": "~/advencement"
+    },
+    {
+      "name": "Inastickysituation",
+      "type": "achievement",
+      "sortid": 2851,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inastickysituation",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/advancements/inastickysituation.json"
+        ]
+      },
+      "path": "~/advencement"
+    },
+    {
+      "name": "Getstickysituationadvancement",
+      "type": "procedure",
+      "sortid": 2852,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getstickysituationadvancement",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/GetstickysituationadvancementProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/advencement/proceduregiveadvancement"
+    },
+    {
+      "name": "Thistocutsometree",
+      "type": "achievement",
+      "sortid": 2853,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thistocutsometree",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/advancements/thistocutsometree.json"
+        ]
+      },
+      "path": "~/advencement"
+    },
+    {
+      "name": "Gethatchetadvancement",
+      "type": "procedure",
+      "sortid": 2854,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gethatchetadvancement",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/GethatchetadvancementProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/advencement/proceduregiveadvancement"
+    },
+    {
+      "name": "Hatchet",
+      "type": "tag",
+      "sortid": 2855,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hatchet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/hatchet.json"
+        ]
+      },
+      "path": "~/tag/Tools tag"
+    },
+    {
+      "name": "Lumberjack",
+      "type": "achievement",
+      "sortid": 2856,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lumberjack",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/advancements/lumberjack.json"
+        ]
+      },
+      "path": "~/advencement"
+    },
+    {
+      "name": "Plank",
+      "type": "achievement",
+      "sortid": 2857,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plank",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/advancements/plank.json"
+        ]
+      },
+      "path": "~/advencement"
+    },
+    {
+      "name": "Getcuttinglogadvancement",
+      "type": "procedure",
+      "sortid": 2858,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getcuttinglogadvancement",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/GetcuttinglogadvancementProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/advencement/proceduregiveadvancement"
+    },
+    {
+      "name": "Getplankadvancement",
+      "type": "procedure",
+      "sortid": 2859,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getplankadvancement",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/GetplankadvancementProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/advencement/proceduregiveadvancement"
+    },
+    {
+      "name": "Cuttinglogs",
+      "type": "tag",
+      "sortid": 2860,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuttinglogs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/cuttinglogs.json"
+        ]
+      },
+      "path": "~/tag/otherstag"
+    },
+    {
+      "name": "Cutplanks",
+      "type": "tag",
+      "sortid": 2861,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cutplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/cutplanks.json"
+        ]
+      },
+      "path": "~/tag/ressourcetag"
     }
   ],
   "variable_elements": [],
@@ -42460,8 +42846,8 @@
       "item.switchots_craft.goldenswordstring_2": "Golden sword",
       "item.switchots_craft.goldenswordstring_3": "Golden sword",
       "item.switchots_craft.goldenswordstring_4": "Golden sword",
-      "item.switchots_craft.birch_stick": "Birch stick",
       "item.switchots_craft.goldenswordstring_5": "Golden sword",
+      "item.switchots_craft.birch_stick": "Birch stick",
       "item.switchots_craft.goldenswordstring_6": "Golden sword",
       "item.switchots_craft.goldenswordstring_7": "Golden sword",
       "item.switchots_craft.goldenswordstring_8": "Golden sword",
@@ -42498,6 +42884,7 @@
       "item.switchots_craft.crimsonshovel_7": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_6": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_5": "Crimson shovel",
+      "advancements.justenoughtstone.descr": "Get a basic rock",
       "item.switchots_craft.crimsonshovel_4": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_3": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_2": "Crimson shovel",
@@ -42532,6 +42919,7 @@
       "item.switchots_craft.jungleaxe_9": "Jungle axe",
       "block.switchots_craft.l_112": "Clol 1",
       "block.switchots_craft.l_111": "Clol 1",
+      "advancements.onthefiber.title": "I\u0027m fibing",
       "block.switchots_craft.l_110": "Clol 1",
       "block.switchots_craft.l_116": "Clol 1",
       "block.switchots_craft.l_115": "Clol 1",
@@ -42849,6 +43237,7 @@
       "item.switchots_craft.diamondswordstring_7": "Diamond sword",
       "item.switchots_craft.crimsonaxe": "Crimson axe",
       "item.switchots_craft.diamondswordstring_9": "Diamond sword",
+      "advancements.inastickysituation.descr": "Get a stick",
       "item.switchots_craft.diamondpickaxe": "Diamond pickaxe",
       "block.switchots_craft.p_40": "Clol 1",
       "block.switchots_craft.p_20": "Clol 1",
@@ -43086,6 +43475,7 @@
       "item.switchots_craft.goldenpickaxestring_10": "Golden pickaxe",
       "item.switchots_craft.crimsonsword_11": "Crimson sword",
       "item.switchots_craft.goldenshovel_4": "Golden shovel",
+      "advancements.inastickysituation.title": "In a sticky situation",
       "item.switchots_craft.goldenpickaxestring_11": "Golden pickaxe",
       "item.switchots_craft.goldenshovel_3": "Golden shovel",
       "item.switchots_craft.goldenshovel_2": "Golden shovel",
@@ -43295,6 +43685,7 @@
       "item.switchots_craft.darkoakaxe_4": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_3": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_2": "Dark oak axe",
+      "advancements.lumberjack.descr": "Get a cutting log",
       "item.switchots_craft.stoneshovel_3": "Stone shovel",
       "item.switchots_craft.stoneshovel_4": "Stone shovel",
       "item.switchots_craft.goldaxestring_10": "Golden axe",
@@ -43341,6 +43732,7 @@
       "item.switchots_craft.ironswordstring_6": "Iron sword",
       "item.switchots_craft.ironswordstring_3": "Iron sword",
       "item.switchots_craft.ironswordstring_4": "Iron sword",
+      "advancements.plank.title": "Plank!!!",
       "item.switchots_craft.mangroveshovel_3": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_4": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_2": "Mangrove shovel",
@@ -43363,6 +43755,7 @@
       "item.switchots_craft.ironswordstring_10": "Iron sword",
       "item.switchots_craft.ironswordstring_11": "Iron sword",
       "item.switchots_craft.spruce_stick": "Spruce stick",
+      "advancements.thistocutsometree.title": "Time to cut some tree",
       "item.switchots_craft.goldenpickaxe_9": "Golden pickaxe",
       "item.switchots_craft.ironpickaxestring_11": "Iron pickaxe",
       "item.switchots_craft.ironpickaxestring_10": "Iron pickaxe",
@@ -43456,6 +43849,7 @@
       "item.switchots_craft.warpedshovel_7": "Warped shovel",
       "item.switchots_craft.darkpickaxe": "Dark oak pickaxe",
       "item.switchots_craft.oakpickaxe": "Oak pickaxe",
+      "advancements.onthefiber.descr": "Get a fiber string",
       "item.switchots_craft.netheritepickaxe": "Netherite pickaxe",
       "item.switchots_craft.diamondpickaxe_9": "Diamond pickaxe",
       "item.switchots_craft.diamondpickaxe_8": "Diamond pickaxe",
@@ -43480,6 +43874,7 @@
       "item.switchots_craft.stoneaxe_10": "Stone axe",
       "item.switchots_craft.dark_oakhatchet": "Dark oak hatchet",
       "item.switchots_craft.goldenhoestring_9": "Golden hoe",
+      "item.switchots_craft.ironchip": "Ironchip",
       "item.switchots_craft.goldenhoestring_7": "Golden hoe",
       "item.switchots_craft.goldenhoestring_8": "Golden hoe",
       "item.switchots_craft.bigfiber": "Fiber bundle",
@@ -43763,6 +44158,7 @@
       "item.switchots_craft.goldenaxe": "Golden axe",
       "block.switchots_craft.l_20": "Clol 1",
       "item.switchots_craft.birchshovel_4": "Birch shovel",
+      "advancements.lumberjack.title": "Lumberjack",
       "item.switchots_craft.birchshovel_5": "Birch shovel",
       "item.switchots_craft.birchshovel_6": "Birch shovel",
       "item.switchots_craft.birchshovel_7": "Birch shovel",
@@ -43772,7 +44168,9 @@
       "item.switchots_craft.birchshovel_9": "Birch shovel",
       "item.switchots_craft.stonesword_10": "Stone sword",
       "item.switchots_craft.bambooaxe_11": "Bamboo axe",
+      "advancements.plank.descr": "Get your first plank",
       "item.switchots_craft.bambooaxe_10": "Bamboo axe",
+      "advancements.thistocutsometree.descr": "Get an hatchet",
       "item.switchots_craft.spruceaxe_10": "Spruce axe",
       "item.switchots_craft.spruceaxe_11": "Spruce axe",
       "item.switchots_craft.junglesword_9": "Jungle sword",
@@ -43790,6 +44188,7 @@
       "item.switchots_craft.mangroveaxe_4": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_3": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_2": "Mangrove axe",
+      "advancements.justenoughtstone.title": "Just enought stone",
       "item.switchots_craft.birchaxe_11": "Birch axe",
       "item.switchots_craft.birchaxe_10": "Birch axe",
       "item.switchots_craft.birchaxe_2": "Birch axe",
@@ -43832,8 +44231,8 @@
       "item.switchots_craft.goldenswordstring_2": "Golden sword",
       "item.switchots_craft.goldenswordstring_3": "Golden sword",
       "item.switchots_craft.goldenswordstring_4": "Golden sword",
-      "item.switchots_craft.birch_stick": "Oak stick",
       "item.switchots_craft.goldenswordstring_5": "Golden sword",
+      "item.switchots_craft.birch_stick": "Oak stick",
       "item.switchots_craft.goldenswordstring_6": "Golden sword",
       "item.switchots_craft.goldenswordstring_7": "Golden sword",
       "item.switchots_craft.goldenswordstring_8": "Golden sword",
@@ -43870,6 +44269,7 @@
       "item.switchots_craft.crimsonshovel_7": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_6": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_5": "Crimson shovel",
+      "advancements.justenoughtstone.descr": "Get a basic rock",
       "item.switchots_craft.crimsonshovel_4": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_3": "Crimson shovel",
       "item.switchots_craft.crimsonshovel_2": "Crimson shovel",
@@ -43904,6 +44304,7 @@
       "item.switchots_craft.jungleaxe_9": "Jungle axe",
       "block.switchots_craft.l_112": "Clol 1",
       "block.switchots_craft.l_111": "Clol 1",
+      "advancements.onthefiber.title": "I\u0027m fibing",
       "block.switchots_craft.l_110": "Clol 1",
       "block.switchots_craft.l_116": "Clol 1",
       "block.switchots_craft.l_115": "Clol 1",
@@ -44221,6 +44622,7 @@
       "item.switchots_craft.diamondswordstring_7": "Diamond sword",
       "item.switchots_craft.crimsonaxe": "Cherry axe",
       "item.switchots_craft.diamondswordstring_9": "Diamond sword",
+      "advancements.inastickysituation.descr": "Get a stick",
       "item.switchots_craft.diamondpickaxe": "Diamond sword",
       "block.switchots_craft.p_40": "Clol 1",
       "block.switchots_craft.p_20": "Clol 1",
@@ -44458,6 +44860,7 @@
       "item.switchots_craft.goldenpickaxestring_10": "Golden pickaxe",
       "item.switchots_craft.crimsonsword_11": "Crimson sword",
       "item.switchots_craft.goldenshovel_4": "Golden shovel",
+      "advancements.inastickysituation.title": "In a sticky situation",
       "item.switchots_craft.goldenpickaxestring_11": "Golden pickaxe",
       "item.switchots_craft.goldenshovel_3": "Golden shovel",
       "item.switchots_craft.goldenshovel_2": "Golden shovel",
@@ -44667,6 +45070,7 @@
       "item.switchots_craft.darkoakaxe_4": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_3": "Dark oak axe",
       "item.switchots_craft.darkoakaxe_2": "Dark oak axe",
+      "advancements.lumberjack.descr": "Get a cutting log",
       "item.switchots_craft.stoneshovel_3": "Stone shovel",
       "item.switchots_craft.stoneshovel_4": "Stone shovel",
       "item.switchots_craft.goldaxestring_10": "Golden axe",
@@ -44713,6 +45117,7 @@
       "item.switchots_craft.ironswordstring_6": "Iron sword",
       "item.switchots_craft.ironswordstring_3": "Iron sword",
       "item.switchots_craft.ironswordstring_4": "Iron sword",
+      "advancements.plank.title": "Plank!!!",
       "item.switchots_craft.mangroveshovel_3": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_4": "Mangrove shovel",
       "item.switchots_craft.mangroveshovel_2": "Mangrove shovel",
@@ -44735,6 +45140,7 @@
       "item.switchots_craft.ironswordstring_10": "Iron sword",
       "item.switchots_craft.ironswordstring_11": "Iron sword",
       "item.switchots_craft.spruce_stick": "Spruce stick",
+      "advancements.thistocutsometree.title": "Time to cut some tree",
       "item.switchots_craft.goldenpickaxe_9": "Golden pickaxe",
       "item.switchots_craft.ironpickaxestring_11": "Iron pickaxe",
       "item.switchots_craft.ironpickaxestring_10": "Iron pickaxe",
@@ -44828,6 +45234,7 @@
       "item.switchots_craft.warpedshovel_7": "Warped shovel",
       "item.switchots_craft.darkpickaxe": "Acacia pickaxe",
       "item.switchots_craft.oakpickaxe": "Oak pickaxe",
+      "advancements.onthefiber.descr": "Get a fiber string",
       "item.switchots_craft.netheritepickaxe": "Netherite sword",
       "item.switchots_craft.diamondpickaxe_9": "Diamond pickaxe",
       "item.switchots_craft.diamondpickaxe_8": "Diamond pickaxe",
@@ -44852,6 +45259,7 @@
       "item.switchots_craft.stoneaxe_10": "Stone axe",
       "item.switchots_craft.dark_oakhatchet": "Acacia hatchet",
       "item.switchots_craft.goldenhoestring_9": "Golden hoe",
+      "item.switchots_craft.ironchip": "Ironchip",
       "item.switchots_craft.goldenhoestring_7": "Golden hoe",
       "item.switchots_craft.goldenhoestring_8": "Golden hoe",
       "item.switchots_craft.bigfiber": "Lot de fibre",
@@ -45135,6 +45543,7 @@
       "item.switchots_craft.goldenaxe": "Golden sword",
       "block.switchots_craft.l_20": "Clol 1",
       "item.switchots_craft.birchshovel_4": "Birch shovel",
+      "advancements.lumberjack.title": "Lumberjack",
       "item.switchots_craft.birchshovel_5": "Birch shovel",
       "item.switchots_craft.birchshovel_6": "Birch shovel",
       "item.switchots_craft.birchshovel_7": "Birch shovel",
@@ -45144,7 +45553,9 @@
       "item.switchots_craft.birchshovel_9": "Birch shovel",
       "item.switchots_craft.stonesword_10": "Stone sword",
       "item.switchots_craft.bambooaxe_11": "Bamboo axe",
+      "advancements.plank.descr": "Get your first plank",
       "item.switchots_craft.bambooaxe_10": "Bamboo axe",
+      "advancements.thistocutsometree.descr": "Get an hatchet",
       "item.switchots_craft.spruceaxe_10": "Spruce axe",
       "item.switchots_craft.spruceaxe_11": "Spruce axe",
       "item.switchots_craft.junglesword_9": "Jungle sword",
@@ -45162,6 +45573,7 @@
       "item.switchots_craft.mangroveaxe_4": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_3": "Mangrove axe",
       "item.switchots_craft.mangroveaxe_2": "Mangrove axe",
+      "advancements.justenoughtstone.title": "Just enought stone",
       "item.switchots_craft.birchaxe_11": "Birch axe",
       "item.switchots_craft.birchaxe_10": "Birch axe",
       "item.switchots_craft.birchaxe_2": "Birch axe",
@@ -45242,6 +45654,40 @@
           },
           {
             "name": "netherite",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "wooden to crafting table",
+        "children": []
+      },
+      {
+        "name": "tag",
+        "children": [
+          {
+            "name": "Tools tag",
+            "children": []
+          },
+          {
+            "name": "minecrafttag",
+            "children": []
+          },
+          {
+            "name": "ressourcetag",
+            "children": []
+          },
+          {
+            "name": "otherstag",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "advencement",
+        "children": [
+          {
+            "name": "proceduregiveadvancement",
             "children": []
           }
         ]

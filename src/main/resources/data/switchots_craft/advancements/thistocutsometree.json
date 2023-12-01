@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "switchots_craft:oakhatchet"
+    },
+    "title": {
+      "translate": "advancements.thistocutsometree.title"
+    },
+    "description": {
+      "translate": "advancements.thistocutsometree.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thistocutsometree": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "switchots_craft:inastickysituation"
+}

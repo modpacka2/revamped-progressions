@@ -39,7 +39,7 @@ public class NetheriteswordstringItem extends SwordItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.STRING));
 			}
-		}, 3, -2.4f, new Item.Properties());
+		}, 3, -2.4f, new Item.Properties().fireResistant());
 	}
 
 	@Override

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "switchots_craft:ironchip"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "switchots_craft:ironchip"
+    }
+  ],
+  "result": {
+    "item": "minecraft:saddle",
+    "count": 1
+  }
+}

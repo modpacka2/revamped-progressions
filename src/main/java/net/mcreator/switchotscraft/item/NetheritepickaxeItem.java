@@ -40,7 +40,7 @@ public class NetheritepickaxeItem extends PickaxeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(SwitchotsCraftModItems.FIBESR_STRING.get()));
 			}
-		}, 1, -2.8f, new Item.Properties());
+		}, 1, -2.8f, new Item.Properties().fireResistant());
 	}
 
 	@Override

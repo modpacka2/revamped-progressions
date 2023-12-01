@@ -39,7 +39,7 @@ public class NetheriteaxestringItem extends AxeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.STRING));
 			}
-		}, 1, -3f, new Item.Properties());
+		}, 1, -3f, new Item.Properties().fireResistant());
 	}
 
 	@Override
