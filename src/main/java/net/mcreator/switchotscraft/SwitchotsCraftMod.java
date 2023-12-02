@@ -32,6 +32,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.switchotscraft.init.SwitchotsCraftModTabs;
 import net.mcreator.switchotscraft.init.SwitchotsCraftModMenus;
 import net.mcreator.switchotscraft.init.SwitchotsCraftModItems;
+import net.mcreator.switchotscraft.init.SwitchotsCraftModEnchantments;
 import net.mcreator.switchotscraft.init.SwitchotsCraftModBlocks;
 
 import java.util.function.Supplier;
@@ -56,6 +57,7 @@ public class SwitchotsCraftMod {
 
 		SwitchotsCraftModItems.REGISTRY.register(bus);
 
+		SwitchotsCraftModEnchantments.REGISTRY.register(bus);
 		SwitchotsCraftModTabs.REGISTRY.register(bus);
 
 		SwitchotsCraftModMenus.REGISTRY.register(bus);
