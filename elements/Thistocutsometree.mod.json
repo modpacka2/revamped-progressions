@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Time to cut some tree",
-    "achievementDescription": "Get an hatchet",
+    "achievementDescription": "Get a hatchet",
     "achievementIcon": {
       "value": "CUSTOM:Oakhatchet"
     },

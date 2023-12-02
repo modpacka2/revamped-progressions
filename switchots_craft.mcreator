@@ -42830,6 +42830,260 @@
         ]
       },
       "path": "~/tag/ressourcetag"
+    },
+    {
+      "name": "Wooluncraft",
+      "type": "recipe",
+      "sortid": 2862,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooluncraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/switchots_craft/recipes/wooluncraft.json"
+        ]
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark1",
+      "type": "itemextension",
+      "sortid": 2863,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_1",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark2",
+      "type": "itemextension",
+      "sortid": 2864,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_2",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark3",
+      "type": "itemextension",
+      "sortid": 2865,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_3",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark4",
+      "type": "itemextension",
+      "sortid": 2866,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_4",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark5",
+      "type": "itemextension",
+      "sortid": 2867,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_5",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark6",
+      "type": "itemextension",
+      "sortid": 2868,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_6",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark7",
+      "type": "itemextension",
+      "sortid": 2869,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_7",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark8",
+      "type": "itemextension",
+      "sortid": 2870,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_8",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark9",
+      "type": "itemextension",
+      "sortid": 2871,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_9",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelbark10",
+      "type": "itemextension",
+      "sortid": 2872,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelbark_10",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank1",
+      "type": "itemextension",
+      "sortid": 2873,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_1",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank2",
+      "type": "itemextension",
+      "sortid": 2874,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_2",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank3",
+      "type": "itemextension",
+      "sortid": 2875,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_3",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank4",
+      "type": "itemextension",
+      "sortid": 2876,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_4",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank5",
+      "type": "itemextension",
+      "sortid": 2877,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_5",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank6",
+      "type": "itemextension",
+      "sortid": 2878,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_6",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank7",
+      "type": "itemextension",
+      "sortid": 2879,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_7",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank8",
+      "type": "itemextension",
+      "sortid": 2880,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_8",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank9",
+      "type": "itemextension",
+      "sortid": 2881,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_9",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
+    },
+    {
+      "name": "Fuelplank10",
+      "type": "itemextension",
+      "sortid": 2882,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fuelplank_10",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/wooden to crafting table"
     }
   ],
   "variable_elements": [],
@@ -42846,8 +43100,8 @@
       "item.switchots_craft.goldenswordstring_2": "Golden sword",
       "item.switchots_craft.goldenswordstring_3": "Golden sword",
       "item.switchots_craft.goldenswordstring_4": "Golden sword",
-      "item.switchots_craft.goldenswordstring_5": "Golden sword",
       "item.switchots_craft.birch_stick": "Birch stick",
+      "item.switchots_craft.goldenswordstring_5": "Golden sword",
       "item.switchots_craft.goldenswordstring_6": "Golden sword",
       "item.switchots_craft.goldenswordstring_7": "Golden sword",
       "item.switchots_craft.goldenswordstring_8": "Golden sword",
@@ -44170,7 +44424,7 @@
       "item.switchots_craft.bambooaxe_11": "Bamboo axe",
       "advancements.plank.descr": "Get your first plank",
       "item.switchots_craft.bambooaxe_10": "Bamboo axe",
-      "advancements.thistocutsometree.descr": "Get an hatchet",
+      "advancements.thistocutsometree.descr": "Get a hatchet",
       "item.switchots_craft.spruceaxe_10": "Spruce axe",
       "item.switchots_craft.spruceaxe_11": "Spruce axe",
       "item.switchots_craft.junglesword_9": "Jungle sword",
@@ -44231,8 +44485,8 @@
       "item.switchots_craft.goldenswordstring_2": "Golden sword",
       "item.switchots_craft.goldenswordstring_3": "Golden sword",
       "item.switchots_craft.goldenswordstring_4": "Golden sword",
-      "item.switchots_craft.goldenswordstring_5": "Golden sword",
       "item.switchots_craft.birch_stick": "Oak stick",
+      "item.switchots_craft.goldenswordstring_5": "Golden sword",
       "item.switchots_craft.goldenswordstring_6": "Golden sword",
       "item.switchots_craft.goldenswordstring_7": "Golden sword",
       "item.switchots_craft.goldenswordstring_8": "Golden sword",
