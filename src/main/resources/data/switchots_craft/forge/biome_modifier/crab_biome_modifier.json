@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "stony_shore",
+    "beach",
+    "river",
+    "mangrove_swamp",
+    "swamp",
+    "snowy_beach"
+  ],
+  "spawners": {
+    "type": "switchots_craft:crab",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

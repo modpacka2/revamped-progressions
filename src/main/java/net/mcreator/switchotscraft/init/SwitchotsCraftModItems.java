@@ -7,6 +7,7 @@ package net.mcreator.switchotscraft.init;
 import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.common.ForgeSpawnEggItem;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
@@ -839,6 +840,7 @@ import net.mcreator.switchotscraft.item.Crimsonaxe2Item;
 import net.mcreator.switchotscraft.item.Crimsonaxe11Item;
 import net.mcreator.switchotscraft.item.Crimsonaxe10Item;
 import net.mcreator.switchotscraft.item.CrimsonStickItem;
+import net.mcreator.switchotscraft.item.CrabclawItem;
 import net.mcreator.switchotscraft.item.CherryswordItem;
 import net.mcreator.switchotscraft.item.Cherrysword9Item;
 import net.mcreator.switchotscraft.item.Cherrysword8Item;
@@ -2446,6 +2448,8 @@ public class SwitchotsCraftModItems {
 	public static final RegistryObject<Item> GOLDENSHOVELSTRING_11 = REGISTRY.register("goldenshovelstring_11", () -> new Goldenshovelstring11Item());
 	public static final RegistryObject<Item> NETHERITETEMPLATE = REGISTRY.register("netheritetemplate", () -> new NetheritetemplateItem());
 	public static final RegistryObject<Item> IRONCHIP = REGISTRY.register("ironchip", () -> new IronchipItem());
+	public static final RegistryObject<Item> CRAB_SPAWN_EGG = REGISTRY.register("crab_spawn_egg", () -> new ForgeSpawnEggItem(SwitchotsCraftModEntities.CRAB, -3381760, -16737895, new Item.Properties()));
+	public static final RegistryObject<Item> CRABCLAW = REGISTRY.register("crabclaw", () -> new CrabclawItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

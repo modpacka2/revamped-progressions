@@ -43184,6 +43184,59 @@
         ]
       },
       "path": "~/enchant or industry"
+    },
+    {
+      "name": "Crab",
+      "type": "animatedentity",
+      "sortid": 2889,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/entity/model/CrabModel.java",
+          "src/main/java/net/mcreator/switchotscraft/client/renderer/CrabRenderer.java",
+          "src/main/resources/data/switchots_craft/forge/biome_modifier/crab_biome_modifier.json",
+          "src/main/java/net/mcreator/switchotscraft/entity/CrabEntity.java",
+          "src/main/resources/assets/switchots_craft/models/item/crab_spawn_egg.json"
+        ]
+      },
+      "path": "~/enchant or industry"
+    },
+    {
+      "name": "CrabclawItemInHandTick",
+      "type": "procedure",
+      "sortid": 2890,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crabclaw_item_in_hand_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/procedures/CrabclawItemInHandTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/enchant or industry"
+    },
+    {
+      "name": "Crabclaw",
+      "type": "item",
+      "sortid": 2891,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crabclaw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/switchotscraft/item/CrabclawItem.java",
+          "src/main/resources/assets/switchots_craft/models/item/crabclaw.json"
+        ]
+      },
+      "path": "~/enchant or industry"
     }
   ],
   "variable_elements": [],
@@ -43200,8 +43253,8 @@
       "item.switchots_craft.goldenswordstring_2": "Golden sword",
       "item.switchots_craft.goldenswordstring_3": "Golden sword",
       "item.switchots_craft.goldenswordstring_4": "Golden sword",
-      "item.switchots_craft.birch_stick": "Birch stick",
       "item.switchots_craft.goldenswordstring_5": "Golden sword",
+      "item.switchots_craft.birch_stick": "Birch stick",
       "item.switchots_craft.goldenswordstring_6": "Golden sword",
       "item.switchots_craft.goldenswordstring_7": "Golden sword",
       "item.switchots_craft.goldenswordstring_8": "Golden sword",
@@ -43283,6 +43336,7 @@
       "item.switchots_craft.warpedaxe_9": "Warped axe",
       "item.switchots_craft.warpedaxe_6": "Warped axe",
       "item.switchots_craft.warpedaxe_7": "Warped axe",
+      "item.switchots_craft.crab_spawn_egg": "Crab Spawn Egg",
       "item.switchots_craft.warpedaxe_4": "Warped axe",
       "item.switchots_craft.acaciapickaxe_5": "Acacia pickaxe",
       "item.switchots_craft.warpedaxe_5": "Warped axe",
@@ -43650,6 +43704,7 @@
       "item.switchots_craft.acaciaaxe_6": "Acacia axe",
       "item.switchots_craft.acaciaaxe_8": "Acacia axe",
       "item.switchots_craft.acaciaaxe_7": "Acacia axe",
+      "entity.switchots_craft.crab": "Crab",
       "item.switchots_craft.goldenaxe_11": "Golden axe",
       "item.switchots_craft.sharp_rock": "Sharp Rock",
       "item.switchots_craft.goldenaxe_10": "Golden axe",
@@ -44020,6 +44075,7 @@
       "item.switchots_craft.cherryhoe_2": "Cherry hoe",
       "item.switchots_craft.cherryhoe_3": "Cherry hoe",
       "item.switchots_craft.ironaxestring_11": "Iron axe",
+      "item.switchots_craft.crabclaw": "Crab claw",
       "item.switchots_craft.cherryhoe_4": "Cherry hoe",
       "item.switchots_craft.cherryhoe_5": "Cherry hoe",
       "item.switchots_craft.cherryhoe_6": "Cherry hoe",
@@ -44589,8 +44645,8 @@
       "item.switchots_craft.goldenswordstring_2": "Golden sword",
       "item.switchots_craft.goldenswordstring_3": "Golden sword",
       "item.switchots_craft.goldenswordstring_4": "Golden sword",
-      "item.switchots_craft.birch_stick": "Oak stick",
       "item.switchots_craft.goldenswordstring_5": "Golden sword",
+      "item.switchots_craft.birch_stick": "Oak stick",
       "item.switchots_craft.goldenswordstring_6": "Golden sword",
       "item.switchots_craft.goldenswordstring_7": "Golden sword",
       "item.switchots_craft.goldenswordstring_8": "Golden sword",
@@ -44672,6 +44728,7 @@
       "item.switchots_craft.warpedaxe_9": "Warped axe",
       "item.switchots_craft.warpedaxe_6": "Warped axe",
       "item.switchots_craft.warpedaxe_7": "Warped axe",
+      "item.switchots_craft.crab_spawn_egg": "Crab Spawn Egg",
       "item.switchots_craft.warpedaxe_4": "Warped axe",
       "item.switchots_craft.acaciapickaxe_5": "Acacia pickaxe",
       "item.switchots_craft.warpedaxe_5": "Warped axe",
@@ -45039,6 +45096,7 @@
       "item.switchots_craft.acaciaaxe_6": "Acacia axe",
       "item.switchots_craft.acaciaaxe_8": "Acacia axe",
       "item.switchots_craft.acaciaaxe_7": "Acacia axe",
+      "entity.switchots_craft.crab": "Crab",
       "item.switchots_craft.goldenaxe_11": "Golden axe",
       "item.switchots_craft.sharp_rock": "Roche coupente",
       "item.switchots_craft.goldenaxe_10": "Golden axe",
@@ -45409,6 +45467,7 @@
       "item.switchots_craft.cherryhoe_2": "Cherry hoe",
       "item.switchots_craft.cherryhoe_3": "Cherry hoe",
       "item.switchots_craft.ironaxestring_11": "Iron axe",
+      "item.switchots_craft.crabclaw": "Crab claw",
       "item.switchots_craft.cherryhoe_4": "Cherry hoe",
       "item.switchots_craft.cherryhoe_5": "Cherry hoe",
       "item.switchots_craft.cherryhoe_6": "Cherry hoe",
@@ -46073,6 +46132,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [
+      "geckolib",
       "JEI"
     ],
     "currentGenerator": "forge-1.20.1",

@@ -20,6 +20,12 @@ authors="cswit, MCreator"
 
 
 [[dependencies.switchots_craft]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.switchots_craft]]
     modId="JEI"
     mandatory=false
     versionRange="[0,)"
